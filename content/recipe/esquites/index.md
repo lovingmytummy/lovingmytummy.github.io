@@ -4,6 +4,7 @@ ref: esquites
 image: true
 time: 2
 category: snacks
+origin: Italian
 tags:
   - fast
   - corn
