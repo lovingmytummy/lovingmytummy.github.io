@@ -3,7 +3,7 @@ languageCode: en-us
 title: Summer QRemix
 theme: summer-qremix
 params:
-  tagline: Delicious & healthy recipes
+  tagline: Delicious && healthy recipes
   copyright: >-
     © 2017-2022 [Connor Bär](https://twitter.com/connor_baer). © 2022 [Pim
     Snel](https://github.com/mipmip). All rights reserved.
