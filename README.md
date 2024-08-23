@@ -18,3 +18,9 @@ Port of the Jekyll [Summer theme](https://github.com/connor-baer/summer) made by
 Open sourced under the [MIT license](LICENSE.md).
 
 💛
+
+## How to
+1. Install [Hugo](https://gohugo.io/installation/)
+2. run: `hugo` in the repository folder.
+3. run: `hugo server`.
+4. Go to: `http://localhost:1313/`
