@@ -5,6 +5,7 @@ image: true
 time: 7
 category: snacks
 tags:
+  - italian 🇮🇹
   - spicy
 ingredients:
   - name: sliced bread
@@ -26,7 +27,7 @@ side_image: ./images/bruschetta.png
 2. Add the spicy oil.
 3. Place one or two anchovies per slice of bread.
 4. Put them in the oven at 180°C (350°F) for 5 minutes (or until the bread is slightly toasted).
-
+🇮🇹
 ---
 
 _From [Pizzeria Papa Luigi](https://maps.app.goo.gl/wTpAwbJGC6yX76Vn9)._

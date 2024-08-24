@@ -6,7 +6,8 @@ time: 60
 category: lunch
 tags:
   - rice
-  - Japanese
+  - japanese 🇯🇵
+  - asian
 ingredients:
   - name: round rice
     amount: 2
