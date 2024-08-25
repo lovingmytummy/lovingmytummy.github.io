@@ -6,7 +6,7 @@ time: 2
 category: snacks
 tags:
   - fast
-  - spicy
+  - spicy🌶️
   - vegetarian
   - mexican 🇲🇽
 ingredients:
@@ -16,7 +16,7 @@ ingredients:
   - name: Parmessan cheese (or Grana Padano)
     amount: null
     unit: null
-  - name: chili powder (or hot paprika)
+  - name: ground chili (chili powder or hot paprika)
     amount: null
     unit: null
   - name: lime (or lemon)
