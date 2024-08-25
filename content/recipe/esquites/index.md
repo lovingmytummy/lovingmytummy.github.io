@@ -6,6 +6,7 @@ time: 2
 category: snacks
 tags:
   - fast
+  - gluten-free
   - vegetarian
   - spicy🌶️
   - mexican 🇲🇽

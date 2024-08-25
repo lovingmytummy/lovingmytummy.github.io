@@ -7,7 +7,7 @@ category: brunch
 tags:
   - sandwich
   - baguette
-  - fish 🦈
+  - fish🦈
 ingredients:
   - name: baguette
     amount: 1

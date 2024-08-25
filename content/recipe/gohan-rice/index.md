@@ -6,6 +6,7 @@ time: 60
 category: lunch
 tags:
   - vegan
+  - gluten-free
   - asian
   - japanese 🇯🇵
 ingredients:

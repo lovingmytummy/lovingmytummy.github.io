@@ -6,9 +6,9 @@ time: 20
 category: snacks
 tags:
   - sweet
-  - lentils
   - donuts
   - vegetarian
+  - gluten-free
 ingredients:
   - name: large eggs
     amount: 2

@@ -5,6 +5,7 @@ image: true
 time: 7
 category: lunch
 tags:
+  - gluten-free
   - meat🥩
   - asian
   - japanese 🇯🇵
