@@ -7,6 +7,7 @@ category: brunch
 tags:
   - sandwich
   - baguette
+  - fish 🦈
 ingredients:
   - name: baguette
     amount: 1
@@ -20,10 +21,10 @@ ingredients:
   - name: piquillo pepper
     amount: null
     unit: null
-  - name: Pitted green olives
+  - name: pitted green olives
     amount: null
     unit: null
-side_image: ./images/mediterranean_sandwich.jpg
+side_image: ./images/aigen.jpeg
 ---
 
 No instructions required.
@@ -31,3 +32,5 @@ No instructions required.
 ---
 
 _From [Pans & Company](https://www.pansandcompany.com/)._
+
+<img src="images/mediterranean_sandwich.jpg" style="width:250px; float:right;"/>

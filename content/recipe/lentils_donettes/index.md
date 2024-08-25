@@ -34,7 +34,7 @@ ingredients:
   - name: vanilla
     amount: null
     unit: null
-side_image: ./images/lentis_donettes.png
+side_image: ./images/aigen.jpg
 ---
 
 Quantities for 28 small donuts.
@@ -48,3 +48,5 @@ Quantities for 28 small donuts.
 ---
 
 _From [Instagram @marisel.orozco](https://www.instagram.com/p/Ck8Z8h-DhS1/?igshid=MzRlODBiNWFlZA==)._
+
+<img src="images/lentis_donettes.png" style="width:250px; float:right;"/>

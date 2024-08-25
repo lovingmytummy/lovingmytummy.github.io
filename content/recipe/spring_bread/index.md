@@ -30,7 +30,7 @@ ingredients:
   - name: candied garlic (optional)
     amount: null
     unit: null
-side_image: ./images/spring_bread.png
+side_image: ./images/aigen.jpeg
 ---
 
 1. Toast the bread with the olive oil. 
@@ -42,3 +42,5 @@ You can also replace the tomato with cherry tomatoes.
 ---
 
 _From [Pizzeria Primavera](https://pizzeriaprimavera.es/)._
+
+<img src="images/spring_bread.png" style="width:250px; float:right;"/>

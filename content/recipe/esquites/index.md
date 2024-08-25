@@ -6,8 +6,8 @@ time: 2
 category: snacks
 tags:
   - fast
-  - spicy🌶️
   - vegetarian
+  - spicy🌶️
   - mexican 🇲🇽
 ingredients:
   - name: sweet corn
@@ -22,7 +22,7 @@ ingredients:
   - name: lime (or lemon)
     amount: null
     unit: null
-side_image: ./images/esquites.jpg
+side_image: ./images/aigen.jpg
 ---
 
 1. Mix all the ingredients in a glass.
@@ -30,3 +30,5 @@ side_image: ./images/esquites.jpg
 ---
 
 _From [Tako Away](https://www.tako-away.es/)._
+
+<img src="images/esquites.jpg" style="width:250px; float:right;"/>

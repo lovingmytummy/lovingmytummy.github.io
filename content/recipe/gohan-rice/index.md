@@ -5,6 +5,7 @@ image: true
 time: 60
 category: lunch
 tags:
+  - vegan
   - asian
   - japanese 🇯🇵
 ingredients:
@@ -14,7 +15,7 @@ ingredients:
   - name: water
     amount: 2
     unit: cups
-side_image: ./images/gohan-rice.jpg
+side_image: ./images/aigen.jpeg
 ---
 
 Use round or bomba rice (avoid basmati or long-grain rice).
@@ -32,3 +33,6 @@ Use round or bomba rice (avoid basmati or long-grain rice).
 ---
 
 _From [Instagram @yamamotokitchen](https://www.instagram.com/reel/C6br4_wqA67/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+
+
+<img src="images/gohan_rice.png" style="width:250px; float:right;"/>
