@@ -8,6 +8,7 @@ tags:
   - sweet
   - lentils
   - donuts
+  - vegetarian
 ingredients:
   - name: large eggs
     amount: 2

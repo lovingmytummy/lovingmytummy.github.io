@@ -12,7 +12,7 @@ const searchOptions = {
     { name: 'ingredients', attr: 'data-ingredients' }
   ],
   fuzzySearch: {
-    searchClass: 'search',
+    searchClass: 'fuzzy-search',
     location: 0,
     distance: 20,
     threshold: 0.4,
@@ -42,7 +42,6 @@ function filterList() {
     if (checkCategory[m].checked) {
       const valueCategory = checkCategory[m].value;
       checkedCategory.push(valueCategory);
-      console.log(checkedCategory);
     }
   }
 
@@ -59,7 +58,6 @@ function filterList() {
     if (checkMeat[o].checked) {
       const valueMeat = checkMeat[o].value;
       checkedMeat.push(valueMeat);
-      console.log(checkedMeat);
     }
   }
 

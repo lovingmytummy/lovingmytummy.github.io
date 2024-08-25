@@ -5,8 +5,8 @@ image: true
 time: 7
 category: snacks
 tags:
-  - italian 🇮🇹
   - spicy
+  - italian 🇮🇹
 ingredients:
   - name: sliced bread
     amount: null

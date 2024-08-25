@@ -6,9 +6,9 @@ time: 2
 category: snacks
 tags:
   - fast
-  - corn
   - spicy
-  - cold
+  - vegetarian
+  - mexican 🇲🇽
 ingredients:
   - name: sweet corn
     amount: 1
