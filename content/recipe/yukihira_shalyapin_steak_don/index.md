@@ -2,7 +2,7 @@
 title: Yukihira style shalyapin steak don
 ref: yukihira-style-shalyapin-steak-don
 image: true
-time: 7
+time: 60
 category: lunch
 tags:
   - gluten-free
