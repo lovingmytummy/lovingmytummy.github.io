@@ -9,6 +9,7 @@ tags:
   - gluten-free
   - vegetarian
   - spicy🌶️
+  - latin-american🌎
   - mexican 🇲🇽
 ingredients:
   - name: sweet corn

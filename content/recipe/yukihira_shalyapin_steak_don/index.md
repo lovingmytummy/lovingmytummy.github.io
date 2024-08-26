@@ -7,7 +7,7 @@ category: lunch
 tags:
   - gluten-free
   - meat🥩
-  - asian
+  - asian🌏
   - japanese 🇯🇵
 ingredients:
   - name: beef sirloin

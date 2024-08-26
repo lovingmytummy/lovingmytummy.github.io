@@ -13,6 +13,7 @@
 
     <header class="content hero">
       <a id="{{ .Params.title | urlize }}"><h1 class="hero-title">{{ $.Site.Params.tagline }}</h1></a>
+      <h2 class="hero-title" style="font-size:1rem;">{{ len (where .Site.RegularPages "Section" "=" "recipe") }} recipes</h2>
     </header>
   </div>
 
@@ -89,20 +90,24 @@
           <span class="searchbar-button">Fish</span>
         </label>
       </fieldset>
-      <!-- <fieldset class="searchbar-group">
-        <label for="asian">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="asian" value="asian">
-          <span class="searchbar-button">Asian</span>
-        </label>
+      <fieldset class="searchbar-group">
         <label for="italian">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="italian" value="italian">
-          <span class="searchbar-button">Italian</span>
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="italian" value="italian 🇮🇹">
+          <span class="searchbar-button">Italian 🇮🇹</span>
         </label>
-        <label for="latin-american">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="latin-american" value="latin-american">
-          <span class="searchbar-button">Latin American</span>
+        <label for="asian">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="asian" value="asian🌏">
+          <span class="searchbar-button">Asian🌏</span>
         </label>
-      </fieldset> -->
+        <label for="japanese">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="japanese" value="japanese 🇯🇵">
+          <span class="searchbar-button">Japanese 🇯🇵</span>
+        </label>
+        <label for="american">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="american" value="latin-american🌎">
+          <span class="searchbar-button">Latin-American🌎</span>
+        </label>
+      </fieldset>
     </form>
 
 

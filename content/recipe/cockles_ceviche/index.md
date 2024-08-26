@@ -7,7 +7,7 @@ category: lunch
 tags:
   - seafood🦪
   - gluten-free
-  - latin-american
+  - latin-american🌎
   - peruan 🇵🇪
 ingredients:
   - name: cockles

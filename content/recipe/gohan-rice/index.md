@@ -7,7 +7,7 @@ category: lunch
 tags:
   - vegan
   - gluten-free
-  - asian
+  - asian🌏
   - japanese 🇯🇵
 ingredients:
   - name: round rice
