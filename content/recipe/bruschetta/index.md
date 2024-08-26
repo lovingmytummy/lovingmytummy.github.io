@@ -3,7 +3,7 @@ title: Bruschetta
 ref: bruschetta
 image: true
 time: 7
-category: snacks
+category: brunch
 tags:
   - fish🦈
   - spicy🌶️

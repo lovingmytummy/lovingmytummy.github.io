@@ -8,6 +8,7 @@ tags:
   - sandwich
   - baguette
   - fish🦈
+  - spanish 🇪🇸
 ingredients:
   - name: baguette
     amount: 1

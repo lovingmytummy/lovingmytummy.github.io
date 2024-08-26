@@ -1,12 +1,14 @@
 ---
-title: Chocolate heart-shaped pastry
-ref: chocolate-heart-shaped-pastry
+title: Chocolate palm heart
+ref: chocolate-palm-heart
 image: true
 time: 24
 category: snacks
 tags:
+  - palmier
   - vegetarian
   - chocolate🍫
+  - french 🇫🇷
 ingredients:
   - name: ground oats
     amount: 110

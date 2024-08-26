@@ -2,9 +2,10 @@
 title: Salmon rillettes
 ref: salmon-rillettes
 image: true
-time: 7
+time: 20
 category: snacks
 tags:
+  - spread
   - fish🦈
   - french 🇫🇷
 ingredients:
@@ -35,6 +36,7 @@ ingredients:
 side_image: ./images/aigen.png
 ---
 
+For 6 servings. 
 You can also make the dish entirely with fresh salmon or entirely with smoked salmon by cooking half of it.
 
 1. Season the salmon on both sides lightly with a bit of salt. Steam in a steamer basket until just cooked, about 8 minutes. Once cooked, remove from heat and let cool.
@@ -44,8 +46,10 @@ You can also make the dish entirely with fresh salmon or entirely with smoked sa
 5. Scrape into a serving dish, cover, and chill for at least two hours. Let come to room temperature before serving.
 ---
 
+It can be served with toasted slices of baguettes, but it would be tasty with dark rye or heaped on hearty.crackers.
+
 ## Storage
-The rillettes can be made up to two days before and refrigerated. 
+The rillettes can be made up to two days before and refrigerated.  
 They can also be frozen, well-wrapped, for up to two months.
 
 _From [David Lebovitz](https://www.davidlebovitz.com/salmon-rillette/)._

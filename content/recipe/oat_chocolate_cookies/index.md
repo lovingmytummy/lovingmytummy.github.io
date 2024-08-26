@@ -8,6 +8,8 @@ tags:
   - cookies🍪
   - chocolate🍫
   - vegetarian
+  - asian🌏
+  - persian 🇮🇷
 ingredients:
   - name: oat flakes
     amount: 200

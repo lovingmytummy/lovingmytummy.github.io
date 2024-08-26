@@ -28,13 +28,13 @@ markup:
     renderer:
       unsafe: true
 DefaultContentLanguage: "en"
-languages:
-  en:
-    title: "Loving my tummy"
-    languageName: "English"
-    weight: 1
-  es:
-    title: "Loving my tummy"
-    languageName: "Spanish"
-    weight: 2
-defaultContentLanguageInSubdir: false
+#languages:
+#  en:
+#    title: "Loving my tummy"
+#    languageName: "English"
+#    weight: 1
+#  es:
+#    title: "Loving my tummy"
+#    languageName: "Spanish"
+#    weight: 2
+#defaultContentLanguageInSubdir: false

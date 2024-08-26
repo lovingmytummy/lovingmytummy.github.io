@@ -10,6 +10,7 @@ tags:
   - chocolate🍫
   - vegetarian
   - gluten-free
+  - spanish 🇪🇸
 ingredients:
   - name: large eggs
     amount: 2
