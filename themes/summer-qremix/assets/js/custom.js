@@ -27,6 +27,7 @@ const checkCategory = document.getElementsByClassName('js-category');
 const checkDuration = document.getElementsByClassName('js-duration');
 const checkMeat = document.getElementsByClassName('js-meat');
 const checkOrigin = document.getElementsByClassName('js-origin');
+const checkMachine = document.getElementsByClassName('js-machine');
 
 const checkBoxes = document.getElementsByClassName('searchbar-checkbox');
 
@@ -36,6 +37,7 @@ function filterList() {
   const checkedDuration = [];
   const checkedMeat = [];
   const checkedOrigin = [];
+  const checkedMachine = [];
 
   // Put the checked categories into an array.
   for (let m = 0; m < checkCategory.length; m += 1) {
@@ -69,11 +71,20 @@ function filterList() {
     }
   }
 
+   // Put the checked tags into an array.
+   for (let p = 0; p < checkMachine.length; p += 1) {
+    if (checkMachine[p].checked) {
+      const valueMachine = checkMachine[p].value;
+      checkedMachine.push(valueMachine);
+    }
+  }
+
   const checkedLength =
     checkedCategory.length +
     checkedDuration.length +
     checkedMeat.length +
-    checkedOrigin.length;
+    checkedOrigin.length +
+    checkedMachine.length;
 
   if (checkedLength > 0) {
     // Check if the item matches the filters.
@@ -110,8 +121,19 @@ function filterList() {
               .indexOf(n) !== -1
         ).length > 0;
 
+      // Check the machine used.
+      const machine =
+        checkedMachine.length === 0 ||
+        checkedMachine.filter(
+          n =>
+            item
+              .values()
+              .tags.split(', ')
+              .indexOf(n) !== -1
+        ).length > 0;
+
       // Show the item if it matches the filters.
-      if (category && duration && meat && origin) {
+      if (category && duration && meat && origin && machine) {
         return true;
       }
 
