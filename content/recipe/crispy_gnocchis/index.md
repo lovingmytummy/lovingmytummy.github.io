@@ -1,6 +1,6 @@
 ---
-title: Crispy Gnocchi in air fryer
-ref: crispy-gnocchi-airfryer
+title: Crispy Gnocchi
+ref: crispy-gnocchi
 image: true
 time: 20
 category: snacks
