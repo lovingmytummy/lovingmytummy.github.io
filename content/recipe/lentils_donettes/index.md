@@ -7,6 +7,7 @@ category: snacks
 tags:
   - sweet
   - donuts
+  - chocolate🍫
   - vegetarian
   - gluten-free
 ingredients:

@@ -5,6 +5,8 @@ image: true
 time: 20
 category: snacks
 tags:
+  - cookies🍪
+  - chocolate🍫
   - vegetarian
 ingredients:
   - name: oat flakes
