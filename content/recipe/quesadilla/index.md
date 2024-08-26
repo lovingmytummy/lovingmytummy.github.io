@@ -36,4 +36,4 @@ As the main ingredient, you can use your favourite protein (chicken, turkey, tun
 
 _From [Instagram @fussimonsi](https://www.instagram.com/reel/Ci28k5fDJUa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
-<img src="images/taco_burger.png" style="width:250px; float:right;"/>
+<img src="images/quesadilla.png" style="width:250px; float:right;"/>
