@@ -1,5 +1,5 @@
 ---
-title: Crispy Gnocchi
+title: Crispy gnocchi
 ref: crispy-gnocchi
 image: true
 time: 20

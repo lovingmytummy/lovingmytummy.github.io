@@ -22,7 +22,7 @@ ingredients:
   - name: tomato paste
     amount: 1
     unit: can
-  - name: sat
+  - name: salt
     amount: null
     unit: null
   - name: black pepper

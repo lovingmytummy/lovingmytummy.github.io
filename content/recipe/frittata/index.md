@@ -46,6 +46,6 @@ It can also be baked in the oven at 200°C (392°F) for about 20/25 minutes.
 
 ---
 
-_From [PetitCHEF](https://www.petitchef.es/recetas/plato/frittata-de-cebolla-la-tortilla-perfecta-para-una-comida-expres-fid-1581101)._
+_From [SanPellegrino](https://www.sanpellegrino.com/sparkling-drinks/zesty-food/onion-frittata)._
 
 <img src="images/frittata.jpg" style="width:250px; float:right;"/>

@@ -1,5 +1,5 @@
 ---
-title: Oat and Chocolate Cookies
+title: Oat and Chocolate cookies
 ref: oat-and-chocolate-cookies
 image: true
 time: 20
