@@ -4,11 +4,12 @@ ref: chicken-tikka-masala
 image: true
 time: 20
 category: lunch
+origin: indian
+flag: 🇮🇳
 tags:
   - gluten-free
   - meat🥩
   - asian🌏
-  - indian 🇮🇳
 ingredients:
   - name: basmati rice
     amount: null

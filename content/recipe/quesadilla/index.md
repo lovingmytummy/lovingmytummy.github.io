@@ -4,10 +4,11 @@ ref: quesadilla
 image: true
 time: 6
 category: dinner
+origin: mexican
+flag: 🇲🇽
 tags:
   - air-fryer
   - latin-american🌎
-  - mexican 🇲🇽
 ingredients:
   - name: large wheat tortilla
     amount: 2

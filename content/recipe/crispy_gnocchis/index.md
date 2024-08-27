@@ -4,10 +4,11 @@ ref: crispy-gnocchi
 image: true
 time: 20
 category: snacks
+origin: italian
+flag: 🇮🇹
 tags:
   - air-fryer
   - vegan
-  - italian 🇮🇹
 ingredients:
   - name: gnocchi
     amount: 500

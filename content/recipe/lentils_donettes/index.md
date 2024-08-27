@@ -4,13 +4,14 @@ ref: lentils-donettes
 image: true
 time: 20
 category: snacks
+origin: spanish
+flag: 🇪🇸
 tags:
   - sweet
   - donuts
   - chocolate🍫
   - vegetarian
   - gluten-free
-  - spanish 🇪🇸
 ingredients:
   - name: large eggs
     amount: 2

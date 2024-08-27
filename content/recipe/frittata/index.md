@@ -4,10 +4,11 @@ ref: frittata
 image: true
 time: 20
 category: lunch
+origin: italian
+flag: 🇮🇹
 tags:
   - gluten-free
   - vegetarian
-  - italian 🇮🇹
 ingredients:
   - name: white onions
     amount: 1 1/2

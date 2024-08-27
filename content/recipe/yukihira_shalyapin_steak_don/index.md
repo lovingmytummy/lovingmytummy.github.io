@@ -4,11 +4,12 @@ ref: yukihira-style-shalyapin-steak-don
 image: true
 time: 60
 category: lunch
+origin: japanese
+flag: 🇯🇵
 tags:
   - gluten-free
   - meat🥩
   - asian🌏
-  - japanese 🇯🇵
 ingredients:
   - name: beef sirloin
     amount: 1

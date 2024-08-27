@@ -4,10 +4,11 @@ ref: salmon-rillettes
 image: true
 time: 20
 category: snacks
+origin: french
+flag: 🇫🇷
 tags:
   - spread
   - fish🦈
-  - french 🇫🇷
 ingredients:
   - name: salmon fillet, preferible wild, bones removed
     amount: 250

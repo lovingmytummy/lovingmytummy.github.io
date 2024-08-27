@@ -4,11 +4,12 @@ ref: chicken-kebab
 image: true
 time: 150
 category: lunch
+origin: turkish
+flag: 🇹🇷
 tags:
   - gluten-free
   - meat🥩
   - asian🌏
-  - turkish 🇹🇷
 ingredients:
   - name: boneless chicken thighs with skin
     amount: 1

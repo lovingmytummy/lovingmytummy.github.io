@@ -4,13 +4,14 @@ ref: esquites
 image: true
 time: 2
 category: snacks
+origin: mexican
+flag: 🇲🇽
 tags:
   - fast
   - gluten-free
   - vegetarian
   - spicy🌶️
   - latin-american🌎
-  - mexican 🇲🇽
 ingredients:
   - name: sweet corn
     amount: 1

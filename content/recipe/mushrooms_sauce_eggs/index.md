@@ -4,9 +4,10 @@ ref: mushrooms-in-sauce-with-egg
 image: true
 time: 30
 category: lunch
+origin: spanish
+flag: 🇪🇸
 tags:
   - vegetarian
-  - spanish 🇪🇸
 ingredients:
   - name: mushrooms
     amount: 400

@@ -100,35 +100,35 @@
           <span class="searchbar-button">Asian🌏</span>
         </label>
         <label for="spanish">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="spanish" value="spanish 🇪🇸">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="spanish" value="spanish">
           <span class="searchbar-button">🇪🇸</span>
         </label>
         <label for="italian">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="italian" value="italian 🇮🇹">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="italian" value="italian">
           <span class="searchbar-button">🇮🇹</span>
         </label>
         <label for="french">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="french" value="french 🇫🇷">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="french" value="french">
           <span class="searchbar-button">🇫🇷</span>
         </label>
         <label for="turkish">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="turkish" value="turkish 🇹🇷">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="turkish" value="turkish">
           <span class="searchbar-button">🇹🇷</span>
         </label>
         <label for="usa">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="usa" value="USA 🇺🇸">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="usa" value="USA">
           <span class="searchbar-button">🇺🇸</span>
         </label>
         <label for="mexican">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="mexican" value="mexican 🇲🇽">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="mexican" value="mexican">
           <span class="searchbar-button">🇲🇽</span>
         </label>
         <label for="japanese">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="japanese" value="japanese 🇯🇵">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="japanese" value="japanese">
           <span class="searchbar-button">🇯🇵</span>
         </label>
         <label for="indian">
-          <input class="searchbar-checkbox js-origin" type="checkbox" id="indian" value="indian 🇮🇳">
+          <input class="searchbar-checkbox js-origin" type="checkbox" id="indian" value="indian">
           <span class="searchbar-button">🇮🇳</span>
         </label>
       </fieldset>
@@ -154,6 +154,8 @@
             <div class="list-body">
               <span class="list-category category">{{ .Params.category }}</span>
               {{ range .Params.categories }}{{ . }}{{ end }}
+              <span class="list-origin origin" value="{{ .Params.origin }}">{{ .Params.flag }}</span>
+              {{ range .Params.origins }}{{ . }}{{ end }}
               <h3 class="list-header title">{{ .Params.title }}</h3>
               {{ partial "meta.html" . }}
               <span class="list-ingredients ingredients" data-ingredients="{{ range .Params.ingredients }}{{ .name }}, {{ end }}"></span>

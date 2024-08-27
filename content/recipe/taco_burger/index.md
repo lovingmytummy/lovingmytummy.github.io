@@ -4,10 +4,11 @@ ref: taco-burger
 image: true
 time: 10
 category: dinner
+origin: USA
+flag: 🇺🇸
 tags:
   - meat🥩
   - american🌎
-  - USA 🇺🇸
 ingredients:
   - name: wheat tortilla
     amount: 1

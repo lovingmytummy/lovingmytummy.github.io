@@ -4,10 +4,11 @@ ref: bruschetta
 image: true
 time: 7
 category: brunch
+origin: italian
+flag: 🇮🇹
 tags:
   - fish🦈
   - spicy🌶️
-  - italian 🇮🇹
 ingredients:
   - name: sliced bread
     amount: null

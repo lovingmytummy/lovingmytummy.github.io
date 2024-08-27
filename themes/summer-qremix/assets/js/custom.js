@@ -9,6 +9,7 @@ const searchOptions = {
     'category',
     'tags',
     'duration',
+    { name: 'origin', attr: 'value' },
     { name: 'ingredients', attr: 'data-ingredients' }
   ],
   fuzzySearch: {
@@ -113,13 +114,7 @@ function filterList() {
       // Check where item originates.
       const origin =
         checkedOrigin.length === 0 ||
-        checkedOrigin.filter(
-          n =>
-            item
-              .values()
-              .tags.split(', ')
-              .indexOf(n) !== -1
-        ).length > 0;
+        checkedOrigin.indexOf(item.values().origin) > -1;
 
       // Check the machine used.
       const machine =

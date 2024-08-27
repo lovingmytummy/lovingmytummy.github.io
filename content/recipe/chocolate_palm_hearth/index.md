@@ -4,11 +4,12 @@ ref: chocolate-palm-heart
 image: true
 time: 24
 category: snacks
+origin: french
+flag: 🇫🇷
 tags:
   - palmier
   - vegetarian
   - chocolate🍫
-  - french 🇫🇷
 ingredients:
   - name: ground oats
     amount: 110

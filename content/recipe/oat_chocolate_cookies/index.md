@@ -4,12 +4,13 @@ ref: oat-and-chocolate-cookies
 image: true
 time: 20
 category: snacks
+origin: persian
+flag: 🇮🇷
 tags:
   - cookies🍪
   - chocolate🍫
   - vegetarian
   - asian🌏
-  - persian 🇮🇷
 ingredients:
   - name: oat flakes
     amount: 200

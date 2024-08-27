@@ -4,10 +4,11 @@ ref: garlic-mushrooms
 image: true
 time: 15
 category: dinner
+origin: spanish
+flag: 🇪🇸
 tags:
   - air-fryer
   - vegan
-  - spanish 🇪🇸
 ingredients:
   - name: mushrooms
     amount: null

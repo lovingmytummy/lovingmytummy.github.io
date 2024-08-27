@@ -141,6 +141,20 @@
   text-transform: capitalize;
 }
 
+.list-origin {
+  @include font(app);
+
+  position: absolute;
+  top: 0;
+  right: 1rem;
+  padding: .125rem .75rem;
+  transform: translateY(-50%);
+  border-radius: .5rem;
+  //background-color: palette($primary);
+  color: palette(white);
+  text-transform: capitalize;
+}
+
 .list-body {
   position: relative;
   padding: 1.25rem 1rem 1rem;

@@ -4,10 +4,11 @@ ref: spring-bread
 image: true
 time: 7
 category: brunch
+origin: italian
+flag: 🇮🇹
 tags:
   - vegetarian
   - spicy🌶️
-  - italian 🇮🇹
 ingredients:
   - name: sliced bread
     amount: 2

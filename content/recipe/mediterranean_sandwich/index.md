@@ -4,11 +4,12 @@ ref: mediterranean-sandwich
 image: true
 time: 2
 category: brunch
+origin: spanish
+flag: 🇪🇸
 tags:
   - sandwich
   - baguette
   - fish🦈
-  - spanish 🇪🇸
 ingredients:
   - name: baguette
     amount: 1

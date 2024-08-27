@@ -4,11 +4,12 @@ ref: cockles-ceviche
 image: true
 time: 5
 category: lunch
+origin: peruan
+flag: 🇵🇪
 tags:
   - seafood🦪
   - gluten-free
   - latin-american🌎
-  - peruan 🇵🇪
 ingredients:
   - name: cockles
     amount: 1

@@ -4,11 +4,12 @@ ref: gohan
 image: true
 time: 60
 category: lunch
+origin: japanese
+flag: 🇯🇵
 tags:
   - vegan
   - gluten-free
   - asian🌏
-  - japanese 🇯🇵
 ingredients:
   - name: round rice
     amount: 2
