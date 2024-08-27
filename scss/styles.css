@@ -1518,7 +1518,8 @@ textarea {
   transform: translateY(-50%);
   border-radius: .5rem;
   color: #fff;
-  text-transform: capitalize; }
+  text-transform: capitalize;
+  font-size: 1.5em; }
   .list-origin a {
     background-repeat: no-repeat, no-repeat, repeat-x;
     background-position: 0 90%, 100% 90%, 0 90%;
