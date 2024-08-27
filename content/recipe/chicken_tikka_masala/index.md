@@ -9,6 +9,7 @@ flag: 🇮🇳
 tags:
   - gluten-free
   - meat🥩
+  - chicken🍗
   - asian🌏
 ingredients:
   - name: basmati rice
