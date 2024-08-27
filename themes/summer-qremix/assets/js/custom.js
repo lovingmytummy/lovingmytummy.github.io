@@ -9,7 +9,7 @@ const searchOptions = {
     'category',
     'tags',
     'duration',
-    { name: 'origin', attr: 'value' },
+    { name: 'origin', attr: 'search' },
     { name: 'ingredients', attr: 'data-ingredients' }
   ],
   fuzzySearch: {
