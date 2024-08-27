@@ -4,7 +4,7 @@ ref: no-bake-cheesecake
 image: true
 time: 30
 category: dessert
-origin: Greek
+origin: greek
 flag: 🇬🇷
 tags:
   - vegetarian

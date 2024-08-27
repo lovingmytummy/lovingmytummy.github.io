@@ -28,6 +28,7 @@ const checkCategory = document.getElementsByClassName('js-category');
 const checkDuration = document.getElementsByClassName('js-duration');
 const checkMeat = document.getElementsByClassName('js-meat');
 const checkOrigin = document.getElementsByClassName('js-origin');
+const checkRegion = document.getElementsByClassName('js-region');
 const checkMachine = document.getElementsByClassName('js-machine');
 
 const checkBoxes = document.getElementsByClassName('searchbar-checkbox');
@@ -38,6 +39,7 @@ function filterList() {
   const checkedDuration = [];
   const checkedMeat = [];
   const checkedOrigin = [];
+  const checkedRegion = [];
   const checkedMachine = [];
 
   // Put the checked categories into an array.
@@ -72,6 +74,14 @@ function filterList() {
     }
   }
 
+  // Put the checked tags into an array.
+  for (let p = 0; p < checkRegion.length; p += 1) {
+    if (checkRegion[p].checked) {
+      const valueRegion = checkRegion[p].value;
+      checkedRegion.push(valueRegion);
+    }
+  }
+
    // Put the checked tags into an array.
    for (let p = 0; p < checkMachine.length; p += 1) {
     if (checkMachine[p].checked) {
@@ -85,6 +95,7 @@ function filterList() {
     checkedDuration.length +
     checkedMeat.length +
     checkedOrigin.length +
+    checkedRegion.length + 
     checkedMachine.length;
 
   if (checkedLength > 0) {
@@ -116,6 +127,17 @@ function filterList() {
         checkedOrigin.length === 0 ||
         checkedOrigin.indexOf(item.values().origin) > -1;
 
+      // Check the region.
+      const region =
+      checkedRegion.length === 0 ||
+      checkedRegion.filter(
+        n =>
+          item
+            .values()
+            .tags.split(', ')
+            .indexOf(n) !== -1
+      ).length > 0;
+
       // Check the machine used.
       const machine =
         checkedMachine.length === 0 ||
@@ -128,7 +150,7 @@ function filterList() {
         ).length > 0;
 
       // Show the item if it matches the filters.
-      if (category && duration && meat && origin && machine) {
+      if (category && duration && meat && origin && region && machine) {
         return true;
       }
 
