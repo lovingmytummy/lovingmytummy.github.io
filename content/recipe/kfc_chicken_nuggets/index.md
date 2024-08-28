@@ -3,7 +3,7 @@ title: KFC-style chicken nuggets
 ref: KFC-style-chicken-nuggets
 image: true
 time: 60
-category: snacks
+category: lunch
 origin: USA
 flag: 🇺🇸
 tags:

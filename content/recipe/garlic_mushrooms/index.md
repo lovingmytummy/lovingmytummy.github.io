@@ -9,6 +9,7 @@ flag: 🇪🇸
 tags:
   - air-fryer
   - vegan
+  - mushrooms🍄
 ingredients:
   - name: mushrooms
     amount: null
