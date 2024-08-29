@@ -2852,7 +2852,8 @@ textarea {
   .content-style.content-recipe > ol {
     margin: 0;
     padding-left: 2rem;
-    list-style: none; }
+    list-style: none;
+    counter-reset: steps; }
     .content-style.content-recipe > ol::after {
       display: none; }
     .content-style.content-recipe > ol:first-of-type {
