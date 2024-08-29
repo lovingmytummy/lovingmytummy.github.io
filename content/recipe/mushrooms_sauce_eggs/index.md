@@ -7,6 +7,7 @@ category: lunch
 origin: spanish
 flag: 🇪🇸
 tags:
+  - mushrooms🍄
   - vegetarian
 ingredients:
   - name: mushrooms

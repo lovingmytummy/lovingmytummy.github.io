@@ -66,7 +66,6 @@ Serve with your favorite dipping sauce!
 - 1 tsp garlic powder
 - 1 tsp onion powder
 - 1 tsp paprika
-- 1 tsp paprika
 
 ---
 

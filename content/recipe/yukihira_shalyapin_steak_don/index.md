@@ -61,6 +61,7 @@ the onion until it changes color.
 8. Cook the steak to your preference (most would prefer medium-rare): Melt the ramining butter in the frying pan and fry both sides of the meat before taking it out.
 
 ## Making the sauce
+
 1. Add red wine to the frying pan used for the beef to deglaze it. 
 2. Boil down the wine while scraping off the meat juice with a wooden spatula.
 3. Put the onion back in and fry it.

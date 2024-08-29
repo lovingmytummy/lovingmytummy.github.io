@@ -156,6 +156,7 @@
     margin: 0;
     padding-left: 2rem;
     list-style: none;
+    counter-reset: steps;
 
     &::after {
       display: none;
