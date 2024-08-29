@@ -2,7 +2,7 @@
 title: Napoleon cake
 ref: napoleon-cake
 image: true
-time: 120
+time: 150
 category: dessert
 origin: russian
 flag: 🇷🇺
