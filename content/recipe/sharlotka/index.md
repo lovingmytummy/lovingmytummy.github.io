@@ -9,6 +9,7 @@ flag: 🇷🇺
 tags:
   - vegetarian
   - cake🍰
+  - apple🍏
 ingredients:
   - name: large apples
     amount: 5
