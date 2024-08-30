@@ -75,6 +75,6 @@ side_image: ./images/aigen.jpg
 
 ---
 
-_From [KFC](https://www.kfc.es/)._
+_Adaptation from [Instagram @titopezziafit](https://www.instagram.com/reel/C6UAgcQKITY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/kfc_chicken_nuggets.png" style="width:250px; float:right;"/>
