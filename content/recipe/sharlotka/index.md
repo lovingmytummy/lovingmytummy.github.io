@@ -32,6 +32,7 @@ ingredients:
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
+tests: tests/
 ---
 
 1. Preheat the oven to 350°F/180°C. Line a 9x3 round cake pan or springform pan with parchment paper. Butter or spray both the paper, and the sides of the pan.

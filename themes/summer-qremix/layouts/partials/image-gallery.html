@@ -1,0 +1,25 @@
+<style>
+ .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+{{ if .Params.tests }}
+<div class="image-gallery">
+        {{ $imageDir := printf "%s%s%s" "content/" .RelPermalink .Params.tests }}
+        {{ $imageURL := printf "%s%s" .RelPermalink .Params.tests }}
+        {{ $images := readDir $imageDir }}
+        <ul class="image-gallery">
+        {{ range $images }}
+            {{ $ext := path.Ext .Name }}
+            {{ if in (slice ".jpg" ".jpeg" ".png" ".gif") $ext }}
+            <li>
+                    <img src="{{ printf "%s%s" $imageURL .Name | relURL }}" alt="{{ .Name | plainify }}" style="width:250px;">
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+</div>
+{{ end }}
