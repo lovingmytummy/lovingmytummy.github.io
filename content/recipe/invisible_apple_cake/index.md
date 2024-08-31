@@ -41,12 +41,16 @@ ingredients:
 side_image: ./images/aigen.jpeg
 ---
 
+## Preparation
 1. Peel the apples and slice them very thinly.
 2. In a bowl, combine the flour, sugar, baking powder, oil, eggs, and milk. Mix until smooth.
 3. Gently fold in the apple slices.
 4. Grease and flour a baking pan, then pour the batter into the pan.
 5. Bake at 180°C (350°F) until golden brown, about 30-40 minutes.
 6. Once cooled, dust with powdered sugar or cinnamon for garnish.
+
+## Information
+**Unsichtbare Apfelkuchen (Invisible Apple Cake)** is a unique German dessert that features a large volume of thinly sliced apples combined with just enough light batter to hold the shape of the cake after baking. The name "invisible" comes from the way the apples seem to disappear into the dough during baking, creating a visually striking and delicately layered cake. This results in a cake where the apples are the star, providing a soft, tender texture and a naturally sweet flavor, with the thin batter serving to bind the apples together without overpowering them. The cake is surprisingly different from traditional apple cakes due to its emphasis on the fruit, making it both visually appealing and deliciously light.
 
 ---
 
