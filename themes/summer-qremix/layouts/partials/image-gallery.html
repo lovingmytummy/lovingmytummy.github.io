@@ -15,7 +15,8 @@
                     <div class="image-gallery">
                         <br style="clear:both"/>
                         <hr>
-                        <h2>Proof of concepts</h2>
+                        <details>
+                            <summary>Proof of concepts</summary>
                         <ul class="image-gallery">
                         {{ range $images }}
                             {{ $ext := path.Ext .Name }}
@@ -26,6 +27,7 @@
                             {{ end }}
                         {{ end }}
                         </ul>
+                    </details>
                     </div>
                 {{ end }}
         {{ end }}
