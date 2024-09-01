@@ -8,8 +8,8 @@ origin: USA
 flag: 🇺🇸
 tags:
   - chocolate🍫
-  - gluten-free
   - vegan
+  - gluten-free
   - american🌎
 ingredients:
   - name: cornflakes

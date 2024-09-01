@@ -7,9 +7,9 @@ category: breakfast
 origin: USA
 flag: 🇺🇸
 tags:
-  - microwave
-  - vegetarian
   - cake🍰
+  - vegetarian
+  - microwave
   - american🌎
 ingredients:
   - name: flour (wheat, ground oats,...)

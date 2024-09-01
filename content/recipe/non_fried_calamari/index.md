@@ -7,9 +7,9 @@ category: lunch
 origin: spanish
 flag: 🇪🇸
 tags:
-  - air-fryer
   - fish🦈
   - squid🦑
+  - air-fryer
 ingredients:
   - name: cleaned and chopped squids
     amount: 300

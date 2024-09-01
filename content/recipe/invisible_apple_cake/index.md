@@ -7,9 +7,9 @@ category: dessert
 origin: german
 flag: 🇩🇪
 tags:
-  - vegetarian
   - cake🍰
   - apple🍏
+  - vegetarian
 ingredients:
   - name: apples
     amount: 2-3

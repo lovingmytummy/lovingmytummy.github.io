@@ -7,9 +7,9 @@ category: lunch
 origin: turkish
 flag: 🇹🇷
 tags:
-  - gluten-free
   - meat🥩
   - chicken🍗
+  - gluten-free
   - asian🌏
 ingredients:
   - name: boneless chicken thighs with skin

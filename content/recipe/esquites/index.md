@@ -7,10 +7,10 @@ category: snacks
 origin: mexican
 flag: 🇲🇽
 tags:
-  - fast
-  - gluten-free
-  - vegetarian
+  - corn🌽
   - spicy🌶️
+  - vegetarian
+  - gluten-free
   - latin-american🌎
 ingredients:
   - name: sweet corn

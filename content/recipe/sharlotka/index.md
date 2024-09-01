@@ -7,9 +7,9 @@ category: dessert
 origin: russian
 flag: 🇷🇺
 tags:
-  - vegetarian
   - cake🍰
   - apple🍏
+  - vegetarian
 ingredients:
   - name: large apples
     amount: 5

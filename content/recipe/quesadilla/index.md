@@ -7,6 +7,7 @@ category: dinner
 origin: mexican
 flag: 🇲🇽
 tags:
+  - cheese🧀
   - air-fryer
   - latin-american🌎
 ingredients:

@@ -7,9 +7,9 @@ category: lunch
 origin: indian
 flag: 🇮🇳
 tags:
-  - gluten-free
   - meat🥩
   - chicken🍗
+  - gluten-free
   - asian🌏
 ingredients:
   - name: basmati rice

@@ -7,9 +7,9 @@ category: dessert
 origin: greek
 flag: 🇬🇷
 tags:
-  - vegetarian
   - cake🍰
   - cheese🧀
+  - vegetarian
 ingredients:
   - name: cookies
     amount: 100

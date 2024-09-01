@@ -7,10 +7,10 @@ category: dessert
 origin: UK
 flag: 🇬🇧
 tags:
-  - vegetarian
   - cake🍰
   - carrot🥕
   - coconut🥥
+  - vegetarian
 ingredients:
   - name: carrots
     amount: 3

@@ -7,8 +7,8 @@ category: brunch
 origin: spanish
 flag: 🇪🇸
 tags:
-  - sandwich
-  - baguette
+  - sandwich🥪
+  - baguette🥖
   - fish🦈
 ingredients:
   - name: baguette

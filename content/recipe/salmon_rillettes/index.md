@@ -7,8 +7,9 @@ category: snacks
 origin: french
 flag: 🇫🇷
 tags:
-  - spread
+  - butter🧈
   - fish🦈
+  - spread
 ingredients:
   - name: salmon fillet, preferible wild, bones removed
     amount: 250

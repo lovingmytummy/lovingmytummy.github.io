@@ -7,6 +7,7 @@ category: lunch
 origin: japanese
 flag: 🇯🇵
 tags:
+  - rice🍚
   - vegan
   - gluten-free
   - asian🌏

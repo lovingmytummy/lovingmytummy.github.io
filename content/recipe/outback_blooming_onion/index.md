@@ -7,9 +7,9 @@ category: brunch
 origin: USA
 flag: 🇺🇸
 tags:
-  - air-fryer
-  - vegan
   - onion🧅
+  - vegan
+  - air-fryer
   - american🌎
 ingredients:
   - name: medium onions (or 1 large onion)

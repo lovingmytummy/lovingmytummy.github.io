@@ -7,8 +7,8 @@ category: lunch
 origin: japanese
 flag: 🇯🇵
 tags:
-  - gluten-free
   - sushi🍣
+  - gluten-free
   - asian🌏
 ingredients:
   - name: salmon

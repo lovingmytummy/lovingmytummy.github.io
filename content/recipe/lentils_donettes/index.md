@@ -7,8 +7,7 @@ category: snacks
 origin: spanish
 flag: 🇪🇸
 tags:
-  - sweet
-  - donuts
+  - donuts🍩
   - chocolate🍫
   - vegetarian
   - gluten-free

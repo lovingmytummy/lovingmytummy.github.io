@@ -7,8 +7,8 @@ category: snacks
 origin: italian
 flag: 🇮🇹
 tags:
-  - air-fryer
   - vegan
+  - air-fryer
 ingredients:
   - name: gnocchi
     amount: 500

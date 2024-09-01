@@ -7,9 +7,9 @@ category: dinner
 origin: spanish
 flag: 🇪🇸
 tags:
-  - air-fryer
-  - vegan
   - mushrooms🍄
+  - vegan
+  - air-fryer
 ingredients:
   - name: mushrooms
     amount: null

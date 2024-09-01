@@ -7,8 +7,8 @@ category: dessert
 origin: russian
 flag: 🇷🇺
 tags:
-  - vegetarian
   - cake🍰
+  - vegetarian
 ingredients:
   - name: flour (+ 3 tablespoons)
     amount: 450

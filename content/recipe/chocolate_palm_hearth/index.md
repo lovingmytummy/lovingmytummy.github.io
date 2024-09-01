@@ -7,9 +7,9 @@ category: snacks
 origin: french
 flag: 🇫🇷
 tags:
-  - palmier
-  - vegetarian
+  - palmier🌴
   - chocolate🍫
+  - vegetarian
 ingredients:
   - name: ground oats
     amount: 110
