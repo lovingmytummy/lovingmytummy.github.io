@@ -1,6 +1,6 @@
 ---
-title: Zucchinni Scarpaccia
-ref: zucchinni-scarpaccia
+title: Zucchini Scarpaccia
+ref: zucchini-scarpaccia
 image: true
 time: 120
 category: lunch
@@ -49,4 +49,4 @@ side_image: ./images/aigen.jpg
 
 _Adaptation from [El Comidista](https://elpais.com/gastronomia/el-comidista/2023-05-29/scarpaccia-la-torta-de-calabacin-que-vino-de-la-toscana.html)._
 
-<img src="images/zucchinni_scarpaccia.png" style="width:250px; float:right;"/>
+<img src="images/zucchini_scarpaccia.png" style="width:250px; float:right;"/>
