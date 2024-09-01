@@ -46,9 +46,8 @@ You can also make the dish entirely with fresh salmon or entirely with smoked sa
 3. Stir in the lemon juice, then the chopped chives and smoked salmon.
 4. Remove the skin from the salmon and flake the cooked salmon over the mixture, then fold the pieces of salmon into the rillette mixture along with the chili powder. Taste, and add more salt if desired.
 5. Scrape into a serving dish, cover, and chill for at least two hours. Let come to room temperature before serving.
----
 
-It can be served with toasted slices of baguettes, but it would be tasty with dark rye or heaped on hearty.crackers.
+It can be served with toasted slices of baguettes, but it would be tasty with dark rye or heaped on hearty crackers.
 
 ## Storage
 The rillettes can be made up to two days before and refrigerated.  
