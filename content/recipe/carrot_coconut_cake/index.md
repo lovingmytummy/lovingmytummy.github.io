@@ -40,7 +40,7 @@ side_image: ./images/aigen.jpg
 2. Using an electric mixer, beat the eggs with the sugar until well combined. Add the softened butter and continue mixing. Incorporate the shredded coconut and keep beating until everything is well blended.
 3. Peel and grate the carrots, then add them to the mixture, stirring with a spoon.
 4. Combine the flour with the baking powder and gently fold them into the bowl using smooth, enveloping motions.
-5. Pour the mixture into the prepared pan and bake at 180ºC (350ºF) for about 30 minutes, or until a toothpick inserted in the center comes out clean. Remove from the oven and let it cool.
+5. Pour the mixture into the prepared pan and bake at 180°C (350°F) for about 30 minutes, or until a toothpick inserted in the center comes out clean. Remove from the oven and let it cool.
 6. Once cooled, remove the carrot and coconut cake from the pan. Use the decorating pen to add your preferred designs, and garnish with a few mint leaves.
 
 ---
