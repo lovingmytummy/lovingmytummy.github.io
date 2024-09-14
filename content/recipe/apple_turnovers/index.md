@@ -40,7 +40,7 @@ side_image: ./images/aigen.jpeg
 4. Place the turnovers on a baking sheet and optionally brush them with a little sunflower oil or egg using a pastry brush.
 5. Bake for 10-12 minutes until they are lightly golden.
 6. Once cooled, sprinkle with powdered sugar (optional).
-7. 
+
 ---
 
 _Adaptation from [Nestle Cocina](https://www.nestlecocina.es/receta/empanadillas-de-manzana-con-canela)._

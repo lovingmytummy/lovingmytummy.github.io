@@ -7,6 +7,7 @@ category: brunch
 origin: italian
 flag: 🇮🇹
 tags:
+  - bread🥖
   - fish🦈
   - spicy🌶️
 ingredients:
