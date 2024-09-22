@@ -71,7 +71,7 @@ side_image: ./images/aigen.jpeg
 
 8. **Baste and Finish Roasting:** After 40 minutes of roasting, baste the pork with the honey mixture. Flip the pork and baste the other side. Continue roasting for another 10 minutes until the pork is deeply caramelized and sticky. For extra caramelization, you can broil the pork for 2–3 minutes at the end, keeping a close eye on it to avoid burning.
 
-9. **Check for Doneness:** The pork should reach an internal temperature of 160°F (70) for full doneness, but you can remove it at 145°F (60°C) for a slightly juicier texture and let it rest for 3 minutes. Use a meat thermometer for accuracy.
+9. **Check for Doneness:** The pork should reach an internal temperature of 160°F (70°C) for full doneness, but you can remove it at 145°F (60°C) for a slightly juicier texture and let it rest for 3 minutes. Use a meat thermometer for accuracy.
 
 10. **Rest and Serve:** Remove the pork from the oven and let it rest for 10 minutes before slicing. This helps the juices redistribute for moist, tender meat. Baste with any remaining glaze just before serving.
 
