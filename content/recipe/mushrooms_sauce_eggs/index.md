@@ -8,6 +8,7 @@ origin: spanish
 flag: 🇪🇸
 tags:
   - mushrooms🍄
+  - eggs🥚
   - vegetarian
 ingredients:
   - name: mushrooms
