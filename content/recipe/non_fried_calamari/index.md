@@ -23,7 +23,7 @@ ingredients:
   - name: salt
     amount: null
     unit: null
-  - name: lemon (optiona)
+  - name: lemon (optional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
