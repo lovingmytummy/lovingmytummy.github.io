@@ -1540,6 +1540,71 @@ textarea {
       .list-origin a:focus *::after {
         text-shadow: none; }
 
+.list-rank {
+  color: #868e96;
+  font-family: "Overpass", Arial, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: .25px;
+  line-height: 1.5;
+  position: absolute;
+  top: -7rem;
+  right: 1rem;
+  padding: .125rem .75rem;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 1em;
+  transform: rotate(-15deg);
+  font-weight: bold;
+  text-align: center;
+  background: gray;
+  line-height: 1em; }
+  .list-rank a {
+    background-repeat: no-repeat, no-repeat, repeat-x;
+    background-position: 0 90%, 100% 90%, 0 90%;
+    background-size: .05em 1px, .05em 1px, 1px 1px;
+    color: #fab005; }
+    .list-rank a:hover, .list-rank a:focus {
+      background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#fab005, #fab005);
+      text-shadow: 0.03em 0 #fff, -0.03em 0 #fff, 0 0.03em #fff, 0 -0.03em #fff, 0.06em 0 #fff, -0.06em 0 #fff, 0.09em 0 #fff, -0.09em 0 #fff, 0.12em 0 #fff, -0.12em 0 #fff, 0.15em 0 #fff, -0.15em 0 #fff; }
+      .list-rank a:hover::selection, .list-rank a:focus::selection {
+        background: #a5d8ff;
+        text-shadow: 0.03em 0 #a5d8ff, -0.03em 0 #a5d8ff, 0 0.03em #a5d8ff, 0 -0.03em #a5d8ff, 0.06em 0 #a5d8ff, -0.06em 0 #a5d8ff, 0.09em 0 #a5d8ff, -0.09em 0 #a5d8ff, 0.12em 0 #a5d8ff, -0.12em 0 #a5d8ff, 0.15em 0 #a5d8ff, -0.15em 0 #a5d8ff; }
+      .list-rank a:hover::before, .list-rank a:hover::after,
+      .list-rank a:hover *,
+      .list-rank a:hover *::before,
+      .list-rank a:hover *::after, .list-rank a:focus::before, .list-rank a:focus::after,
+      .list-rank a:focus *,
+      .list-rank a:focus *::before,
+      .list-rank a:focus *::after {
+        text-shadow: none; }
+
+.SSS {
+  color: purple; }
+
+.SS {
+  color: purple; }
+
+.S {
+  color: purple; }
+
+.A {
+  color: greenyellow; }
+
+.B {
+  color: green; }
+
+.C {
+  color: yellow; }
+
+.D {
+  color: orange; }
+
+.F {
+  color: red; }
+
 .list-body {
   position: relative;
   padding: 1.25rem 1rem 1rem; }
