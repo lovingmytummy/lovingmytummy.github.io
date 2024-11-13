@@ -4,6 +4,7 @@ ref: homemade-sushi
 image: true
 time: 20
 category: lunch
+rank: D
 origin: japanese
 flag: 🇯🇵
 tags:

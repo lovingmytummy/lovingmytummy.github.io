@@ -4,6 +4,7 @@ ref: stuffed-peppers
 image: true
 time: 50
 category: lunch
+rank: C
 origin: spanish
 flag: 🇪🇸
 tags:

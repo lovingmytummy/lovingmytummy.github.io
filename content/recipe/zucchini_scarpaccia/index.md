@@ -4,6 +4,7 @@ ref: zucchini-scarpaccia
 image: true
 time: 120
 category: lunch
+rank: C
 origin: italian
 flag: 🇮🇹
 tags:

@@ -4,6 +4,7 @@ ref: apple-turnovers
 image: true
 time: 25
 category: snacks
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:

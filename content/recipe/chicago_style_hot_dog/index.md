@@ -4,6 +4,7 @@ ref: chicago-style-hot-dog
 image: true
 time: 15
 category: lunch
+rank: C
 origin: USA
 flag: 🇺🇸
 tags:

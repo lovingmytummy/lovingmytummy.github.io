@@ -95,6 +95,40 @@
         </label>
       </fieldset>
       <fieldset class="searchbar-group">
+        <label for="SSS">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="SSS" value="SSS">
+          <span class="searchbar-button SSS">SSS</span>
+        </label>
+        <label for="SS">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="SS" value="SS">
+          <span class="searchbar-button SS">SS</span>
+        </label>
+        <label for="S">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="S" value="S">
+          <span class="searchbar-button S">S</span>
+        </label>
+        <label for="A">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="A" value="A">
+          <span class="searchbar-button A">A</span>
+        </label>
+        <label for="B">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="B" value="B">
+          <span class="searchbar-button B">B</span>
+        </label>
+        <label for="C">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="C" value="C">
+          <span class="searchbar-button C">C</span>
+        </label>
+        <label for="D">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="D" value="D">
+          <span class="searchbar-button D">D</span>
+        </label>
+        <label for="F">
+          <input class="searchbar-checkbox js-rank" type="checkbox" id="F" value="F">
+          <span class="searchbar-button F">F</span>
+        </label>
+      </fieldset>
+      <fieldset class="searchbar-group">
         <label for="american">
           <input class="searchbar-checkbox js-region" type="checkbox" id="american" value="latin-american🌎">
           <span class="searchbar-button">Latin-American🌎</span>
@@ -184,6 +218,10 @@
               {{ range .Params.categories }}{{ . }}{{ end }}
               <span class="list-origin origin" title="{{ .Params.origin | strings.FirstUpper }}" search="{{ .Params.origin }}">{{ .Params.flag }}</span>
               {{ range .Params.origins }}{{ . }}{{ end }}
+              {{ if .Params.rank }}
+              <span class="list-rank rank {{ .Params.rank }}" title="{{ .Params.rank }}" search="{{ .Params.rank }}">{{ .Params.rank }}</span>
+              {{ range .Params.ranks }}{{ . }}{{ end }}
+              {{ end }}
               <h3 class="list-header title">{{ .Params.title }}</h3>
               {{ partial "meta.html" . }}
               <span class="list-ingredients ingredients" data-ingredients="{{ range .Params.ingredients }}{{ .name }}, {{ end }}"></span>

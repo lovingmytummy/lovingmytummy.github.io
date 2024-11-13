@@ -4,6 +4,7 @@ ref: zahzah-shake
 image: true
 time: 10
 category: snacks
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:

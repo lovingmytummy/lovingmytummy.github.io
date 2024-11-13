@@ -4,6 +4,7 @@ ref: chocolate-palm-heart
 image: true
 time: 24
 category: snacks
+rank: C
 origin: french
 flag: 🇫🇷
 tags:

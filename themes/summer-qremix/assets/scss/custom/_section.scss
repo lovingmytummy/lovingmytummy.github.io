@@ -156,6 +156,35 @@
   font-size: 1.5em;
 }
 
+.list-rank {
+  @include font(app);
+
+  position: absolute;
+  top: -7rem;
+  right: 1rem;
+  padding: .125rem .75rem;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  //background-color: palette($primary);
+  color: palette(white);
+  text-transform: capitalize;
+  font-size: 1em;
+  transform: rotate(-15deg);
+  font-weight: bold;
+  text-align: center;
+  background: gray;
+  line-height: 1em;
+}
+
+.SSS {color:purple}
+.SS {color:purple}
+.S {color:purple}
+.A {color:greenyellow}
+.B {color: green}
+.C {color:yellow}
+.D {color:orange}
+.F {color:red}
+
 .list-body {
   position: relative;
   padding: 1.25rem 1rem 1rem;

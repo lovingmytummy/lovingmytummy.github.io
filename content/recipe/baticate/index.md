@@ -4,6 +4,7 @@ ref: baticate
 image: true
 time: 5
 category: dessert
+rank: SSS
 origin: spanish
 flag: 🇪🇸
 tags:

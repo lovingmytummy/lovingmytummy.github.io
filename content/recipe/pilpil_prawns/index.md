@@ -4,6 +4,7 @@ ref: pilpil-prawns
 image: true
 time: 15
 category: lunch
+rank: S
 origin: spanish
 flag: 🇪🇸
 tags:

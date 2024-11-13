@@ -4,6 +4,7 @@ ref: no-bake-cheesecake
 image: true
 time: 30
 category: dessert
+rank: A
 origin: greek
 flag: 🇬🇷
 tags:

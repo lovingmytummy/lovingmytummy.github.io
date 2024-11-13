@@ -9,6 +9,7 @@ const searchOptions = {
     'category',
     'tags',
     'duration',
+    'rank',
     { name: 'origin', attr: 'search' },
     { name: 'ingredients', attr: 'data-ingredients' }
   ],
@@ -28,6 +29,7 @@ const checkCategory = document.getElementsByClassName('js-category');
 const checkDuration = document.getElementsByClassName('js-duration');
 const checkMeat = document.getElementsByClassName('js-meat');
 const checkOrigin = document.getElementsByClassName('js-origin');
+const checkRank = document.getElementsByClassName('js-rank');
 const checkRegion = document.getElementsByClassName('js-region');
 const checkMachine = document.getElementsByClassName('js-machine');
 
@@ -39,6 +41,7 @@ function filterList() {
   const checkedDuration = [];
   const checkedMeat = [];
   const checkedOrigin = [];
+  const checkedRank = [];
   const checkedRegion = [];
   const checkedMachine = [];
 
@@ -90,11 +93,20 @@ function filterList() {
     }
   }
 
+    // Put the checked categories into an array.
+    for (let m = 0; m < checkRank.length; m += 1) {
+      if (checkRank[m].checked) {
+        const valueRank = checkRank[m].value;
+        checkedRank.push(valueRank);
+      }
+    }
+
   const checkedLength =
     checkedCategory.length +
     checkedDuration.length +
     checkedMeat.length +
     checkedOrigin.length +
+    checkedRank.length + 
     checkedRegion.length + 
     checkedMachine.length;
 
@@ -127,6 +139,11 @@ function filterList() {
         checkedOrigin.length === 0 ||
         checkedOrigin.indexOf(item.values().origin) > -1;
 
+      // Check rank.
+      const rank =
+      checkedRank.length === 0 ||
+      checkedRank.indexOf(item.values().rank) > -1;
+
       // Check the region.
       const region =
       checkedRegion.length === 0 ||
@@ -150,7 +167,7 @@ function filterList() {
         ).length > 0;
 
       // Show the item if it matches the filters.
-      if (category && duration && meat && origin && region && machine) {
+      if (category && duration && meat && origin && rank && region && machine) {
         return true;
       }
 

@@ -4,6 +4,7 @@ ref: taco-burger
 image: true
 time: 10
 category: dinner
+rank: B
 origin: USA
 flag: 🇺🇸
 tags:

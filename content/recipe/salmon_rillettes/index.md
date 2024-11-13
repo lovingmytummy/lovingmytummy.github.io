@@ -4,6 +4,7 @@ ref: salmon-rillettes
 image: true
 time: 20
 category: snacks
+rank: SS
 origin: french
 flag: 🇫🇷
 tags:

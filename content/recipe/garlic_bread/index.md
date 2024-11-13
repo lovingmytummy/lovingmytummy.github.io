@@ -4,6 +4,7 @@ ref: garlic-bread
 image: true
 time: 15
 category: brunch
+rank: B
 origin: italian
 flag: 🇮🇹
 tags:

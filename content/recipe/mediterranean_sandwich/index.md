@@ -4,6 +4,7 @@ ref: mediterranean-sandwich
 image: true
 time: 2
 category: brunch
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:

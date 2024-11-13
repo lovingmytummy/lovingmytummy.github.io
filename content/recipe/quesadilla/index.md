@@ -4,6 +4,7 @@ ref: quesadilla
 image: true
 time: 6
 category: dinner
+rank: B
 origin: mexican
 flag: 🇲🇽
 tags:

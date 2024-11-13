@@ -4,6 +4,7 @@ ref: garlic-mushrooms
 image: true
 time: 15
 category: dinner
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:

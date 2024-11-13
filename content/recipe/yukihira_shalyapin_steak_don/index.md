@@ -4,6 +4,7 @@ ref: yukihira-style-shalyapin-steak-don
 image: true
 time: 60
 category: lunch
+rank: SSS
 origin: japanese
 flag: 🇯🇵
 tags:

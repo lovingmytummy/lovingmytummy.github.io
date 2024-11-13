@@ -4,6 +4,7 @@ ref: chicken-kebab
 image: true
 time: 150
 category: lunch
+rank: SS
 origin: turkish
 flag: 🇹🇷
 tags:

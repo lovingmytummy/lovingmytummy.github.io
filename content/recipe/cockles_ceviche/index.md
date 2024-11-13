@@ -4,6 +4,7 @@ ref: cockles-ceviche
 image: true
 time: 5
 category: lunch
+rank: A
 origin: peruan
 flag: 🇵🇪
 tags:

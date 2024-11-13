@@ -4,6 +4,7 @@ ref: gohan
 image: true
 time: 60
 category: lunch
+rank: B
 origin: japanese
 flag: 🇯🇵
 tags:

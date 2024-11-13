@@ -4,6 +4,7 @@ ref: tzatziki
 image: true
 time: 10
 category: sauces
+rank: A
 origin: greek
 flag: 🇬🇷
 tags:

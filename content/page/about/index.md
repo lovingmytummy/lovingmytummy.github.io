@@ -21,5 +21,15 @@ Some facts about this project:
 * Built with [Hugo](https://gohugo.io) and hosted on [GitHub Pages](https://pages.github.com).
 * Template adapted from the [Summer QRemix](https://github.com/mipmip/summer-qremix?ref=jekyll-themes.com) template by [Pim Snel](https://github.com/mipmip), originally ported from the Jekyll [Summer](https://github.com/connor-baer/summer) theme by [Connor Bär](https://connorbaer.com/).
 
+* Each recipe is rated using the S-Rank:
+    - **SSS**: So so excellent
+    - **SS**: So excellent
+    - **S**: ⭐⭐⭐⭐⭐⭐ Exemplary, excellent [90-100%] (A++, 11/10, 👍👍👍) 
+    - **A**: ⭐⭐⭐⭐⭐ Very good [80-89%] (👍👍) 
+    - **B**: ⭐⭐⭐⭐ Good [70-79%] (👍)
+    - **C**: ⭐⭐⭐ Average, pass [60-69%]
+    - **D**: ⭐⭐ Approved, acceptable [50-59%]
+    - **F**: ⭐ Unacceptable, failed [0-49%] (👎)
+
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/lovingmytummy/lovingmytummy.github.io/issues/new).

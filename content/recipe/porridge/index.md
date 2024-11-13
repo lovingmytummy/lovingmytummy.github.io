@@ -4,6 +4,7 @@ ref: porridge
 image: true
 time: 7
 category: breakfast
+rank: B
 origin: UK
 flag: 🇬🇧
 tags:

@@ -4,6 +4,7 @@ ref: piquillo-peppers
 image: true
 time: 10
 category: brunch
+rank: B
 origin: spanish
 flag: 🇪🇸
 tags:

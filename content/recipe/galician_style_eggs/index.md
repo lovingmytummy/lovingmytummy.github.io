@@ -4,6 +4,7 @@ ref: galician-style-eggs
 image: true
 time: 15
 category: brunch
+rank: B
 origin: spanish
 flag: 🇪🇸
 tags:

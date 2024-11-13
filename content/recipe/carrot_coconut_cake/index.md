@@ -4,6 +4,7 @@ ref: carrot-coconut-cake
 image: true
 time: 40
 category: dessert
+rank: A
 origin: UK
 flag: 🇬🇧
 tags:

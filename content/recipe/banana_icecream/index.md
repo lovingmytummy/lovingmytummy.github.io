@@ -4,6 +4,7 @@ ref: banana-icecream
 image: true
 time: 35
 category: dessert
+rank: B
 origin: persian
 flag: 🇮🇷
 tags:

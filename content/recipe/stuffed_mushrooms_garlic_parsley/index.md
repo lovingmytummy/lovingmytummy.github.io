@@ -4,6 +4,7 @@ ref: stuffed-mushrooms-garlic-parsley
 image: true
 time: 20
 category: brunch
+rank: D
 origin: spanish
 flag: 🇪🇸
 tags:

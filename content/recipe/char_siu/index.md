@@ -3,6 +3,7 @@ title: Char Siu (Chinese BBQ pork)
 ref: char-siu
 time: 60
 category: lunch
+rank: B
 origin: chinese
 flag: 🇨🇳
 tags:

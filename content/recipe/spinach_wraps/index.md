@@ -3,6 +3,7 @@ title: Spinach Wraps
 ref: spinach-wraps
 time: 15
 category: dinner
+rank: D
 origin: spanish
 flag: 🇪🇸
 tags:

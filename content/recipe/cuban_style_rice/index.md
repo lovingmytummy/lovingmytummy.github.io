@@ -4,6 +4,7 @@ ref: cuban-style-rice
 image: true
 time: 35
 category: lunch
+rank: B
 origin: spanish
 flag: 🇪🇸
 tags:

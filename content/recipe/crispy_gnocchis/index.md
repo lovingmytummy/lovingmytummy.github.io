@@ -4,6 +4,7 @@ ref: crispy-gnocchi
 image: true
 time: 20
 category: snacks
+rank: A
 origin: italian
 flag: 🇮🇹
 tags:

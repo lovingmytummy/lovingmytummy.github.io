@@ -4,6 +4,7 @@ ref: oat-and-chocolate-mousse
 image: true
 time: 15
 category: snacks
+rank: C
 origin: french
 flag: 🇫🇷
 tags:

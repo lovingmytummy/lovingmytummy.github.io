@@ -4,6 +4,7 @@ ref: spring-bread
 image: true
 time: 7
 category: brunch
+rank: S
 origin: italian
 flag: 🇮🇹
 tags:

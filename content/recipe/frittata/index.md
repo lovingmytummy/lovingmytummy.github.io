@@ -4,6 +4,7 @@ ref: frittata
 image: true
 time: 20
 category: lunch
+rank: D
 origin: italian
 flag: 🇮🇹
 tags:

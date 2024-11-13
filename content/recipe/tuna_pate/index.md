@@ -4,6 +4,7 @@ ref: tuna-pate
 image: true
 time: 5
 category: snacks
+rank: B
 origin: french
 flag: 🇫🇷
 tags:

@@ -4,6 +4,7 @@ ref: chocolate-blood-sausage
 image: true
 time: 20
 category: snacks
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:

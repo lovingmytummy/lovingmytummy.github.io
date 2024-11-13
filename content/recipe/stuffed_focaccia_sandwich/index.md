@@ -4,6 +4,7 @@ ref: stuffed-focaccia-sandwich
 image: true
 time: 15
 category: brunch
+rank: D
 origin: italian
 flag: 🇮🇹
 tags:

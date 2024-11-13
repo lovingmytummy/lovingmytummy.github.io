@@ -4,6 +4,7 @@ ref: sharlotka
 image: true
 time: 60
 category: dessert
+rank: D
 origin: russian
 flag: 🇷🇺
 tags:

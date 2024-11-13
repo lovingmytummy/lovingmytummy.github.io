@@ -4,6 +4,7 @@ ref: carrot-coconut-balls
 image: true
 time: 30
 category: snacks
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:

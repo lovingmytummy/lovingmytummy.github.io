@@ -4,6 +4,7 @@ ref: esquites
 image: true
 time: 2
 category: snacks
+rank: S
 origin: mexican
 flag: 🇲🇽
 tags:

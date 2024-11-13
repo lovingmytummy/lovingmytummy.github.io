@@ -4,6 +4,7 @@ ref: apple-cinnamon-oatmeal-cookies
 image: true
 time: 45
 category: snacks
+rank: C
 origin: USA
 flag: 🇺🇸
 tags:

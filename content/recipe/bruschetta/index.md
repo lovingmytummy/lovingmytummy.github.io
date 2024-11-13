@@ -4,6 +4,7 @@ ref: bruschetta
 image: true
 time: 7
 category: brunch
+rank: A
 origin: italian
 flag: 🇮🇹
 tags:

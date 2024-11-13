@@ -4,6 +4,7 @@ ref: mushrooms-in-sauce-with-egg
 image: true
 time: 30
 category: lunch
+rank: C
 origin: spanish
 flag: 🇪🇸
 tags:

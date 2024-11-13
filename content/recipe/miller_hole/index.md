@@ -4,6 +4,7 @@ ref: miller-hole
 image: true
 time: 2
 category: breakfast
+rank: D
 origin: spanish
 flag: 🇪🇸
 tags:

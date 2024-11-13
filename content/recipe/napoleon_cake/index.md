@@ -4,6 +4,7 @@ ref: napoleon-cake
 image: true
 time: 150
 category: dessert
+rank: C
 origin: russian
 flag: 🇷🇺
 tags:

@@ -4,6 +4,7 @@ ref: mug-cake
 image: true
 time: 5
 category: breakfast
+rank: B
 origin: USA
 flag: 🇺🇸
 tags:

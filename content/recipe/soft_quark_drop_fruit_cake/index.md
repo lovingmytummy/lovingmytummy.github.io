@@ -4,6 +4,7 @@ ref: soft-quark-drop-fruit-cake
 image: true
 time: 60
 category: dessert
+rank: F
 origin: austrian
 flag: 🇦🇹
 tags:

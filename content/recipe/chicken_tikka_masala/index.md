@@ -4,6 +4,7 @@ ref: chicken-tikka-masala
 image: true
 time: 20
 category: lunch
+rank: SS
 origin: indian
 flag: 🇮🇳
 tags:

@@ -4,6 +4,7 @@ ref: sevillian-style-spinach-with-chickpeas
 image: true
 time: 30
 category: lunch
+rank: B
 origin: spanish
 flag: 🇪🇸
 tags:

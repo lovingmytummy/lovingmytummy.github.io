@@ -4,6 +4,7 @@ ref: oat-and-chocolate-cookies
 image: true
 time: 20
 category: snacks
+rank: S
 origin: persian
 flag: 🇮🇷
 tags:

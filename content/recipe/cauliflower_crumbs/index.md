@@ -4,6 +4,7 @@ ref: cauliflower-crumbs
 image: true
 time: 20
 category: dinner
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:

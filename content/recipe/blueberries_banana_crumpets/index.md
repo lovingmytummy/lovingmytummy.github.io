@@ -4,6 +4,7 @@ ref: bueberries-banana-crumpets
 image: true
 time: 15
 category: breakfast
+rank: F
 origin: UK
 flag: 🇬🇧
 tags:

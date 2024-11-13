@@ -4,6 +4,7 @@ ref: loaded-fries
 image: true
 time: 30
 category: lunch
+rank: B
 origin: USA
 flag: 🇺🇸
 tags:

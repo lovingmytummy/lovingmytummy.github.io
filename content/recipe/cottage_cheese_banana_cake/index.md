@@ -4,6 +4,7 @@ ref: cottage_cheese_banana_cake
 image: true
 time: 30
 category: dessert
+rank: A
 origin: USA
 flag: 🇺🇸
 tags:

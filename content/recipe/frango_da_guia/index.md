@@ -4,6 +4,7 @@ ref: frango-da-guia
 image: true
 time: 60
 category: lunch
+rank: SS
 origin: portuguese
 flag: 🇵🇹
 tags:

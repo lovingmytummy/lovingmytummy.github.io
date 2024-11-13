@@ -4,6 +4,7 @@ ref: spaghetti-aglio-e-olio
 image: true
 time: 20
 category: lunch
+rank: S
 origin: italian
 flag: 🇮🇹
 tags:

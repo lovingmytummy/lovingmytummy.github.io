@@ -4,6 +4,7 @@ ref: pear-upside-down-cake
 image: true
 time: 60
 category: dessert
+rank: A
 origin: USA
 flag: 🇺🇸
 tags:

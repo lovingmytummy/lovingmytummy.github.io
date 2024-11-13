@@ -4,6 +4,7 @@ ref: mini-chocolate-tartlets
 image: true
 time: 30
 category: snacks
+rank: D
 origin: USA
 flag: 🇺🇸
 tags:

@@ -4,6 +4,7 @@ ref: invisible-apple-cake
 image: true
 time: 50
 category: dessert
+rank: B
 origin: german
 flag: 🇩🇪
 tags:

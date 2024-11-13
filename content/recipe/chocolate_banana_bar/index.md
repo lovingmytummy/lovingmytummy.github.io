@@ -4,6 +4,7 @@ ref: chocolate-banana-bar
 image: true
 time: 70
 category: snacks
+rank: B
 origin: USA
 flag: 🇺🇸
 tags:

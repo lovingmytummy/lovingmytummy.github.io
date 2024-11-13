@@ -4,6 +4,7 @@ ref: lentils-donettes
 image: true
 time: 20
 category: snacks
+rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
