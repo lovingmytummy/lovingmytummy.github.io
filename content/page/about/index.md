@@ -22,9 +22,9 @@ Some facts about this project:
 * Template adapted from the [Summer QRemix](https://github.com/mipmip/summer-qremix?ref=jekyll-themes.com) template by [Pim Snel](https://github.com/mipmip), originally ported from the Jekyll [Summer](https://github.com/connor-baer/summer) theme by [Connor Bär](https://connorbaer.com/).
 
 * Each recipe is rated using the S-Rank based on a personal opinion:
-    - **SSS**: So so excellent
-    - **SS**: So excellent
-    - **S**: ⭐⭐⭐⭐⭐⭐ Exemplary, excellent [90-100%] (A++, 11/10, 👍👍👍) 
+    - **SSS**: 🌟🌟🌟 So so excellent
+    - **SS**: 🌟🌟 So excellent
+    - **S**: ⭐⭐⭐⭐⭐⭐ Exemplary, excellent [90-100%] (🌟, A++, 11/10, 👍👍👍) 
     - **A**: ⭐⭐⭐⭐⭐ Very good [80-89%] (👍👍) 
     - **B**: ⭐⭐⭐⭐ Good [70-79%] (👍)
     - **C**: ⭐⭐⭐ Average, pass [60-69%]
