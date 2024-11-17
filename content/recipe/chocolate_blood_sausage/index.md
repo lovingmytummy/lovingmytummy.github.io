@@ -36,4 +36,8 @@ side_image: ./images/aigen.jpg
 
 _Adaptation from [Eva Arguiñano](https://www.hogarmania.com/cocina/recetas/postres/morcilla-dulce-40095.html)._
 
+_Similar recipes:_
+
+- _[Instagram @ugar90](https://www.instagram.com/reel/C0q84blrvYL/?utm_source=ig_web_copy_link)_
+
 <img src="images/chocolate_blood_sausage.jpg" style="width:250px; float:right;"/>

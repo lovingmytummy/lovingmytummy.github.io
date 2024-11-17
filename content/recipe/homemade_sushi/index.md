@@ -44,5 +44,10 @@ side_image: ./images/aigen.jpg
 
 _From [Instagram @fitfoodmania](https://www.instagram.com/reel/C8Ae75EoivD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
+_Other recipes:_
+
+- _[Instagram @receitas_japonesa](https://www.instagram.com/reel/C9FKG27u8iQ/?utm_source=ig_web_copy_link)_
+- _[Instagram @nomada.fitness](https://www.instagram.com/reel/C9VUagZNlsq/?utm_source=ig_web_copy_link)_
+
 
 <img src="images/sushi.png" style="width:250px; float:right;"/>

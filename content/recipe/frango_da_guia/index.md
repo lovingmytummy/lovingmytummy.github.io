@@ -58,5 +58,6 @@ _Similar recipes:_
 - _[Directo al paladar](https://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-frango-piri-piri-pollo-al-carbon-asado-al-estilo-portugues)_
 - _[20 minutos](https://www.20minutos.es/gastronomia/recetas/el-pueblo-de-portugal-conocido-como-la-capital-del-pollo-asi-es-su-receta-con-salsa-picante-5059820/)_
 - _[El Comidista](https://elpais.com/gastronomia/recetas/2022/01/31/receta/1643623059_297177.html)_
+- _[Instagram @vikikacosta](https://www.instagram.com/reel/Czl2Pu-NIjS/?utm_source=ig_web_copy_link)_
 
 <img src="images/frango_da_guia.png" style="width:250px; float:right;"/>

@@ -43,6 +43,9 @@ side_image: ./images/aigen.jpeg
 
 ---
 
-_From [Instagram @misrecetasairfryercosori](https://www.instagram.com/p/C1mSz6otO8m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Similar recipes:_
+
+- _[Instagram @misrecetasairfryercosori](https://www.instagram.com/p/C1mSz6otO8m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)_
+- _[Instagram @pilpileando_con_guille](https://www.instagram.com/reel/CrJn-fkPWip/?utm_source=ig_web_copy_link)_
 
 <img src="images/garlic_mushrooms.jpg" style="width:250px; float:right;"/>

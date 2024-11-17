@@ -76,6 +76,10 @@ side_image: ./images/aigen.jpg
 
 ---
 
-_Adaptation from [Instagram @titopezziafit](https://www.instagram.com/reel/C6UAgcQKITY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Other recipes:_
+
+- _[Instagram @titopezziafit](https://www.instagram.com/reel/C6UAgcQKITY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)_
+- _[Instagram @realfooding](https://www.instagram.com/reel/C1KkCRTqeT7/?utm_source=ig_web_copy_link)_
+- _[Instagram @appetizing.tv](https://www.instagram.com/reel/C6T3ZFSMmr9/?utm_source=ig_web_copy_link)_
 
 <img src="images/kfc_chicken_nuggets.png" style="width:250px; float:right;"/>

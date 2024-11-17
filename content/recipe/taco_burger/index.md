@@ -39,4 +39,8 @@ side_image: ./images/aigen.jpeg
 
 _From [Instagram @solteroenlacocina](https://www.instagram.com/reel/Clj3KJbgDaK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
+_Similar recipes:_
+
+- _[Instagram @jh.food](https://www.instagram.com/reel/CrzhREGAG-B/?utm_source=ig_web_copy_link)_
+
 <img src="images/taco_burger.png" style="width:250px; float:right;"/>

@@ -1,6 +1,6 @@
 ---
-title: Banana icecream
-ref: banana-icecream
+title: Banana ice cream
+ref: banana-ice-cream
 image: true
 time: 35
 category: dessert
@@ -36,4 +36,4 @@ side_image: ./images/aigen.jpeg
 
 _Adaptation from [Instagram @miguelnaarfit](https://www.instagram.com/reel/C8Fg_5NCNkG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
-<img src="images/banana_icecream.jpg" style="width:250px; float:right;"/>
+<img src="images/banana_ice_cream.jpg" style="width:250px; float:right;"/>
