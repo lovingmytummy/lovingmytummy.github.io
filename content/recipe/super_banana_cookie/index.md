@@ -4,7 +4,7 @@ ref: super-banana-cookie
 image: true
 time: 15
 category: snacks
-rank: B
+rank: A
 origin: USA
 flag: 🇺🇸
 tags:
