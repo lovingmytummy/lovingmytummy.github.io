@@ -57,7 +57,7 @@ To prepare the rice bowl, follow the [Gohan receipt](recipe/gohan-rice/).
 3. Remove the tendons from the beef and beat it with a meat tenderizer until as flat as possible.
 4. Cover meat on both sides with the chopped onion and leave for 30 minutes or more. 
 5. Remove the onion and add salt and pepper to the steak.
-the onion until it changes color.
+6. Melt 1 tablespoon of butter in a frying pan, and fry the onion until it changes color.
 7. Adjust the flavor with salt and pepper and move the onion to a dish.
 8. Cook the steak to your preference (most would prefer medium-rare): Melt the ramining butter in the frying pan and fry both sides of the meat before taking it out.
 
