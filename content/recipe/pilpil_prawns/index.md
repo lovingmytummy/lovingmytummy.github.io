@@ -10,6 +10,7 @@ flag: 🇪🇸
 tags:
   - seafood🦪
   - prawns🦐
+  - garlic🧄
 ingredients:
   - name: large prawns or shrimp
     amount: 250

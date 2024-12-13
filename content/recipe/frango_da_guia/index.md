@@ -10,6 +10,7 @@ flag: 🇵🇹
 tags:
   - meat🥩
   - chicken🍗
+  - garlic🧄
   - gluten-free
 ingredients:
   - name: whole chicken (1.5 kg)
