@@ -4,7 +4,7 @@ ref: tiramisu
 image: true
 time: 15
 category: dessert
-rank: C
+rank: B
 origin: italian
 flag: 🇮🇹
 tags:
