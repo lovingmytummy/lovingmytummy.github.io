@@ -20,9 +20,6 @@ ingredients:
   - name: large eggs
     amount: 2
     unit: null
-  - name: large eggs
-    amount: 2
-    unit: null
   - name: granulated sugar
     amount: 50
     unit: g
