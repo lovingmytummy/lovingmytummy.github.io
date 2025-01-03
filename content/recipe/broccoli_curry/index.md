@@ -57,4 +57,10 @@ Add yogurt: Lower the heat and stir in the Greek yogurt, mixing well to avoid cu
 2. **Add the walnuts:** Sprinkle the chopped walnuts over the curry and stir lightly to incorporate.
 3. **Serve:** Serve hot with steamed rice, naan bread, or as a standalone dish.
 
+
+## Tips
+- For extra flavor, toast the walnuts lightly before adding them to the curry.
+- You can add a splash of coconut milk or cream for a richer sauce.
+- Garnish with fresh cilantro or a squeeze of lemon juice for added freshness.
+
 ---
