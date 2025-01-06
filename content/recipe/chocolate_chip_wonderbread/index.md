@@ -4,7 +4,7 @@ ref: chocolate-chip-wonderbread
 image: true
 time: 40
 category: snacks
-rank: B
+rank: S
 origin: USA
 flag: 🇺🇸
 tags:
