@@ -11,7 +11,7 @@ tags:
   - broccoli🥦
   - pizza🍕
   - gluten-free
-  - vegan
+  - vegetarian
 ingredients:
   - name: chopped broccoli steamed (florets and/or stems)
     amount: 1
