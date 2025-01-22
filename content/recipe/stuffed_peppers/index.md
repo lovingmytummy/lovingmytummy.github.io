@@ -10,7 +10,7 @@ flag: 🇪🇸
 tags:
   - bell peppers🫑
   - gluten-free
-  - Mediterranean
+  - mediterranean🌍
 ingredients:
   - name: bell peppers (any color - green, yellow, red, orange)
     amount: 3

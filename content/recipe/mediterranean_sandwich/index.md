@@ -11,6 +11,7 @@ tags:
   - sandwich🥪
   - baguette🥖
   - fish🦈
+  - mediterranean🌍
 ingredients:
   - name: baguette
     amount: 1

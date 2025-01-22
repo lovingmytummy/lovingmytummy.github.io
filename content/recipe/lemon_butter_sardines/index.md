@@ -12,7 +12,7 @@ tags:
   - butter🧈
   - lemon🍋
   - fish🦈
-  - Mediterranean
+  - mediterranean🌍
 ingredients:
   - name: fresh sardines (or canned)
     amount: 4
