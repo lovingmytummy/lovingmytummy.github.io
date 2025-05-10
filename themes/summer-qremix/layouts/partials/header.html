@@ -1,0 +1,5 @@
+{{ range .AllTranslations }}
+  {{ if ne .Lang $.Site.Language.Lang }}
+    <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+  {{ end }}
+{{ end }}

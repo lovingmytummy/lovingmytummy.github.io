@@ -26,8 +26,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-DefaultContentLanguage: es
-defaultContentLanguageInSubdir: false  # evita que las URLs en español tengan /es/
+defaultContentLanguage: es
+defaultContentLanguageInSubdir: true  # evita que las URLs en español tengan /es/
 languages:
  es:
    languageName: Español
