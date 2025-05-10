@@ -1,5 +1,4 @@
 baseURL: 'https://lovingmytummy.github.io/'
-languageCode: en-us
 title: Loving my tummy
 theme: summer-qremix
 params:
@@ -27,14 +26,15 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-DefaultContentLanguage: "en"
-#languages:
-#  en:
-#    title: "Loving my tummy"
-#    languageName: "English"
-#    weight: 1
-#  es:
-#    title: "Loving my tummy"
-#    languageName: "Spanish"
-#    weight: 2
-#defaultContentLanguageInSubdir: false
+DefaultContentLanguage: es
+defaultContentLanguageInSubdir: false  # evita que las URLs en español tengan /es/
+languages:
+ es:
+   languageName: Español
+   weight: 1
+   contentDir: "content/es"
+ en:
+   languageName: English
+   weight: 2
+   contentDir: "content/en"
+
