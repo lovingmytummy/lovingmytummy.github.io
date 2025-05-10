@@ -15,7 +15,7 @@
   {{ end }}
 
   <title>
-    {{ if .Params.title }} {{ .Params.title }} · {{ .Site.Title }} {{ else }} {{ .Site.Title }} · {{ .Site.Params.tagline }} {{ end }}
+    {{ if .Params.title }} {{ .Params.title }} · {{ .Site.Title }} {{ else }} {{ .Site.Title }} · {{ i18n "tagline" }} {{ end }}
   </title>
 
   {{ $scss := resources.Get "scss/styles.scss" }}

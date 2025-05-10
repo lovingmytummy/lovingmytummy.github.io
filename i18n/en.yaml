@@ -1,2 +1,98 @@
 - id: siteTitle
   translation: Loving my tummy
+- id: tagline
+  translation: Cook like an engineer, eat like a healthy AI
+- id: Breakfast
+  translation: Breakfast
+- id: Brunch
+  translation: Brunch
+- id: Lunch
+  translation: Lunch
+- id: Dinner
+  translation: Dinner
+- id: Snacks
+  translation: Snacks
+- id: Dessert
+  translation: Dessert
+- id: Sauces
+  translation: Sauces
+- id: Vegetarian
+  translation: Vegetarian
+- id: Vegan
+  translation: Vegan
+- id: Gluten-free
+  translation: Gluten-free
+- id: Meat
+  translation: Meat
+- id: Fish
+  translation: Fish
+- id: So so excellent
+  translation: So so excellent
+- id: So excellent
+  translation: So excellent
+- id: Exemplary, excellent
+  translation: Exemplary, excellent
+- id: Very good
+  translation: Very good
+- id: Good
+  translation: Good
+- id: Average, pass
+  translation: Average, pass
+- id: Approved, acceptable
+  translation: Approved, acceptable
+- id: Unacceptable, failed
+  translation: Unacceptable, failed
+- id: Mediterranean
+  translation: Mediterranean
+- id: Latin-American
+  translation: Latin-American
+- id: Spanish
+  translation: Spanish
+- id: Italian
+  translation: Italian
+- id: French
+  translation: French
+- id: German
+  translation: German
+- id: UK
+  translation: UK
+- id: Russian
+  translation: Russian
+- id: Greek
+  translation: Greek
+- id: Turkish
+  translation: Turkish
+- id: USA
+  translation: USA
+- id: Mexican
+  translation: Mexican
+- id: Japanese
+  translation: Japanese
+- id: Indian
+  translation: Indian
+- id: Chinese
+  translation: Chinese
+- id: Air Fryer
+  translation: Air Fryer
+- id: Microwave
+  translation: Microwave
+- id: Ingredients
+  translation: Ingredients
+- id: Share me
+  translation: Share me
+- id: Close
+  translation: Close
+- id: Preparation time
+  translation: Preparation time
+- id: Tags
+  translation: Tags
+- id: minutes
+  translation: minutes
+- id: Category
+  translation: Category
+- id: Origin
+  translation: Origin
+- id: Rank
+  translation: Rank
+- id: "Search recipes, ingredients, tags..."
+  translation: "Search recipes, ingredients, tags..."

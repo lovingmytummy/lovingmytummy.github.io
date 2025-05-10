@@ -2,6 +2,7 @@
 layout: default
 title: About
 ref: about
+weight: 1
 ---
 
 > The first collection of healthy real-world recipes synthetized by Artificial Intelligence!

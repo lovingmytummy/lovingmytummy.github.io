@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Tips and notes
-lang: en
+title: Consejos y notas
 ref: tips
+weight: 2
 ---
 
-* To sweeten recipes, it's better to use crushed dates or pure honey instead of sugar or artificial sweeteners.
-* Almost all oven recipes can also be made in the air fryer.
-* When I specify **olive oil** I mean always **extra virgin olive oil (AOVE)**.
-* **Cutting fresh herbs:** Cutting fresh herbs should be done with a very sharp knife, taking all the time needed to ensure they are sliced, not crushed. Ideally, you want the knife to glide over the cutting board rather than mash the herbs.
-
-
+* Para endulzar las recetas, es mejor usar dátiles triturados o miel pura en lugar de azúcar o edulcorantes artificiales.
+* Casi todas las recetas al horno también pueden hacerse en la freidora de aire.
+* Cuando especifico **aceite de oliva**, siempre me refiero a **aceite de oliva virgen extra (AOVE)**.
+* **Corte de hierbas frescas:** Cortar hierbas frescas debe hacerse con un cuchillo muy afilado, tomándose todo el tiempo necesario para asegurarse de que se cortan, no se aplastan. Idealmente, el cuchillo debe deslizarse sobre la tabla de cortar en lugar de machacar las hierbas.
 
 

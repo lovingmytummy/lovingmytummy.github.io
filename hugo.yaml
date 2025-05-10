@@ -2,7 +2,6 @@ baseURL: 'https://lovingmytummy.github.io/'
 title: Loving my tummy
 theme: summer-qremix
 params:
-  tagline: Cook like an engineer, eat like a healthy AI
   copyright: >-
     © 2024 [José Miguel Horcas](https://sites.google.com/view/josemiguelhorcas)
   links:

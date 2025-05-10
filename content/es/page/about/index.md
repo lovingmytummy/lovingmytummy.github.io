@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About
+title: Acerca de
 ref: about
+weight: 1
 ---
 
 > ¡La primera colección de recetas saludables del mundo real sintetizadas por Inteligencia Artificial!

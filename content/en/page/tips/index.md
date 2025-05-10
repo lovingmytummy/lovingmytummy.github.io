@@ -3,6 +3,7 @@ layout: default
 title: Tips and notes
 lang: en
 ref: tips
+weight: 2
 ---
 
 * To sweeten recipes, it's better to use crushed dates or pure honey instead of sugar or artificial sweeteners.

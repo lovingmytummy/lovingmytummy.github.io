@@ -12,7 +12,7 @@
     {{ end }}
 
     <header class="content hero">
-      <a id="{{ .Params.title | urlize }}"><h1 class="hero-title">{{ $.Site.Params.tagline }}</h1></a>
+      <a id="{{ .Params.title | urlize }}"><h1 class="hero-title">{{ i18n "tagline" }}</h1></a>
       <h2 class="hero-title" style="font-size:1rem;">{{ len (where .Site.RegularPages "Section" "=" "recipe") }} recipes</h2>
     </header>
   </div>
@@ -21,7 +21,7 @@
     <form class="searchbar">
       <fieldset class="searchbar-group">
         <label class="searchbar-search" for="js-search">
-          <input class="search form-input" id="js-search" type="search" placeholder="Search recipes, ingredients, tags..." autocomplete="off" onkeypress="return event.keyCode != 13;">
+          <input class="search form-input" id="js-search" type="search" placeholder='{{ i18n "Search recipes, ingredients, tags..."}}' autocomplete="off" onkeypress="return event.keyCode != 13;">
           <svg class="search-icon form-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
             <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
           </svg>
@@ -31,31 +31,31 @@
       <fieldset class="searchbar-group">
         <label for="breakfast">
           <input class="searchbar-checkbox js-category" type="checkbox" id="breakfast" value="breakfast">
-          <span class="searchbar-button">Breakfast</span>
+          <span class="searchbar-button">{{ i18n "Breakfast" }}</span>
         </label>
         <label for="brunch">
           <input class="searchbar-checkbox js-category" type="checkbox" id="brunch" value="brunch">
-          <span class="searchbar-button">Brunch</span>
+          <span class="searchbar-button">{{ i18n "Brunch" }}</span>
         </label>
         <label for="lunch">
           <input class="searchbar-checkbox js-category" type="checkbox" id="lunch" value="lunch">
-          <span class="searchbar-button">Lunch</span>
+          <span class="searchbar-button">{{ i18n "Lunch" }}</span>
         </label>
         <label for="dinner">
           <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" value="dinner">
-          <span class="searchbar-button">Dinner</span>
+          <span class="searchbar-button">{{ i18n "Dinner" }}</span>
         </label>
         <label for="snacks">
           <input class="searchbar-checkbox js-category" type="checkbox" id="snacks" value="snacks">
-          <span class="searchbar-button">Snacks</span>
+          <span class="searchbar-button">{{ i18n "Snacks" }}</span>
         </label>
         <label for="dessert">
           <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" value="dessert">
-          <span class="searchbar-button">Dessert</span>
+          <span class="searchbar-button">{{ i18n "Dessert" }}</span>
         </label>
         <label for="sauces">
           <input class="searchbar-checkbox js-category" type="checkbox" id="sauces" value="sauces">
-          <span class="searchbar-button">Sauces</span>
+          <span class="searchbar-button">{{ i18n "Sauces" }}</span>
         </label>
       </fieldset>
       <fieldset class="searchbar-group">
@@ -75,133 +75,133 @@
       <fieldset class="searchbar-group">
         <label for="vegetarian">
           <input class="searchbar-checkbox js-meat" type="checkbox" id="vegetarian" value="vegetarian">
-          <span class="searchbar-button">Vegetarian</span>
+          <span class="searchbar-button">{{ i18n "Vegetarian" }}</span>
         </label>
         <label for="vegan">
           <input class="searchbar-checkbox js-meat" type="checkbox" id="vegan" value="vegan">
-          <span class="searchbar-button">Vegan</span>
+          <span class="searchbar-button">{{ i18n "Vegan" }}</span>
         </label>
         <label for="gluten-free">
           <input class="searchbar-checkbox js-meat" type="checkbox" id="gluten-free" value="gluten-free">
-          <span class="searchbar-button">Gluten-free</span>
+          <span class="searchbar-button">{{ i18n "Gluten-free" }}</span>
         </label>
         <label for="meat">
           <input class="searchbar-checkbox js-meat" type="checkbox" id="meat" value="meat🥩">
-          <span class="searchbar-button">Meat🥩</span>
+          <span class="searchbar-button">{{ i18n "Meat" }}🥩</span>
         </label>
         <label for="fish">
           <input class="searchbar-checkbox js-meat" type="checkbox" id="fish" value="fish🦈">
-          <span class="searchbar-button">Fish🦈</span>
+          <span class="searchbar-button">{{ i18n "Fish" }}🦈</span>
         </label>
       </fieldset>
       <fieldset class="searchbar-group">
         <label for="SSS">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="SSS" value="SSS">
-          <span class="searchbar-button SSS" title="🌟🌟🌟 So so excellent">SSS</span>
+          <span class="searchbar-button SSS" title='🌟🌟🌟 {{ i18n "So so excellent" }}'>SSS</span>
         </label>
         <label for="SS">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="SS" value="SS">
-          <span class="searchbar-button SS" title="🌟🌟 So excellent">SS</span>
+          <span class="searchbar-button SS" title='🌟🌟 {{ i18n "So excellent" }}'>SS</span>
         </label>
         <label for="S">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="S" value="S">
-          <span class="searchbar-button S" title="⭐⭐⭐⭐⭐⭐ Exemplary, excellent [90-100%] (🌟, A++, 11/10, 👍👍👍)">S</span>
+          <span class="searchbar-button S" title='⭐⭐⭐⭐⭐⭐ {{ i18n "Exemplary, excellent" }} [90-100%] (🌟, A++, 11/10, 👍👍👍)'>S</span>
         </label>
         <label for="A">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="A" value="A">
-          <span class="searchbar-button A" title="⭐⭐⭐⭐⭐ Very good [80-89%] (👍👍)">A</span>
+          <span class="searchbar-button A" title='⭐⭐⭐⭐⭐ {{ i18n "Very good" }} [80-89%] (👍👍)'>A</span>
         </label>
         <label for="B">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="B" value="B">
-          <span class="searchbar-button B" title="⭐⭐⭐⭐ Good [70-79%] (👍)">B</span>
+          <span class="searchbar-button B" title='⭐⭐⭐⭐ {{ i18n "Good" }} [70-79%] (👍)'>B</span>
         </label>
         <label for="C">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="C" value="C">
-          <span class="searchbar-button C" title="⭐⭐⭐ Average, pass [60-69%]">C</span>
+          <span class="searchbar-button C" title='⭐⭐⭐ {{ i18n "Average, pass" }} [60-69%]'>C</span>
         </label>
         <label for="D">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="D" value="D">
-          <span class="searchbar-button D" title="⭐⭐ Approved, acceptable [50-59%]">D</span>
+          <span class="searchbar-button D" title='⭐⭐ {{ i18n "Approved, acceptable" }} [50-59%]'>D</span>
         </label>
         <label for="F">
           <input class="searchbar-checkbox js-rank" type="checkbox" id="F" value="F">
-          <span class="searchbar-button F" title="⭐ Unacceptable, failed [0-49%] (👎)">F</span>
+          <span class="searchbar-button F" title='⭐ {{ i18n "Unacceptable, failed" }} [0-49%] (👎)'>F</span>
         </label>
       </fieldset>
       <fieldset class="searchbar-group">
         <label for="mediterranean">
           <input class="searchbar-checkbox js-region" type="checkbox" id="mediterranean" value="mediterranean🌍">
-          <span class="searchbar-button">Mediterranean🌍</span>
+          <span class="searchbar-button">{{ i18n "Mediterranean" }}🌍</span>
         </label>
         <label for="american">
           <input class="searchbar-checkbox js-region" type="checkbox" id="american" value="latin-american🌎">
-          <span class="searchbar-button">Latin-American🌎</span>
+          <span class="searchbar-button">{{ i18n "Latin-American" }}🌎</span>
         </label>
         <label for="asian">
           <input class="searchbar-checkbox js-region" type="checkbox" id="asian" value="asian🌏">
-          <span class="searchbar-button">Asian🌏</span>
+          <span class="searchbar-button">{{ i18n "Asian" }}🌏</span>
         </label>
         <label for="spanish">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="spanish" value="spanish">
-          <span class="searchbar-button" title="Spanish">🇪🇸</span>
+          <span class="searchbar-button" title='{{ i18n "Spanish" }}'>🇪🇸</span>
         </label>
         <label for="italian">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="italian" value="italian">
-          <span class="searchbar-button" title="Italian">🇮🇹</span>
+          <span class="searchbar-button" title='{{ i18n "Italian" }}'>🇮🇹</span>
         </label>
         <label for="french">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="french" value="french">
-          <span class="searchbar-button" title="French">🇫🇷</span>
+          <span class="searchbar-button" title='{{ i18n "French" }}'>🇫🇷</span>
         </label>
         <label for="german">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="german" value="german">
-          <span class="searchbar-button" title="German">🇩🇪</span>
+          <span class="searchbar-button" title='{{ i18n "German" }}'>🇩🇪</span>
         </label>
         <label for="uk">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="uk" value="UK">
-          <span class="searchbar-button" title="UK">🇬🇧</span>
+          <span class="searchbar-button" title='{{ i18n "UK" }}'>🇬🇧</span>
         </label>
         <label for="russian">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="russian" value="russian">
-          <span class="searchbar-button" title="Russian">🇷🇺</span>
+          <span class="searchbar-button" title='{{ i18n "Russian" }}'>🇷🇺</span>
         </label>
         <label for="greek">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="greek" value="greek">
-          <span class="searchbar-button" title="Greek">🇬🇷</span>
+          <span class="searchbar-button" title='{{ i18n "Greek" }}'>🇬🇷</span>
         </label>
         <label for="turkish">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="turkish" value="turkish">
-          <span class="searchbar-button" title="Turkish">🇹🇷</span>
+          <span class="searchbar-button" title='{{ i18n "Turkish" }}'>🇹🇷</span>
         </label>
         <label for="usa">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="usa" value="USA">
-          <span class="searchbar-button" title="USA">🇺🇸</span>
+          <span class="searchbar-button" title='{{ i18n "USA" }}'>🇺🇸</span>
         </label>
         <label for="mexican">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="mexican" value="mexican">
-          <span class="searchbar-button" title="Mexican">🇲🇽</span>
+          <span class="searchbar-button" title='{{ i18n "Mexican" }}'>🇲🇽</span>
         </label>
         <label for="japanese">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="japanese" value="japanese">
-          <span class="searchbar-button" title="Japanese">🇯🇵</span>
+          <span class="searchbar-button" title='{{ i18n "Japanese" }}'>🇯🇵</span>
         </label>
         <label for="indian">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="indian" value="indian">
-          <span class="searchbar-button" title="Indian">🇮🇳</span>
+          <span class="searchbar-button" title='{{ i18n "Indian" }}'>🇮🇳</span>
         </label>
         <label for="chinese">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="chinese" value="chinese">
-          <span class="searchbar-button" title="Chinese">🇨🇳</span>
+          <span class="searchbar-button" title='{{ i18n "Chinese" }}'>🇨🇳</span>
         </label>
       </fieldset>
       <fieldset class="searchbar-group">
         <label for="airfryer">
           <input class="searchbar-checkbox js-machine" type="checkbox" id="airfryer" value="air-fryer">
-          <span class="searchbar-button">Air Fryer</span>
+          <span class="searchbar-button">{{ i18n "Air Fryer" }}</span>
         </label>
         <label for="microwave">
           <input class="searchbar-checkbox js-machine" type="checkbox" id="microwave" value="microwave">
-          <span class="searchbar-button">Microwave</span>
+          <span class="searchbar-button">{{ i18n "Microwave" }}</span>
         </label>
       </fieldset>
     </form>

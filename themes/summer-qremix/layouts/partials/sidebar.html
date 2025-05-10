@@ -2,7 +2,7 @@
   <div class="sidebar-background" style="background-image: url('{{ .Permalink }}{{ .Params.side_image }}'); "></div>
   <div class="sidebar-overlay"></div>
   <div class="sidebar-wrapper">
-    <h1 class="sidebar-headline">Ingredients</h1>
+    <h1 class="sidebar-headline">{{ i18n "Ingredients" }}</h1>
     <form class="sidebar-ingredients">
       {{ range .Params.ingredients }}
         <div class="sidebar-ingredient">

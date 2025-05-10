@@ -1,2 +1,100 @@
 - id: siteTitle
   translation: Loving my tummy
+- id: tagline
+  translation: Cocina como un ingeniero, come como una IA saludable
+- id: Breakfast
+  translation: Desayuno
+- id: Brunch
+  translation: Brunch
+- id: Lunch
+  translation: Almuerzo
+- id: Dinner
+  translation: Cena
+- id: Snacks
+  translation: Aperitivo
+- id: Dessert
+  translation: Postre
+- id: Sauces
+  translation: Salsas
+- id: Vegetarian
+  translation: Vegetariana
+- id: Vegan
+  translation: Vegana
+- id: Gluten-free
+  translation: Sin gluten
+- id: Meat
+  translation: Carne
+- id: Fish
+  translation: Pescado
+- id: So so excellent
+  translation: Extraordinaria
+- id: So excellent
+  translation: Excelente
+- id: Exemplary, excellent
+  translation: Genial
+- id: Very good
+  translation: Muy buena
+- id: Good
+  translation: Buena
+- id: Average, pass
+  translation: Aceptable
+- id: Approved, acceptable
+  translation: Aprobada
+- id: Unacceptable, failed
+  translation: Suspensa
+- id: Mediterranean
+  translation: Mediterránea
+- id: Latin-American
+  translation: Latinoamericana
+- id: Asian
+  translation: Asiática
+- id: Spanish
+  translation: Española
+- id: Italian
+  translation: Italiana
+- id: French
+  translation: Francesa
+- id: German
+  translation: Alemana
+- id: UK
+  translation: Inglesa
+- id: Russian
+  translation: Rusa
+- id: Greek
+  translation: Griega
+- id: Turkish
+  translation: Turca
+- id: USA
+  translation: Americana
+- id: Mexican
+  translation: Mejicana
+- id: Japanese
+  translation: Japonesa
+- id: Indian
+  translation: India
+- id: Chinese
+  translation: China
+- id: Air Fryer
+  translation: Freidora de aire
+- id: Microwave
+  translation: Microondas
+- id: Ingredients
+  translation: Ingredientes
+- id: Share me
+  translation: Compárteme
+- id: Close
+  translation: Cerrar
+- id: Preparation time
+  translation: Tiempo de preparación
+- id: Tags
+  translation: Etiquetas
+- id: minutes
+  translation: minutos
+- id: Category
+  translation: Categoría
+- id: Origin
+  translation: Origen
+- id: Rank
+  translation: Ranking
+- id: "Search recipes, ingredients, tags..."
+  translation: "Buscar recetas, ingredientes, etiquetas..."
