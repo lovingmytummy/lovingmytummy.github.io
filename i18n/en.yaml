@@ -2,29 +2,29 @@
   translation: Loving my tummy
 - id: tagline
   translation: Cook like an engineer, eat like a healthy AI
-- id: Breakfast
+- id: breakfast
   translation: Breakfast
-- id: Brunch
+- id: brunch
   translation: Brunch
-- id: Lunch
+- id: lunch
   translation: Lunch
-- id: Dinner
+- id: dinner
   translation: Dinner
-- id: Snacks
+- id: snacks
   translation: Snacks
-- id: Dessert
+- id: dessert
   translation: Dessert
-- id: Sauces
+- id: sauces
   translation: Sauces
-- id: Vegetarian
+- id: vegetarian
   translation: Vegetarian
-- id: Vegan
+- id: vegan
   translation: Vegan
-- id: Gluten-free
+- id: gluten-free
   translation: Gluten-free
-- id: Meat
+- id: meat
   translation: Meat
-- id: Fish
+- id: fish
   translation: Fish
 - id: So so excellent
   translation: So so excellent
@@ -46,32 +46,34 @@
   translation: Mediterranean
 - id: Latin-American
   translation: Latin-American
-- id: Spanish
-  translation: Spanish
-- id: Italian
-  translation: Italian
-- id: French
-  translation: French
-- id: German
-  translation: German
+- id: Asian
+  translation: Asian
+- id: spanish
+  translation: Spain
+- id: italian
+  translation: Italy
+- id: french
+  translation: France
+- id: german
+  translation: Germany
 - id: UK
   translation: UK
-- id: Russian
-  translation: Russian
-- id: Greek
-  translation: Greek
-- id: Turkish
-  translation: Turkish
+- id: russian
+  translation: Russia
+- id: greek
+  translation: Greece
+- id: turkish
+  translation: Turkey
 - id: USA
   translation: USA
-- id: Mexican
-  translation: Mexican
-- id: Japanese
-  translation: Japanese
-- id: Indian
-  translation: Indian
-- id: Chinese
-  translation: Chinese
+- id: mexican
+  translation: Mexico
+- id: japanese
+  translation: Japan
+- id: indian
+  translation: India
+- id: chinese
+  translation: China
 - id: Air Fryer
   translation: Air Fryer
 - id: Microwave

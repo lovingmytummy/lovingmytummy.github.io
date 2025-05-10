@@ -2,29 +2,29 @@
   translation: Loving my tummy
 - id: tagline
   translation: Cocina como un ingeniero, come como una IA saludable
-- id: Breakfast
+- id: breakfast
   translation: Desayuno
-- id: Brunch
+- id: brunch
   translation: Brunch
-- id: Lunch
+- id: lunch
   translation: Almuerzo
-- id: Dinner
+- id: dinner
   translation: Cena
-- id: Snacks
+- id: snacks
   translation: Aperitivo
-- id: Dessert
+- id: dessert
   translation: Postre
-- id: Sauces
+- id: sauces
   translation: Salsas
-- id: Vegetarian
+- id: vegetarian
   translation: Vegetariana
-- id: Vegan
+- id: vegan
   translation: Vegana
-- id: Gluten-free
+- id: gluten-free
   translation: Sin gluten
-- id: Meat
+- id: meat
   translation: Carne
-- id: Fish
+- id: fish
   translation: Pescado
 - id: So so excellent
   translation: Extraordinaria
@@ -48,31 +48,31 @@
   translation: Latinoamericana
 - id: Asian
   translation: Asiática
-- id: Spanish
-  translation: Española
-- id: Italian
-  translation: Italiana
-- id: French
-  translation: Francesa
-- id: German
-  translation: Alemana
+- id: spanish
+  translation: España
+- id: italian
+  translation: Italia
+- id: french
+  translation: Francia
+- id: german
+  translation: Alemania
 - id: UK
-  translation: Inglesa
-- id: Russian
-  translation: Rusa
-- id: Greek
-  translation: Griega
-- id: Turkish
-  translation: Turca
+  translation: Reino Unido
+- id: russian
+  translation: Rusia
+- id: greek
+  translation: Grecia
+- id: turkish
+  translation: Turkia
 - id: USA
-  translation: Americana
-- id: Mexican
-  translation: Mejicana
-- id: Japanese
-  translation: Japonesa
-- id: Indian
+  translation: Estados Unidos
+- id: mexican
+  translation: México
+- id: japanese
+  translation: Japón
+- id: indian
   translation: India
-- id: Chinese
+- id: chinese
   translation: China
 - id: Air Fryer
   translation: Freidora de aire
