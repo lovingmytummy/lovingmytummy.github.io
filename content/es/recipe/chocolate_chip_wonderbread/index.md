@@ -1,5 +1,5 @@
 ---
-title: Chocolate Chip "Wonderbread"
+title: Pan de chocolate "Wonderbread"
 ref: chocolate-chip-wonderbread
 image: true
 time: 40
@@ -13,30 +13,28 @@ tags:
   - vegetarian
   - american
 ingredients:
-  - name: egg white powder
+  - name: polvo de clara de huevo
     amount: 1
-    unit: cup
-  - name: water
+    unit: taza
+  - name: agua
     amount: 1
-    unit: cup
-  - name: Greek yogurt
+    unit: taza
+  - name: yogur griego
     amount: 1/2
-    unit: cup
-  - name: chocolate chips
+    unit: taza
+  - name: chispas de chocolate
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Prepare Batter:** In a stand mixer, combine the egg white powder and water.
-Beat until stiff peaks form. 
-2. **Combine Ingredients:** Gently fold in the Greek yogurt, being careful not to overmix.
-Add the chocolate chips and fold until just combined.
-3. **Bake:** Transfer the batter into an oiled baking tin. Bake in a preheated oven at 180°C (350°F) for about 30 minutes, or until the top is golden brown.
-4. **Cool and Serve:** Allow to cool slightly. It may deflate a bit, which is normal. Tear or cut off a piece and toast for a delicious treat!
+1. **Preparar la masa:** En una batidora de pie, combina el polvo de clara de huevo y el agua. Bate hasta que se formen picos firmes.
+2. **Mezclar los ingredientes:** Incorpora suavemente el yogur griego, con cuidado de no mezclar en exceso. Añade las chispas de chocolate y mezcla hasta que estén apenas combinadas.
+3. **Hornear:** Transfiere la masa a un molde para hornear engrasado. Hornea en un horno precalentado a 180°C (350°F) durante unos 30 minutos, o hasta que la parte superior esté dorada.
+4. **Enfriar y servir:** Deja enfriar ligeramente. Es posible que se desinfle un poco, lo cual es normal. Arranca o corta un trozo y tuéstalo para un delicioso bocado.
 
 ---
 
-_From [Instagram @your.keto.buddy](https://www.instagram.com/reel/C-9_ezySGAH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_De [Instagram @your.keto.buddy](https://www.instagram.com/reel/C-9_ezySGAH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/chocolate_chip_wonderbread.png" style="width:250px; float:right;"/>

@@ -1,5 +1,5 @@
 ---
-title: Bangers and potatoes
+title: Salchichas con patatas
 ref: bangers-potatoes
 image: true
 time: 30
@@ -13,40 +13,38 @@ tags:
   - meat
   - air-fryer
 ingredients:
-  - name: pork sausages (British-style)
+  - name: salchichas de cerdo (estilo británico)
     amount: 2
     unit: null
-  - name: baby potatoes
+  - name: patatas pequeñas
     amount: 200
     unit: g
-  - name: olive oil
+  - name: aceite de oliva
     amount: 1/2
-    unit: tbsp
-  - name: smoked paprika
+    unit: cucharada
+  - name: pimentón ahumado
     amount: 1/2
-    unit: tsp
-  - name: garlic powder
+    unit: cucharadita
+  - name: ajo en polvo
     amount: 1/4
-    unit: tsp
-  - name: dried rosemary or thyme
+    unit: cucharadita
+  - name: romero o tomillo seco
     amount: 1/4
-    unit: tsp
-  - name: salt
+    unit: cucharadita
+  - name: sal
     amount: 1/4
-    unit: tsp
-  - name: black pepper
+    unit: cucharadita
+  - name: pimienta negra
     amount: 1/4
-    unit: tsp
+    unit: cucharadita
 side_image: ./images/aigen.jpeg
 ---
 
-1. **Prepare the potatoes:** Wash and dry the potatoes. If using baby potatoes, halve them; otherwise, cut into 1-inch chunks. Toss the potatoes in olive oil and coat evenly with the seasoning blend. 
-2. **Preheat the air fryer:** Preheat to 200ºC (400ºF) for 3 minutes.
-3. **Cook the potatoes:** Place the seasoned potatoes in the air fryer basket. Cook at 200ºC (400ºF) for 10 minutes, shaking the basket halfway through.
-4. **Add the sausages:** After 10 minutes, add the sausages cutted in dices to the air fryer basket with the potatoes. Continue cooking at 200ºC (400ºF) for another 12-15 minutes, shaking the basket occasionally.
-5. **Check for doneness:** Ensure the sausages are fully cooked (internal temperature of 71ºC/160ºF) and the potatoes are golden and crispy. 
-6. **Serve and enjoy:** Plate the sausages with the roasted potatoes. Optional: Serve with gravy, Dijon mustard, or a side of peas for an authentic pub experience.
+1. **Prepara las patatas:** Lava y seca las patatas. Si usas patatas pequeñas, pártelas por la mitad; de lo contrario, córtalas en trozos de unos 2,5 cm. Mézclalas con el aceite de oliva y las especias hasta que queden bien cubiertas.
+2. **Precalienta la freidora de aire:** Programa a 200ºC durante 3 minutos.
+3. **Cocina las patatas:** Coloca las patatas sazonadas en la cesta de la freidora. Cocina a 200ºC durante 10 minutos, agitando la cesta a mitad de cocción.
+4. **Añade las salchichas:** Pasados los 10 minutos, añade las salchichas cortadas en dados a la cesta con las patatas. Cocina a 200ºC durante 12-15 minutos más, agitando de vez en cuando.
+5. **Comprueba la cocción:** Asegúrate de que las salchichas estén bien cocidas (temperatura interna de 71ºC) y las patatas doradas y crujientes.
+6. **Sirve y disfruta:** Sirve las salchichas junto con las patatas asadas. Opcional: acompaña con salsa gravy, mostaza de Dijon o guisantes para una experiencia auténtica de pub británico.
 
-This dish draws inspiration from the British love of sausages ("bangers") and roasted potatoes. While traditionally served as "Bangers and Mash" with mashed potatoes, the roasted variation is a hearty alternative often found in pub fare, particularly in rural areas.
-
----
+Este plato se inspira en el amor británico por las salchichas ("bangers") y las patatas asadas. Aunque tradicionalmente se sirve como "Bangers and Mash" con puré de patatas, esta versión al horno es una alternativa contundente que suele encontrarse en los pubs, especialmente en zonas rurales.

@@ -1,5 +1,5 @@
 ---
-title: Bacon cheeseburger
+title: Hamburguesa con bacon y queso
 ref: bacon-cheeseburger
 image: true
 time: 20
@@ -13,47 +13,47 @@ tags:
   - meat
   - american
 ingredients:
-  - name: ground beef (1 patty)
+  - name: carne picada (1 hamburguesa)
     amount: 200
     unit: g
   - name: bacon
     amount: 2
-    unit: slices
-  - name: cheedar cheese
+    unit: lonchas
+  - name: queso cheddar
     amount: 1
-    unit: slice
-  - name: lettuce
+    unit: loncha
+  - name: lechuga
     amount: 1
-    unit: leaf
-  - name: tomato
+    unit: hoja
+  - name: tomate
     amount: 1
-    unit: slice
-  - name: onion
+    unit: rodaja
+  - name: cebolla
     amount: 1
-    unit: slice
-  - name: dill pickles
-    amount: 2-3
-    unit: slices
-  - name: salt
+    unit: rodaja
+  - name: pepinillos en vinagre
+    amount: 2–3
+    unit: rodajas
+  - name: sal
     amount: 1/2
-    unit: tsp
-  - name: black pepper
+    unit: cucharadita
+  - name: pimienta negra
     amount: 1/4
-    unit: tsp
-  - name: sesame seed bun
+    unit: cucharadita
+  - name: pan de hamburguesa con sésamo
     amount: 1
     unit: null
-  - name: mayonnaise, ketchup, mustard
+  - name: mayonesa, kétchup, mostaza
     amount: 1
-    unit: tsp
+    unit: cucharadita
 side_image: ./images/aigen.jpg
 ---
 
-1. **Prepare the bacon:** Heat a skillet over medium heat. Cook the bacon slices until crispy, about 4-5 minutes per side. Remove and place on paper towels to drain excess grease.
-2. **Form the burger patty:** Shape the ground beef into a round patty, slightly larger than the bun. Press a small indent in the center with your thumb. Season both sides with salt and pepper.
-3. **Cook the patty:** Heat a grill or skillet over medium-high heat. Cook the patty for about 3-4 minutes on each side for medium-rare (adjust the time for your preferred doneness). During the last minute of cooking, place the cheddar slice on top to melt. Cover the skillet or close the grill lid to help the cheese melt evenly.
-4. **Toast the bun:** Lightly butter the inside of the bun and toast it in the skillet or on the grill for 1-2 minutes until golden.
-5. **Assemble the burger:** Spread your desired condiments on the bottom bun. Place the lettuce on the bun, followed by the cooked patty with melted cheese. Add the crispy bacon, tomato slice, pickles, and onion. Top with the upper bun.
-6. **Serve and enjoy:** Serve immediately with a side like chips or a small salad.
+1. **Preparar el bacon:** Calienta una sartén a fuego medio. Cocina las lonchas de bacon hasta que estén crujientes, unos 4–5 minutos por cada lado. Retíralas y colócalas sobre papel absorbente para eliminar el exceso de grasa.
+2. **Formar la hamburguesa:** Da forma a la carne picada en una hamburguesa redonda, un poco más grande que el pan. Presiona ligeramente el centro con el pulgar para hacer un pequeño hueco. Sazona ambos lados con sal y pimienta.
+3. **Cocinar la hamburguesa:** Calienta una parrilla o sartén a fuego medio-alto. Cocina la hamburguesa unos 3–4 minutos por cada lado para un punto medio (ajusta el tiempo según tu preferencia). En el último minuto de cocción, coloca la loncha de queso encima para que se derrita. Cubre la sartén o cierra la tapa de la parrilla para ayudar a que se funda de forma uniforme.
+4. **Tostar el pan:** Unta ligeramente con mantequilla el interior del pan y tuéstalo en la sartén o parrilla durante 1–2 minutos hasta que esté dorado.
+5. **Montar la hamburguesa:** Unta los condimentos que prefieras en la base del pan. Coloca la hoja de lechuga, la hamburguesa con el queso fundido, el bacon crujiente, la rodaja de tomate, los pepinillos y la cebolla. Tapa con la parte superior del pan.
+6. **Servir y disfrutar:** Sirve inmediatamente con una guarnición como patatas fritas o una ensalada.
 
 ---

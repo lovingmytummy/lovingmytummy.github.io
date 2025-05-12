@@ -1,5 +1,5 @@
 ---
-title: Frango Da Guia (Peri Peri Chicken)
+title: Frango Da Guia (Pollo Peri Peri)
 ref: frango-da-guia
 image: true
 time: 60
@@ -13,49 +13,49 @@ tags:
   - garlic
   - gluten-free
 ingredients:
-  - name: whole chicken (1.5 kg)
+  - name: pollo entero (1.5 kg)
     amount: 1
     unit: null
-  - name: garlic cloves
+  - name: dientes de ajo
     amount: 4
     unit: null
-  - name: lemon
+  - name: limón
     amount: 2
-    unit: tbsp
-  - name: olive oil
+    unit: cucharada
+  - name: aceite de oliva
     amount: 5
-    unit: tbsp
-  - name: salt
+    unit: cucharada
+  - name: sal
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-## For the Peri Peri sauce (optional)
-- 1-4 peri peri chilies, or as many as you have (adjust the amount based on desired spiciness)
-- 1 teaspoon brown sugar
-- 3 garlic cloves
-- 2 teaspoons sweet/spicy paprika
-- Extra virgin olive oil
-- A bit of fresh ginger
-- Ground black pepper
-- Salt
-- Dried oregano
-- 1 teaspoon soy sauce
-- 40 ml white vinegar (or wine)
-- 2 teaspoons lemon juice
+## Para la salsa Peri Peri (opcional)
+- 1-4 guindillas peri peri, o las que tengas (ajusta la cantidad según el nivel de picante deseado)
+- 1 cucharadita de azúcar moreno
+- 3 dientes de ajo
+- 2 cucharaditas de pimentón dulce/picante
+- Aceite de oliva virgen extra
+- Un poco de jengibre fresco
+- Pimienta negra molida
+- Sal
+- Orégano seco
+- 1 cucharadita de salsa de soja
+- 40 ml de vinagre blanco (o de vino)
+- 2 cucharaditas de jugo de limón
 
-## Instructions
-1. **Prepare the chicken:** Clean the chicken and cut it into pieces (thighs, breasts, wings, etc.). You can also roast it whole if you prefer.
-2. **Marinate the chicken:** Peel and crush the garlic cloves with olive oil, lemon juice, and salt, and rub the entire chicken with the mixture. Cover and leave it in the fridge for at least 1 hour (or preferably overnight in the fridge ~ 12 hours).
-3. **Prepare the peri peri sauce (optional):** Blend all the piri piri sauce ingredients except for the oil (first remove the stems and seeds from the chilies). Once everything is well blended, add the necessary amount of olive oil, stirring well. Set aside.
-4. **Cooking:** Preheat the oven to 200°C (390°F) and place the chicken in an oven-safe dish. Pour half a glass of water at the bottom and bake for 30 minutes. Flip the chicken halfway through cooking to ensure it cooks evenly. After this time, remove the chicken from the oven and coat it completely with the peri peri sauce. Turn on the grill and fully brown the chicken (ideally, finish it on a charcoal grill).
+## Instrucciones
+1. **Preparar el pollo:** Limpia el pollo y córtalo en piezas (muslos, pechugas, alas, etc.). También puedes asarlo entero si prefieres.
+2. **Marinar el pollo:** Pela y machaca los dientes de ajo con el aceite de oliva, el jugo de limón y la sal, y frota toda la mezcla por el pollo. Cúbrelo y déjalo en la nevera durante al menos 1 hora (o preferiblemente durante la noche en la nevera ~ 12 horas).
+3. **Preparar la salsa peri peri (opcional):** Mezcla todos los ingredientes de la salsa peri peri, excepto el aceite (primero retira los tallos y las semillas de las guindillas). Una vez todo bien mezclado, agrega la cantidad necesaria de aceite de oliva y remueve bien. Reserva.
+4. **Cocinar:** Precalienta el horno a 200°C (390°F) y coloca el pollo en una fuente apta para horno. Vierte medio vaso de agua en el fondo y hornea durante 30 minutos. Da la vuelta al pollo a la mitad de la cocción para que se cocine de manera uniforme. Después de este tiempo, retira el pollo del horno y cúbrelo completamente con la salsa peri peri. Enciende el grill y dora completamente el pollo (idealmente, termínalo en una parrilla de carbón).
 
 ---
 
-_From [Taberna Heliópolis](https://maps.app.goo.gl/3PA5jPJHGyjgPZQC6) and [Nando's](https://www.nandos.com/)_
+_De [Taberna Heliópolis](https://maps.app.goo.gl/3PA5jPJHGyjgPZQC6) y [Nando's](https://www.nandos.com/)_
 
-_Similar recipes:_ 
+_Recetas similares:_ 
 - _[Directo al paladar](https://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-frango-piri-piri-pollo-al-carbon-asado-al-estilo-portugues)_
 - _[20 minutos](https://www.20minutos.es/gastronomia/recetas/el-pueblo-de-portugal-conocido-como-la-capital-del-pollo-asi-es-su-receta-con-salsa-picante-5059820/)_
 - _[El Comidista](https://elpais.com/gastronomia/recetas/2022/01/31/receta/1643623059_297177.html)_

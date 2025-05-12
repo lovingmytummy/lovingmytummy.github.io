@@ -1,5 +1,5 @@
 ---
-title: Mediterranean sandwich
+title: Sándwich mediterráneo
 ref: mediterranean-sandwich
 image: true
 time: 2
@@ -16,25 +16,25 @@ ingredients:
   - name: baguette
     amount: 1
     unit: null
-  - name: spreading tomato
+  - name: tomate para untar
     amount: null
     unit: null
-  - name: tuna
+  - name: atún
     amount: 1
-    unit: can
-  - name: piquillo pepper
+    unit: lata
+  - name: pimiento piquillo
     amount: null
     unit: null
-  - name: pitted green olives
+  - name: aceitunas verdes sin hueso
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-No instructions required.
+No se requieren instrucciones.
 
 ---
 
-_From [Pans & Company](https://www.pansandcompany.com/)._
+_De [Pans & Company](https://www.pansandcompany.com/)._
 
 <img src="images/mediterranean_sandwich.jpg" style="width:250px; float:right;"/>

@@ -1,5 +1,5 @@
 ---
-title: Cuban-style rice
+title: Arroz a la cubana
 ref: cuban-style-rice
 image: true
 time: 35
@@ -15,42 +15,42 @@ tags:
   - gluten-free
   - canarian
 ingredients:
-  - name: white round rice
+  - name: arroz blanco redondo
     amount: 200
     unit: g
-  - name: ripe bananas
+  - name: plátanos maduros
     amount: 2
     unit: null
-  - name: eggs
+  - name: huevos
     amount: 2
     unit: null
-  - name: sausages (optional)
+  - name: salchichas (opcional)
     amount: 2
     unit: null
-  - name: garlic cloves, minced
+  - name: dientes de ajo, picados
     amount: 2
     unit: null
-  - name: olive oil (for frying)
+  - name: aceite de oliva (para freír)
     amount: null
     unit: null
-  - name: salt (to taste)
+  - name: sal (al gusto)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-For 2 servings.
+Para 2 porciones.
 
-1. **Cook the rice:** In a pot, bring water to a boil, add a pinch of salt, and cook the rice for about 15-20 minutes, or until tender. Drain and set aside.
-2. **Sauté garlic and rice:** In a pan, heat a little olive oil and sauté the minced garlic until fragrant. Add the cooked rice, stir for a few minutes to infuse the garlic flavor, then set aside.
-3. **Fry the sausages (optional):** In the same pan, fry the sausages until browned. Set aside. The sausages can also be cooked in the oven or on a grill.
-4. **Fry the bananas:** Peel the bananas and cut them in half lengthwise. Fry them in the pan with olive oil until golden on both sides. Remove and drain on paper towels.
-5. **Fry the eggs:** In the same pan, fry the eggs sunny-side up to your preference.
-6. **Heat the tomato sauce:** Warm the tomato sauce in a small saucepan, or combine with the rice in step 2.
-7. **Assemble:** On each plate, place a portion of the garlic-infused rice, the fried banana, sausage, and fried egg. Pour the warm tomato sauce over the rice.
+1. **Cocer el arroz:** En una olla, lleva el agua a ebullición, añade una pizca de sal y cocina el arroz durante unos 15-20 minutos, o hasta que esté tierno. Escurre y reserva.
+2. **Sofreír el ajo y el arroz:** En una sartén, calienta un poco de aceite de oliva y sofríe el ajo picado hasta que suelte su aroma. Añade el arroz cocido, remueve durante unos minutos para que tome el sabor del ajo, luego reserva.
+3. **Freír las salchichas (opcional):** En la misma sartén, fríe las salchichas hasta que estén doradas. Reserva. Las salchichas también pueden cocinarse en el horno o a la parrilla.
+4. **Freír los plátanos:** Pela los plátanos y córtalos a la mitad a lo largo. Fríelos en la sartén con aceite de oliva hasta que estén dorados por ambos lados. Retíralos y escúrrelos sobre papel absorbente.
+5. **Freír los huevos:** En la misma sartén, fríe los huevos al gusto (yema intacta).
+6. **Calentar la salsa de tomate:** Calienta la salsa de tomate en una cacerola pequeña o, si prefieres, añádela al arroz en el paso 2.
+7. **Montar el plato:** En cada plato, coloca una porción de arroz con ajo, el plátano frito, la salchicha y el huevo frito. Vierte la salsa de tomate caliente sobre el arroz.
 
 ---
 
-_Adaptation from [Arroz SOS](https://www.arrozsos.es/recetas/arroz-a-la-cubana/)._
+_Adaptación de [Arroz SOS](https://www.arrozsos.es/recetas/arroz-a-la-cubana/)._
 
 <img src="images/cuban_style_rice.jpg" style="width:250px; float:right;"/>

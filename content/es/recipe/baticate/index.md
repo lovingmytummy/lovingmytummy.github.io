@@ -8,44 +8,43 @@ rank: SSS
 origin: spanish
 flag: 🇪🇸
 tags:
-  - avocado
-  - vegan
-  - gluten-free
+  - aguacate
+  - vegano
+  - sin-gluten
   - Málaga
 ingredients:
-  - name: avocado
+  - name: aguacate
     amount: 1
     unit: null
-  - name: banana (optional)
+  - name: plátano (opcional)
     amount: 1
     unit: null
-  - name: milk
+  - name: leche
     amount: 125
     unit: ml
-  - name: cinnamon
+  - name: canela
     amount: 1
-    unit: tbsp
-  - name: sweetener to taste (optional)
+    unit: cucharada
+  - name: edulcorante al gusto (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1 serving.
+1 ración.
 
-1. Cut, peel and pit the avocado. We recommend cutting the avocado in half and removing the flesh with a large spoon.
-2. Cut it into chunks and place it in a bowl where you are going to beat it.
-3. Add the milk, sweetener, and cinnamon. If you want to try it with banana, now is the time to add it too.
-4. Whisk everything together (carefully so it doesn't splash).
+1. Corta, pela y deshuesa el aguacate. Se recomienda partirlo por la mitad y extraer la pulpa con una cuchara grande.
+2. Trocea el aguacate y colócalo en el recipiente donde lo vayas a batir.
+3. Añade la leche, el edulcorante y la canela. Si quieres probarlo con plátano, este es el momento de añadirlo también.
+4. Bate todo junto (con cuidado para que no salpique).
 
-
-## Tips:
-- If you find it too thick or liquid, you can correct it by adding more milk or avocado.
-- We recommend using cold milk so that the "baticate" is more refreshing.
-- Optionally, you can also add a banana to give it a very tasty touch.
+## Consejos:
+- Si queda muy espeso o muy líquido, puedes ajustar añadiendo más leche o más aguacate.
+- Se recomienda usar leche fría para que el baticate sea más refrescante.
+- Opcionalmente, puedes añadir un plátano para darle un toque muy sabroso.
 
 ---
 
-_Adaptation from [Crowd Farming](https://www.crowdfarming.com/blog/en/the-baticate-from-malaga/)._
+_Adaptación de [Crowd Farming](https://www.crowdfarming.com/blog/en/the-baticate-from-malaga/)._
 
 <img src="images/baticate.jpeg" style="width:250px; float:right;"/>

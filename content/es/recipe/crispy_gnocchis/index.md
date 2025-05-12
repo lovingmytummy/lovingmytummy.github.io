@@ -1,5 +1,5 @@
 ---
-title: Crispy gnocchi
+title: Gnocchis crujientes
 ref: crispy-gnocchi
 image: true
 time: 20
@@ -11,40 +11,40 @@ tags:
   - vegan
   - air-fryer
 ingredients:
-  - name: gnocchi
+  - name: gnocchis
     amount: 500
     unit: g
-  - name: garlic powder
+  - name: ajo en polvo
     amount: null
     unit: null
-  - name: onion powder
+  - name: cebolla en polvo
     amount: null
     unit: null
-  - name: sweet or spicy paprika
+  - name: pimentón dulce o picante
     amount: null
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: ground pepper
+  - name: pimienta molida
     amount: null
     unit: null
-  - name: olive oil
+  - name: aceite de oliva
     amount: null
     unit: null
-  - name: oregano
+  - name: orégano
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. In a bowl, add the gnocchi, spices, salt, and oil, and mix well.
-2. Place the gnocchi in the air fryer.
-3. Set the air fryer to 180-200°C (350-400°F) for 15-20 minutes.
-4. Halfway through the cooking time, shake the gnocchi to ensure even cooking.
+1. En un tazón, agrega los gnocchis, las especias, la sal y el aceite, y mezcla bien.
+2. Coloca los gnocchis en la freidora de aire.
+3. Ajusta la freidora de aire a 180-200°C (350-400°F) durante 15-20 minutos.
+4. A mitad de la cocción, agita los gnocchis para asegurar una cocción uniforme.
 
 ---
 
-_From [Instagram @fussimonsi](https://www.instagram.com/reel/CrbZ2BOoclU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_De [Instagram @fussimonsi](https://www.instagram.com/reel/CrbZ2BOoclU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
-<img src="images/gnocchi.png" style="width:250px; float:right;"/>
+<img src="images/gnocchi.png" style="width:250

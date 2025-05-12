@@ -1,5 +1,5 @@
 ---
-title: Loaded fries
+title: Patatas fritas con queso y beicon
 ref: loaded-fries
 image: true
 time: 30
@@ -12,47 +12,47 @@ tags:
   - meat
   - american
 ingredients:
-  - name: large potato (or frozen fries)
+  - name: papa grande (o papas fritas congeladas)
     amount: 1
     unit: null
-  - name: cheddar cheese (shredded)
+  - name: queso cheddar (rallado)
     amount: 50
     unit: g
-  - name: bacon (or minced meat)
+  - name: tocino (o carne picada)
     amount: 25
     unit: g
-  - name: green onion
+  - name: cebollín
     amount: 1
     unit: null
-  - name: source cream
+  - name: crema agria
     amount: 25
     unit: g
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: pepper
+  - name: pimienta
     amount: null
     unit: null
-  - name: olive oil
+  - name: aceite de oliva
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-Loaded fries is a dish consisting of French fries topped with a combination of cheese, sauces, meat (commonly bacon) and vegetables.
+Las papas cargadas son un platillo compuesto por papas fritas cubiertas con una combinación de queso, salsas, carne (comúnmente tocino) y vegetales.
 
-Ingredients for 1 serving.
+Ingredientes para 1 porción.
 
-1. **Prepare the fries:** Cut the potatos into fries. Preheat the oven to 200°C (400°F) or heat the oil in a frying pan.
-2. **Cook the fries:** If baking, toss the fries in a little olive oil and spread them on a baking sheet. Bake for 25-30 minutes, turning halfway through until golden and crispy. If frying, fry them in batches until crispy and drain on paper towels.
-3. **Prepare the meat:** If using minced meat, season the meat with salt, pepper, and your favorite spices (e.g., Cajun), then fry it in a frying pan or incorporating it with the fries and bake for 5 additional minutes to 190°C (375°F). 
-4. **Season:** While the fries are still hot, season with salt and pepper.
-5. **Add toppings:** Spread the fries on a serving plate. Sprinkle the shredded cheese over the fries, then add the crumbled bacon and green onion.
-6. **Melt the cheese:** (Optional) Return the fries to the oven for a few (2) minutes until the cheese is melted.
-7. **Serve:** Drizzle with sour cream and add any extra toppings you like such as jalapeños, guacamole, salsa, fried onion, chopped chives, etc.
+1. **Prepara las papas:** Corta las papas en tiras. Precalienta el horno a 200°C (400°F) o calienta el aceite en una sartén.
+2. **Cocina las papas:** Si horneas, mezcla las papas con un poco de aceite de oliva y distribúyelas en una bandeja para hornear. Hornea durante 25-30 minutos, dándoles la vuelta a mitad de tiempo hasta que estén doradas y crujientes. Si las fríes, fríelas en lotes hasta que estén crujientes y escúrrelas en toallas de papel.
+3. **Prepara la carne:** Si usas carne picada, sazona la carne con sal, pimienta y tus especias favoritas (por ejemplo, Cajún), luego fríela en una sartén o incorpórala a las papas y hornéala durante 5 minutos adicionales a 190°C (375°F).
+4. **Sazona:** Mientras las papas estén calientes, sazónalas con sal y pimienta.
+5. **Añade los ingredientes:** Coloca las papas en un plato para servir. Esparce el queso rallado sobre las papas, luego añade el tocino desmenuzado y el cebollín.
+6. **Derrite el queso:** (Opcional) Vuelve a meter las papas al horno por un par de minutos (2) hasta que el queso se derrita.
+7. **Sirve:** Rocía con crema agria y añade los ingredientes adicionales que te gusten, como jalapeños, guacamole, salsa, cebollas fritas, cebollín picado, etc.
 
 ---
 
-_From [Instagram @latoneira](https://www.instagram.com/reel/DBMVyumOHlI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_De [Instagram @latoneira](https://www.instagram.com/reel/DBMVyumOHlI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/loaded_fries.png" style="width:250px; float:right;"/>

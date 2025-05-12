@@ -12,44 +12,42 @@ tags:
   - apple
   - vegetarian
 ingredients:
-  - name: large apples
+  - name: manzanas grandes
     amount: 5
     unit: null
-  - name: large eggs
+  - name: huevos grandes
     amount: 3
     unit: null
-  - name: white sugar
+  - name: azúcar blanca
     amount: 1
-    unit: cup
-  - name: vanilla extract
+    unit: taza
+  - name: extracto de vainilla
     amount: 1
-    unit: teaspoon
-  - name: flour
+    unit: cucharadita
+  - name: harina
     amount: 1
-    unit: cup
-  - name: butter (for greasing pan)
+    unit: taza
+  - name: mantequilla (para engrasar el molde)
     amount: null
     unit: null
-  - name: cinnnamon (optional)
+  - name: canela (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 tests: tests/
 ---
 
-1. Preheat the oven to 350°F/180°C. Line a 9x3 round cake pan or springform pan with parchment paper. Butter or spray both the paper, and the sides of the pan.
-2. Peel and core the apples. Chop in quarters, then slice into thin, bite size pieces.
-3. Place the apples into the buttered cake pan.
-4. Using a mixer, beat the eggs and sugar in a bowl until the sugar dissolves (around 5 minutes). Mix in the vanilla.
-5. Gently add the flour and mix with a spoon until batter is thick and smooth.
-6. Pour batter over the apples in the cake pan, spreading it evenly. Gently shake the pan to allow the batter to settle.
-7. Bake in the oven at 180°C (350°F) for 40-50 minutes. Check cooking time at 40 minutes with a toothpick to see if cake is ready.
-8. When cake is ready, allow to cool on a baking tray for 10 minutes.
-9. Using a knife, run along sides of the cake pan. Carefully flip upside down. Peel off the parchment paper, revealing the apple base (now the top of your cake).
-10. Sprinkle with cinnamon sugar to taste. Serve with thickened cream or vanilla ice cream.
+1. Precalienta el horno a 350°F/180°C. Forra un molde redondo de 9x3 pulgadas o un molde desmontable con papel de hornear. Engrasa o rocía tanto el papel como los lados del molde con mantequilla.
+2. Pela y quita el corazón de las manzanas. Córtalas en cuartos y luego en rodajas finas, del tamaño de un bocado.
+3. Coloca las manzanas en el molde engrasado.
+4. Con una batidora, bate los huevos y el azúcar en un bol hasta que el azúcar se disuelva (unos 5 minutos). Agrega la vainilla.
+5. Añade suavemente la harina y mezcla con una cuchara hasta que la masa esté espesa y suave.
+6. Vierte la masa sobre las manzanas en el molde, extendiéndola uniformemente. Agita suavemente el molde para que la masa se asiente.
+7. Hornea en el horno a 180°C (350°F) durante 40-50 minutos. Revisa el tiempo de cocción a los 40 minutos con un palillo para ver si el pastel está listo.
+8. Cuando el pastel esté listo, déjalo enfriar en una rejilla de cocina durante 10 minutos.
+9. Con un cuchillo, pasa por los lados del molde. Voltea cuidadosamente el molde. Retira el papel de hornear, revelando la base de manzana (ahora la parte superior de tu pastel).
+10. Espolvorea con azúcar y canela al gusto. Sirve con crema espesa o helado de vainilla.
 
 ---
 
-_From [petersfoodadventures](https://petersfoodadventures.com/sharlotka/)._
-
-<img src="images/sharlotka.jpg" style="width:250px; float:right;"/>
+_Adaptación de [petersfoodadventures](https://petersfoodadventures.com/sharlotka/)._

@@ -12,31 +12,31 @@ tags:
   - air-fryer
   - latin-american
 ingredients:
-  - name: large wheat tortilla
+  - name: tortilla de trigo grande
     amount: 2
     unit: null
-  - name: shredded four-cheese blend
+  - name: mezcla de cuatro quesos rallados
     amount: 180
     unit: g
-  - name: main protein (chicken, turkey, tuna, salmon,...)
+  - name: proteína principal (pollo, pavo, atún, salmón,...)
     amount: null
     unit: null
-  - name: oregano
+  - name: orégano
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-As the main ingredient, you can use your favourite protein (chicken, turkey, tuna, salmon, etc.).
+Como ingrediente principal, puedes usar tu proteína favorita (pollo, pavo, atún, salmón, etc.).
 
-1. Place one tortilla in the air fryer. Cover with the main ingredient (e.g., chicken) and half of the cheese, spreading them evenly.
-2. Cover with the second tortilla. Place a metal rack on top to prevent the tortilla from flying off.
-3. Set the air fryer to 190°C (375°F) for 6 minutes. 
-4. Halfway through, remove the rack, flip the quesadilla, cover with the remaining shredded cheese, and sprinkle with oregano.
-5. Cut into portions and serve.
+1. Coloca una tortilla en la freidora de aire. Cubre con la proteína principal (por ejemplo, pollo) y la mitad del queso, distribuyéndolos uniformemente.
+2. Cubre con la segunda tortilla. Coloca una rejilla metálica encima para evitar que la tortilla se vuele.
+3. Ajusta la freidora de aire a 190°C (375°F) durante 6 minutos.
+4. A mitad de tiempo, retira la rejilla, voltea la quesadilla, cubre con el resto del queso rallado y espolvorea con orégano.
+5. Corta en porciones y sirve.
 
 ---
 
-_From [Instagram @fussimonsi](https://www.instagram.com/reel/Ci28k5fDJUa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Adaptación de [Instagram @fussimonsi](https://www.instagram.com/reel/Ci28k5fDJUa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/quesadilla.png" style="width:250px; float:right;"/>

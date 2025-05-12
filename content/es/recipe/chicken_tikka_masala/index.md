@@ -1,5 +1,5 @@
 ---
-title: Chicken Tikka Masala
+title: Pollo Tikka Masala
 ref: chicken-tikka-masala
 image: true
 time: 20
@@ -13,59 +13,59 @@ tags:
   - gluten-free
   - asian
 ingredients:
-  - name: basmati rice
+  - name: arroz basmati
     amount: null
     unit: null
-  - name: chicken breast
+  - name: pechuga de pollo
     amount: 1
     unit: null
-  - name: olive oil
+  - name: aceite de oliva
     amount: null
     unit: null
-  - name: cream cheese
+  - name: queso crema
     amount: 1
-    unit: tablespoon
-  - name: Greek yogurt
+    unit: cucharada
+  - name: yogur griego
     amount: 1
-    unit: tablespoon
-  - name: tomato paste
+    unit: cucharada
+  - name: pasta de tomate
     amount: 2
-    unit: teaspoons
-  - name: garlic powder
+    unit: cucharaditas
+  - name: ajo en polvo
     amount: null
     unit: null
-  - name: onion powder
+  - name: cebolla en polvo
     amount: null
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: ground black pepper
+  - name: pimienta negra molida
     amount: null
     unit: null
-  - name: sweet or spicy paprika
+  - name: pimentón dulce o picante
     amount: null
     unit: null
   - name: curry
     amount: null
     unit: null
-  - name: pinch of cumin 
+  - name: pizca de comino
     amount: null
     unit: null
-  - name: food coloring (optional) 
+  - name: colorante alimentario (opcional)
     amount: null
     unit: null      
 side_image: ./images/aigen.jpeg
 ---
 
-1. Cook the rice.
-2. Cut the chicken breast into pieces and sauté with salt and pepper.
-3. Add the cream cheese, Greek yogurt, and a bit of tomato paste, and mix well.
-4. Add sweet or spicy paprika, garlic and onion powder, a generous amount of curry, a pinch of cumin, and food coloring (optional).
-5. Mix until it reduces slightly.
+1. Cocina el arroz.
+2. Corta la pechuga de pollo en trozos y saltéala con sal y pimienta.
+3. Añade el queso crema, el yogur griego y un poco de pasta de tomate, y mezcla bien.
+4. Agrega el pimentón dulce o picante, ajo y cebolla en polvo, una cantidad generosa de curry, una pizca de comino y colorante alimentario (opcional).
+5. Mezcla hasta que reduzca ligeramente.
 
 ---
 
-_From [Instagram @ugar90](https://www.instagram.com/reel/C0yqhV9qyYX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_De [Instagram @ugar90](https://www.instagram.com/reel/C0yqhV9qyYX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/chicken_tikka_masala.png" style="width:250px; float:right;"/>

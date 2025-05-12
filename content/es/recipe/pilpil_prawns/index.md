@@ -1,5 +1,5 @@
 ---
-title: Pilpil prawns
+title: Gambas al pil pil
 ref: pilpil-prawns
 image: true
 time: 15
@@ -13,41 +13,41 @@ tags:
   - prawns
   - garlic
 ingredients:
-  - name: large prawns or shrimp
+  - name: gambas o camarones grandes
     amount: 250
     unit: g
-  - name: cayenne peppers
+  - name: guindillas
     amount: 2
     unit: null
-  - name: garlic
+  - name: ajo
     amount: 6
-    unit: cloves
-  - name: olive oil
+    unit: dientes
+  - name: aceite de oliva
     amount: null
     unit: null
-  - name: spicy paprika
+  - name: pimentón picante
     amount: 1
-    unit: teaspoon
-  - name: salt
+    unit: cucharadita
+  - name: sal
     amount: 1
-    unit: pinch
-  - name: parsley
+    unit: pizca
+  - name: perejil
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. Peel the prawns or shrimp and set them aside.
-2. Heat the oil over medium heat.
-3. Peel the garlic cloves and slice them thinly.
-4. Lower the heat and add the garlic and cayenne peppers, frying until the garlic is golden brown.
-5. Remove the pan from the heat and add a teaspoon of paprika, stirring to prevent it from burning.
-6. Add the prawns and let them cook in the residual heat.
-7. If using shrimp, cook for an additional minute or two over the heat until they change color.
-8. Transfer to small clay dishes and serve immediately.
+1. Pela las gambas o camarones y resérvalos.
+2. Calienta el aceite a fuego medio.
+3. Pela los dientes de ajo y córtalos en láminas finas.
+4. Baja el fuego y agrega los ajos y las guindillas, friendo hasta que el ajo se dore.
+5. Retira la sartén del fuego y añade una cucharadita de pimentón, removiendo para evitar que se queme.
+6. Añade las gambas y deja que se cocinen con el calor residual.
+7. Si usas camarones, cocínalos durante un minuto o dos más a fuego bajo hasta que cambien de color.
+8. Sirve en pequeños platos de barro y disfruta inmediatamente.
 
 ---
 
-_Adaptation from [Pequerecetas](https://www.pequerecetas.com/receta/gambas-al-pil-pil/)._
+_Adaptación de [Pequerecetas](https://www.pequerecetas.com/receta/gambas-al-pil-pil/)._
 
 <img src="images/pilpil_prawns.jpg" style="width:250px; float:right;"/>

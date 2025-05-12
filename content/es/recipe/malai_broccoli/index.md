@@ -1,5 +1,5 @@
 ---
-title: Malai broccoli
+title: Brócoli malai
 ref: malai-broccoli
 image: true
 time: 75
@@ -14,56 +14,56 @@ tags:
   - air-fryer
   - asian
 ingredients:
-  - name: broccoli florets
+  - name: ramilletes de brócoli
     amount: 300
     unit: g
-  - name: fresh malai (or heavy cream)
+  - name: malai fresco (o crema espesa)
     amount: 3
     unit: tbsp
-  - name: fresh hung curd (full fat, about 1/2 cup)
+  - name: yogur colado fresco (entero, aproximadamente 1/2 taza)
     amount: 120
     unit: ml
-  - name: black salt (or regular salt)
+  - name: sal negra (o sal común)
     amount: 2/3
     unit: tsp
-  - name: cardamom powder
+  - name: cardamomo en polvo
     amount: 1/2
     unit: tsp
-  - name: white pepper powder
+  - name: pimienta blanca en polvo
     amount: 1
     unit: tsp
-  - name: cashews (soaked in warm water for 20 minutes)
+  - name: anacardos (remojados en agua tibia durante 20 minutos)
     amount: 8-10
     unit: null
-  - name: cold water (1/3 cup)
+  - name: agua fría (1/3 taza)
     amount: 80
     unit: ml
-  - name: mustard oil or neutral oil
+  - name: aceite de mostaza o aceite neutro
     amount: 1
     unit: tsp
-  - name: ginger paste (optional)
+  - name: pasta de jengibre (opcional)
     amount: 1/2
     unit: tsp
 side_image: ./images/aigen.jpg
 ---
 
-1. **Prepare the Cashew Paste:**
-Soak the cashews in warm water for 20 minutes until softened. Drain and add them to a blender along with the cold water. Blend until smooth and creamy, forming a thick cashew paste. Set aside.
+1. **Prepara la pasta de anacardos:**
+Remoja los anacardos en agua tibia durante 20 minutos hasta que se ablanden. Escurre y colócalos en una licuadora junto con el agua fría. Licúa hasta obtener una pasta suave y cremosa, formando una pasta espesa de anacardos. Reserva.
 
-2. **Prepare the Broccoli:**
-Blanch the broccoli florets in boiling salted water for 2 minutes. Transfer immediately to ice water for 2-3 minutes to stop cooking. Drain and gently squeeze out excess water.
+2. **Prepara el brócoli:**
+Blanquea los ramilletes de brócoli en agua con sal hirviendo durante 2 minutos. Transfiérelos inmediatamente a agua con hielo durante 2-3 minutos para detener la cocción. Escurre y exprime suavemente el exceso de agua.
 
-3. **Marinate:** 
-In a bowl, whisk together the hung curd, malai, black salt, cardamom powder, white pepper, cashew paste, ginger paste, and oil until smooth. Add the broccoli florets and coat evenly. Let the broccoli marinate for 30-45 minutes.
+3. **Marinar:** 
+En un bol, bate el yogur colado, malai, sal negra, cardamomo en polvo, pimienta blanca, pasta de anacardos, pasta de jengibre y aceite hasta que esté suave. Agrega los ramilletes de brócoli y mezcla bien. Deja marinar durante 30-45 minutos.
 
-4. **Cook:**
-Preheat the air fryer to 200°C. Brush the marinated broccoli lightly with oil. Air fry for 10-15 minutes or until golden and slightly crispy. Alternatively, bake at 200°C for 15 minutes or pan-fry with a drizzle of oil until golden.
+4. **Cocinar:**
+Precalienta la air fryer a 200°C. Unta ligeramente los ramilletes de brócoli marinados con aceite. Cocina en la air fryer durante 10-15 minutos o hasta que estén dorados y ligeramente crujientes. Alternativamente, puedes hornear a 200°C durante 15 minutos o freír en sartén con un poco de aceite hasta que estén dorados.
 
-5. **Serve:**
-Enjoy hot with your favorite dip or chutney.
+5. **Servir:**
+Disfruta caliente con tu salsa o chutney favorito.
 
 ---
 
-_From [Instagram @bliss_is_food](https://www.instagram.com/reel/DCn5fRiI_St/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_De [Instagram @bliss_is_food](https://www.instagram.com/reel/DCn5fRiI_St/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/malai_broccoli.png" style="width:250px; float:right;"/>

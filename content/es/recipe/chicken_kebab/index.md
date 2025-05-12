@@ -1,5 +1,5 @@
 ---
-title: Chicken kebab
+title: Kebab de pollo
 ref: chicken-kebab
 image: true
 time: 150
@@ -13,66 +13,66 @@ tags:
   - gluten-free
   - asian
 ingredients:
-  - name: boneless chicken thighs with skin
+  - name: muslos de pollo deshuesados con piel
     amount: 1
     unit: kg
-  - name: Greek yogurt
+  - name: yogur griego
     amount: 2
-    unit: cups
-  - name: spicy paprika
+    unit: tazas
+  - name: pimentón picante
     amount: 1
-    unit: tablespoon
-  - name: cinnamon
+    unit: cucharada
+  - name: canela
     amount: 1
-    unit: teaspoon
-  - name: cumin
+    unit: cucharadita
+  - name: comino
     amount: 2
-    unit: teaspoon
-  - name: cayenne pepper
+    unit: cucharaditas
+  - name: pimienta de cayena
     amount: 1/2
-    unit: teaspoon
-  - name: cilantro (coriander)
+    unit: cucharadita
+  - name: cilantro (coriandro)
     amount: 1
-    unit: tablespoon
-  - name: minced garlic
+    unit: cucharada
+  - name: ajo picado
     amount: 2
-    unit: tablespoons
-  - name: salt
+    unit: cucharadas
+  - name: sal
     amount: 1
-    unit: tablespoon
-  - name: black pepper
+    unit: cucharada
+  - name: pimienta negra
     amount: 1
-    unit: teaspoon
-  - name: lemon
+    unit: cucharadita
+  - name: limón
     amount: 1
     unit: null
-  - name: olive oil
+  - name: aceite de oliva
     amount: 1/4
-    unit: cup
-  - name: pineapple
+    unit: taza
+  - name: piña
     amount: 2
-    unit: cans
+    unit: latas
 side_image: ./images/aigen.jpg
 ---
 
-1. In a bowl, mix all the ingredients (except the pineapple) with the chicken.
-2. Let it marinate for 1 hour.
-3. Skewer the chicken onto a wooden stick.
-4. Place a layer of pineapple on a baking tray and place the skewer on top of it.
-5. Bake at 200°C (390°F) for 60-90 minutes, turning it halfway through.
-6. Scile into the chicken.
+1. En un bol, mezcla todos los ingredientes (excepto la piña) con el pollo.
+2. Deja marinar durante 1 hora.
+3. Ensarta el pollo en un palo de brocheta de madera.
+4. Coloca una capa de piña en una bandeja para hornear y pon la brocheta encima.
+5. Hornea a 200 °C (390 °F) durante 60-90 minutos, dándole la vuelta a mitad de cocción.
+6. Corta el pollo en lonchas.
 
-Serve the chicken in pita bread or on a plate with your favourite sides.
+Sirve el pollo en pan de pita o en un plato con tus guarniciones favoritas.
 
-## Recommended sides
-- Raw red onion
-- Tomato
-- Lettuce
-- Green chili peppers (piparra)
-- Red beet
+## Guarniciones recomendadas
+- Cebolla morada cruda  
+- Tomate  
+- Lechuga  
+- Guindillas verdes (piparras)  
+- Remolacha  
 
 ---
 
-_Roughly similar to [Instagram @fitfoodmania](https://www.instagram.com/reel/C56iSWJoThe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Similar a [Instagram @fitfoodmania](https://www.instagram.com/reel/C56iSWJoThe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/chicken_kebab.png" style="width:250px; float:right;"/>

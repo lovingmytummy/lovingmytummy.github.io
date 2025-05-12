@@ -1,5 +1,5 @@
 ---
-title: Broccoli pizza crust
+title: Masa de pizza de brócoli
 ref: broccoli-pizza-crust
 image: true
 time: 30
@@ -13,67 +13,61 @@ tags:
   - gluten-free
   - vegetarian
 ingredients:
-  - name: chopped broccoli steamed (florets and/or stems)
+  - name: brócoli picado cocido al vapor (ramilletes y/o tallos)
     amount: 1
-    unit: cup
-  - name: egg
+    unit: taza
+  - name: huevo
     amount: 1
     unit: null
-  - name: mozzarella cheese
+  - name: queso mozzarella
     amount: 1
-    unit: cup
-  - name: Parmesan cheese
+    unit: taza
+  - name: queso parmesano
     amount: 1/4
-    unit: cup
-  - name: garlic powder
+    unit: taza
+  - name: ajo en polvo
     amount: 1/2
-    unit: tsp
-  - name: salt
+    unit: cucharadita
+  - name: sal
     amount: 1/4
-    unit: tsp
-  - name: pepper
+    unit: cucharadita
+  - name: pimienta
     amount: 1/4
-    unit: tsp
-  - name: Italian seasoning (optional)
+    unit: cucharadita
+  - name: condimento italiano (opcional)
     amount: 1/2
-    unit: tsp
-  - name: tomato sauce
+    unit: cucharadita
+  - name: salsa de tomate
     amount: 1/2
-    unit: cup
+    unit: taza
 side_image: ./images/aigen.jpeg
 ---
 
-1. **Preheat the oven:**
-Set the oven to 220°C (425°F). Line a baking sheet with parchment paper or lightly grease it with oil.
+1. **Precalienta el horno:**
+   Ajusta el horno a 220°C (425°F). Cubre una bandeja para hornear con papel de hornear o unta ligeramente con aceite.
 
-1. **Prepare the broccoli:**
-Steam the chopped broccoli (including stems if using) until tender. Pulse it in a food processor until finely grated. Transfer the grated broccoli to a cheesecloth or clean kitchen towel and squeeze out as much water as possible to ensure a dry mixture.
+2. **Prepara el brócoli:**
+   Cocina al vapor el brócoli picado (incluyendo los tallos si los usas) hasta que esté tierno. Pásalo por un procesador de alimentos hasta que esté finamente rallado. Transfiere el brócoli rallado a una tela de queso o un paño de cocina limpio y exprime la mayor cantidad de agua posible para obtener una mezcla seca.
 
-1. **Make the dough:**
-In a bowl, mix the grated broccoli, egg, 2 tbsp mozzarella cheese, Parmesan cheese, Italian seasoning, garlic powder, salt, and pepper. Combine thoroughly until a dough-like consistency forms.
+3. **Haz la masa:**
+   En un bol, mezcla el brócoli rallado, el huevo, 2 cucharadas de queso mozzarella, el queso parmesano, el condimento italiano, el ajo en polvo, la sal y la pimienta. Mezcla bien hasta obtener una consistencia similar a la masa.
 
-1. **Shape the crust:**
-Place the broccoli mixture onto the prepared baking sheet. Shape it into a round pizza crust about 1.25 cm thick. 
+4. **Dale forma a la masa:**
+   Coloca la mezcla de brócoli sobre la bandeja para hornear preparada. Dale forma de una masa redonda de pizza, de aproximadamente 1.25 cm de grosor.
 
-1. **Bake the crust:**
-Bake in the preheated oven for 10-12 minutes or until golden brown.
+5. **Hornea la masa:**
+   Hornea en el horno precalentado durante 10-12 minutos o hasta que esté dorada.
 
+6. **Añade los ingredientes:**
+   Saca la masa del horno y extiende la salsa de tomate de manera uniforme sobre la masa. Espolvorea con el queso mozzarella restante y luego añade los ingredientes de tu elección (tomates cherry en rodajas, champiñones, etc.).
 
-6. **Add toppings:**
-Remove the crust from the oven and spread the pizza sauce evenly on top. Sprinkle with the remaining mozzarella cheese, then add your favorite toppings (sliced cherry tomatoes, mushrooms,...).
+7. **Termina de hornear:**
+   Vuelve a meter la pizza en el horno y hornea durante 8-10 minutos más, o hasta que el queso se haya derretido y los bordes de la masa estén crujientes.
 
-7. **Finish baking:**
-Return the pizza to the oven and bake for another 8-10 minutes, or until the cheese is melted and the edges of the crust are crispy.
+8. **Sirve:**
+   Adorna con albahaca fresca, corta en porciones y disfruta de tu pizza de brócoli individual.
 
-8. **Serve:**
-Garnish with fresh basil, slice, and enjoy your personal-sized broccoli pizza!
-
-## Notes:
-- Using the stems of broccoli adds a sustainable twist to this recipe without compromising taste or texture!
-
+## Notas:
+- Usar los tallos del brócoli le da un toque sostenible a esta receta sin comprometer el sabor ni la textura.
 
 ---
-
-_From [Instagram @everythinghealthyfood](https://www.instagram.com/p/B_kntaohcXy/?utm_source=ig_web_copy_link)._
-
-<img src="images/broccoli_pizza_crust.png" style="width:250px; float:right;"/>

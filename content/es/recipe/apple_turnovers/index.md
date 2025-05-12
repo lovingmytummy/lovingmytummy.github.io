@@ -1,5 +1,5 @@
 ---
-title: Apple turnovers
+title: Empanadillas de manzana
 ref: apple-turnovers
 image: true
 time: 25
@@ -11,39 +11,39 @@ tags:
   - apple
   - vegetarian
 ingredients:
-  - name: pastry discs (16 discs, 160 g)
+  - name: obleas para empanadillas (16 unidades, 160 g)
     amount: 1
-    unit: package
-  - name: apples
+    unit: paquete
+  - name: manzanas
     amount: 800
     unit: g
-  - name: butter
+  - name: mantequilla
     amount: 30
     unit: g
-  - name: cinnamon
+  - name: canela
     amount: 1
-    unit: teaspoon
-  - name: sugar (optional)
+    unit: cucharadita
+  - name: azúcar (opcional)
     amount: 50
     unit: g
-  - name: powdered sugar (optional)
+  - name: azúcar glas (opcional)
     amount: null
     unit: null
-  - name: sunflower oil or beating egg (optional, for brushing)
+  - name: aceite de girasol o huevo batido (opcional, para pincelar)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. Preheat the oven to 200°C (390°F).
-2. Peel the apples, cut them into small cubes, and sauté them in a pan over medium heat for 15 minutes, stirring occasionally with the sugar (optional) and butter until they are slightly caramelized. Add the cinnamon and mix. Let it cool.
-3. Fill the pastry discs with the apple mixture and fold them, sealing the edges with the help of a fork.
-4. Place the turnovers on a baking sheet and optionally brush them with a little sunflower oil or egg using a pastry brush.
-5. Bake for 10-12 minutes until they are lightly golden.
-6. Once cooled, sprinkle with powdered sugar (optional).
+1. Precalienta el horno a 200 °C (390 °F).
+2. Pela las manzanas, córtalas en cubitos pequeños y saltéalas en una sartén a fuego medio durante 15 minutos, removiendo de vez en cuando con el azúcar (opcional) y la mantequilla hasta que se caramelicen ligeramente. Añade la canela y mezcla. Deja enfriar.
+3. Rellena las obleas con la mezcla de manzana y dóblalas, sellando los bordes con ayuda de un tenedor.
+4. Coloca las empanadillas en una bandeja de horno y, opcionalmente, pincélalas con un poco de aceite de girasol o huevo utilizando un pincel de cocina.
+5. Hornea durante 10–12 minutos hasta que estén ligeramente doradas.
+6. Una vez frías, espolvorea con azúcar glas (opcional).
 
 ---
 
-_Adaptation from [Nestle Cocina](https://www.nestlecocina.es/receta/empanadillas-de-manzana-con-canela)._
+_Adaptación de [Nestlé Cocina](https://www.nestlecocina.es/receta/empanadillas-de-manzana-con-canela)._
 
 <img src="images/apple_turnovers.png" style="width:250px; float:right;"/>

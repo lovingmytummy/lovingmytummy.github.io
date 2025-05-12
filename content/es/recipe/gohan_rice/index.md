@@ -1,5 +1,5 @@
 ---
-title: Gohan (Japanese rice)
+title: Gohan (Arroz japonés)
 ref: gohan
 image: true
 time: 60
@@ -13,30 +13,29 @@ tags:
   - gluten-free
   - asian
 ingredients:
-  - name: round rice
+  - name: arroz redondo
     amount: 2
-    unit: cups
-  - name: water
+    unit: tazas
+  - name: agua
     amount: 2
-    unit: cups
+    unit: tazas
 side_image: ./images/aigen.jpeg
 ---
 
-Use round or bomba rice (avoid basmati or long-grain rice).
+Usa arroz redondo o bomba (evita el arroz basmati o de grano largo).
 
-1. Measure the rice and place it in a pot.
-2. Add plenty of water to the pot, stir quickly 2 or 3 times, and then discard the water.
-3. Add water again and wash the rice by hand, repeating this process 3-6 times (or until the water runs clear), and discarding the water each time.
-4. Add an equal amount of water to the washed rice, cover with a lid, and if you have time, I recommend letting the rice soak for 30 minutes.
-5. Place it over medium heat and wait for the water in the pot to start boiling (you’ll hear bubbling sounds or see foam overflowing from the lid).
-6. Once it starts boiling, continue cooking over medium heat for 2 minutes.
-7. Then, reduce the heat to low and cook for an additional 9 minutes. Finally, check that there’s no water left inside. If there’s no water, the rice is ready. If you need to open the lid to check, remember to replace it immediately and heat over medium heat for 5-10 seconds to reheat the pot.
-8. After cooking, leave the lid on for 10 minutes without opening it to let the rice steam. This ensures the rice cooks evenly and becomes fluffy.
-9. After steaming, open the lid and gently mix the rice from the bottom with a rice paddle to fluff it up.
+1. Mide el arroz y colócalo en una olla.
+2. Añade suficiente agua a la olla, revuelve rápidamente 2 o 3 veces y luego desecha el agua.
+3. Añade agua nuevamente y lava el arroz a mano, repite este proceso 3-6 veces (o hasta que el agua salga clara), desechando el agua cada vez.
+4. Añade la misma cantidad de agua al arroz lavado, cúbrelo con una tapa y, si tienes tiempo, te recomiendo dejarlo en remojo durante 30 minutos.
+5. Coloca la olla a fuego medio y espera a que el agua en la olla comience a hervir (escucharás sonidos de burbujeas o verás espuma desbordándose de la tapa).
+6. Una vez que comience a hervir, cocina a fuego medio durante 2 minutos.
+7. Luego, reduce el fuego a bajo y cocina durante 9 minutos adicionales. Finalmente, verifica que no quede agua dentro. Si no hay agua, el arroz está listo. Si necesitas abrir la tapa para verificarlo, recuerda volver a taparlo inmediatamente y calentar a fuego medio durante 5-10 segundos para recalentar la olla.
+8. Después de cocinarlo, deja la tapa puesta durante 10 minutos sin abrirla para que el arroz se siga cocinando al vapor. Esto asegura que el arroz se cocine de manera uniforme y quede esponjoso.
+9. Después de vaporizar, abre la tapa y mezcla suavemente el arroz desde el fondo con una espátula para que quede esponjoso.
 
 ---
 
-_From [Instagram @yamamotokitchen](https://www.instagram.com/reel/C6br4_wqA67/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
-
+_De [Instagram @yamamotokitchen](https://www.instagram.com/reel/C6br4_wqA67/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/gohan_rice.png" style="width:250px; float:right;"/>

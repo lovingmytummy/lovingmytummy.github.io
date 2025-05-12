@@ -1,5 +1,5 @@
 ---
-title: Super Mexican pizza
+title: Super pizza mexicana
 ref: super-mexican-pizza
 image: true
 time: 20
@@ -11,39 +11,39 @@ tags:
   - pizza
   - latin-american
 ingredients:
-  - name: pre-made pizza dough (or homemade dough)
+  - name: masa de pizza prehecha (o masa casera)
     amount: 1
     unit: null
-  - name: tomato sauce
+  - name: salsa de tomate
     amount: 150
     unit: g
-  - name: shredded mozzarella cheese
+  - name: queso mozzarella rallado
     amount: 250
     unit: g
-  - name: cooked ground beef (or minced meat)
+  - name: carne molida cocida (o carne picada)
     amount: 200
     unit: g
-  - name: sweet corn kernels
+  - name: granos de maíz dulce
     amount: 50
     unit: g
-  - name: small onion
+  - name: cebolla pequeña
     amount: 1
     unit: null
-  - name: Jalapeño slices (optional)
+  - name: rodajas de jalapeño (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Preheat the oven:** Preheat to 220°C (430°F) or follow the pizza dough package instructions. Place a pizza stone or baking sheet in the oven to heat up.
-2. **Prepare the base:** Roll out the pizza dough to your desired thickness and place it on a sheet of parchment paper for easy handling. Spread an even layer of tomato sauce over the dough.
-3. **Add toppings:** Sprinkle the shredded mozzarella cheese evenly over the base. Distribute the cooked ground beef, sweet corn, onion slices, and jalapeño slices (if adding before baking) over the cheese.
-4. **Add extra cheese:** Sprinkle the additional cheese on top for an indulgent layer.
-5. **Bake:** Carefully transfer the pizza (on the parchment paper) onto the preheated pizza stone or baking sheet. Bake for 10-12 minutes, or until the crust is golden and the cheese is bubbly and slightly browned.
-6. **Serve:** Remove from the oven, slice, and serve hot. If you prefer, add fresh jalapeño slices or hot sauce after baking for a spicier touch.
+1. **Precalentar el horno:** Precalienta a 220°C (430°F) o sigue las instrucciones del paquete de masa de pizza. Coloca una piedra para pizza o una bandeja para hornear en el horno para que se caliente.
+2. **Preparar la base:** Extiende la masa de pizza al grosor deseado y colócala sobre un papel pergamino para facilitar su manejo. Extiende una capa uniforme de salsa de tomate sobre la masa.
+3. **Añadir los ingredientes:** Espolvorea el queso mozzarella rallado de manera uniforme sobre la base. Distribuye la carne molida cocida, el maíz dulce, las rodajas de cebolla y las rodajas de jalapeño (si las añades antes de hornear) sobre el queso.
+4. **Añadir queso extra:** Espolvorea el queso adicional por encima para una capa indulgente.
+5. **Hornear:** Transfiere con cuidado la pizza (sobre el papel pergamino) a la piedra para pizza precalentada o a la bandeja para hornear. Hornea durante 10-12 minutos, o hasta que la corteza esté dorada y el queso esté burbujeante y ligeramente dorado.
+6. **Servir:** Retira del horno, corta en porciones y sirve caliente. Si lo prefieres, añade rodajas de jalapeño frescas o salsa picante después de hornear para un toque más picante.
 
 ---
 
-_From [Pizzería Marta's (old Pizzería Mejicana)](https://pizzeriamarta.es/)._
+_Adaptación de [Pizzería Marta's (antigua Pizzería Mejicana)](https://pizzeriamarta.es/)._
 
 <img src="images/super_mexican_pizza.jpg" style="width:250px; float:right;"/>

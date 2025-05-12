@@ -1,5 +1,5 @@
 ---
-title: Salmon rillettes
+title: Rillettes de salmón
 ref: salmon-rillettes
 image: true
 time: 20
@@ -12,48 +12,48 @@ tags:
   - fish
   - spread
 ingredients:
-  - name: salmon fillet, preferible wild, bones removed
+  - name: filete de salmón, preferiblemente salvaje, sin espinas
     amount: 250
     unit: g
-  - name: smoked salmon
+  - name: salmón ahumado
     amount: 125
     unit: g
-  - name: unsalted butter
+  - name: mantequilla sin sal
     amount: 75
     unit: g
-  - name: olive oil
+  - name: aceite de oliva
     amount: 1
-    unit: tablespoon
-  - name: fresh lemon juice
+    unit: cucharada
+  - name: jugo de limón fresco
     amount: 1 1/2
-    unit: tablespoons
-  - name: chopped chives
+    unit: cucharadas
+  - name: cebollín picado
     amount: 2
-    unit: tablespoons
-  - name: chili powder (or smoke paprika)
+    unit: cucharadas
+  - name: chile en polvo (o pimentón ahumado)
     amount: 1/4
-    unit: teaspoon
-  - name: salt
+    unit: cucharadita
+  - name: sal
     amount: null
     unit: null
 side_image: ./images/aigen.png
 ---
 
-For 6 servings. 
-You can also make the dish entirely with fresh salmon or entirely with smoked salmon by cooking half of it.
+Para 6 porciones.  
+También puedes hacer el plato completamente con salmón fresco o completamente con salmón ahumado cocinando la mitad de este.
 
-1. Season the salmon on both sides lightly with a bit of salt. Steam in a steamer basket until just cooked, about 8 minutes. Once cooked, remove from heat and let cool.
-2. In a medium-sized bowl, mash together with a fork the butter and the olive oil until very smooth. This is important at this point. Otherwise, there'll be big chunks of butter in the finished rillettes.
-3. Stir in the lemon juice, then the chopped chives and smoked salmon.
-4. Remove the skin from the salmon and flake the cooked salmon over the mixture, then fold the pieces of salmon into the rillette mixture along with the chili powder. Taste, and add more salt if desired.
-5. Scrape into a serving dish, cover, and chill for at least two hours. Let come to room temperature before serving.
+1. Sazona el salmón por ambos lados con un poco de sal. Cocina al vapor en una canasta de vapor hasta que esté cocido, aproximadamente 8 minutos. Una vez cocido, retíralo del fuego y deja enfriar.
+2. En un bol de tamaño mediano, machaca la mantequilla y el aceite de oliva con un tenedor hasta que quede muy suave. Esto es importante en este punto, de lo contrario, quedarán trozos grandes de mantequilla en los rillettes terminados.
+3. Añade el jugo de limón, luego los cebollines picados y el salmón ahumado.
+4. Retira la piel del salmón y desmenuza el salmón cocido sobre la mezcla, luego incorpora los trozos de salmón en la mezcla de rillettes junto con el chile en polvo. Prueba y añade más sal si lo deseas.
+5. Coloca la mezcla en un recipiente para servir, cubre y refrigera por al menos dos horas. Deja que alcance la temperatura ambiente antes de servir.
 
-It can be served with toasted slices of baguettes, but it would be tasty with dark rye or heaped on hearty crackers.
+Se puede servir con rebanadas tostadas de baguette, pero también quedaría delicioso con pan de centeno oscuro o sobre galletas saladas robustas.
 
-## Storage
-The rillettes can be made up to two days before and refrigerated.  
-They can also be frozen, well-wrapped, for up to two months.
+## Conservación
+Los rillettes se pueden hacer hasta dos días antes y refrigerar.  
+También se pueden congelar, bien envueltos, durante hasta dos meses.
 
-_From [David Lebovitz](https://www.davidlebovitz.com/salmon-rillette/)._
+_Adaptación de [David Lebovitz](https://www.davidlebovitz.com/salmon-rillette/)._
 
 <img src="images/salmon_rillettes.png" style="width:250px; float:right;"/>

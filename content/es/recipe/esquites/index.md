@@ -14,25 +14,25 @@ tags:
   - gluten-free
   - latin-american
 ingredients:
-  - name: sweet corn
+  - name: maíz dulce
     amount: 1
-    unit: can
-  - name: Parmessan cheese (or Grana Padano)
+    unit: lata
+  - name: queso parmesano (o Grana Padano)
     amount: null
     unit: null
-  - name: ground chili (chili powder or hot paprika)
+  - name: chile molido (pimienta de chile o pimentón picante)
     amount: null
     unit: null
-  - name: lime (or lemon)
+  - name: lima (o limón)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. Mix all the ingredients in a glass.
+1. Mezcla todos los ingredientes en un vaso.
 
 ---
 
-_From [Tako Away](https://www.tako-away.es/)._
+_De [Tako Away](https://www.tako-away.es/)._
 
 <img src="images/esquites.jpg" style="width:250px; float:right;"/>

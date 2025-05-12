@@ -1,5 +1,5 @@
 ---
-title: Stuffed peppers
+title: Pimientos rellenos
 ref: stuffed-peppers
 image: true
 time: 50
@@ -12,72 +12,72 @@ tags:
   - gluten-free
   - mediterranean
 ingredients:
-  - name: bell peppers (any color - green, yellow, red, orange)
+  - name: pimientos (cualquier color - verde, amarillo, rojo, naranja)
     amount: 3
     unit: null
-  - name: ground beef (or turkey, chicken, pork, sausages, tofu, or other similar)
+  - name: carne molida (o pavo, pollo, cerdo, salchichas, tofu u otros similares)
     amount: 225
     unit: g
-  - name: chopped onion
+  - name: cebolla picada
     amount: 1
     unit: null
-  - name: garlic
+  - name: ajo
     amount: 2
-    unit: cloves
-  - name: fire roasted tomatoes (canned, diced tomatoes, or tomato sauce)
+    unit: dientes
+  - name: tomates asados al fuego (enlatados, tomates picados o salsa de tomate)
     amount: 200
     unit: g
-  - name: shredded chesse (cheddar, mozzarella, or a blend)
+  - name: queso rallado (cheddar, mozzarella o una mezcla)
     amount: 1
-    unit: cup
-  - name: cooked rice
+    unit: taza
+  - name: arroz cocido
     amount: 1
-    unit: cup
-  - name: olive oil
+    unit: taza
+  - name: aceite de oliva
     amount: 1
-    unit: tablespoon
-  - name: paprika
+    unit: cucharada
+  - name: pimentón
     amount: 1
-    unit: tablespoon
-  - name: dried oregano
+    unit: cucharada
+  - name: orégano seco
     amount: 1
-    unit: teaspoon
-  - name: dried basil
+    unit: cucharadita
+  - name: albahaca seca
     amount: 1
-    unit: teaspoon
-  - name: salt
+    unit: cucharadita
+  - name: sal
     amount: null
     unit: null
-  - name: pepper
+  - name: pimienta
     amount: null
     unit: null
-  - name: chopped jalapeno pepper (optional, for spicy)
+  - name: jalapeño picado (opcional, para los amantes del picante)
     amount: 1
     unit: null
-  - name: fresh chopped parsley (optional, for garnish)
+  - name: perejil fresco picado (opcional, para decorar)
     amount: null
     unit: null
-  - name: red pepper flakes (optional, for garnish)
+  - name: hojuelas de pimiento rojo (opcional, para decorar)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. Preheat your oven to 220°C (425°F) and bring a pot of water (enough to cover the bell peppers) to a boil.
-2. Wash the bell peppers, cut off the tops, and scoop out the insides. If needed, slice a small part off the bottom of the peppers so they will stand upright. (NOTE: Chop the extra bell pepper tops to cook later with the onion - discard the stem.)
-3. Blanch the bell peppers for 5 minutes to slightly soften. (Alternative, you can roast the peppers for 20 minutes to soften).
-4. Set the softened peppers into a lightly oiled baking dish.
-5. Heat the oil in a large pan to medium heat and add the onions, chopped pepper tops, and jalapeno (if using). Cook for 5 minutes to soften.
-6. Add the garlic and cook 1 minute, or until the garlic becomes fragrant.
-7. Add the ground beef and cook 5-6 minutes, breaking apart as you go, until cooked through.
-8. Add the fire roasted tomatoes, seasonings, and cooked rice. Stir together and remove from heat.
-9.  Stir in half of the shredded cheese until incorporated.
-10. Stuff each pepper with the meat filling mixture, then top each with the remaining shredded cheese.
-11. Roast the stuffed peppers for 15-20 minutes, or until the peppers are tender to your preference, and the cheese is nice and bubbly.
-12. Cool slightly, garnish, and serve.
+1. Precalienta el horno a 220°C (425°F) y pon a hervir una olla con agua (suficiente para cubrir los pimientos).
+2. Lava los pimientos, corta las tapas y vacía el interior. Si es necesario, corta un pequeño trozo de la base de los pimientos para que puedan mantenerse de pie. (NOTA: Pica las tapas de pimiento sobrantes para cocinarlas luego con la cebolla, descartando el tallo.)
+3. Escalda los pimientos durante 5 minutos para ablandarlos un poco. (Alternativa: puedes asar los pimientos durante 20 minutos para ablandarlos).
+4. Coloca los pimientos blandos en una fuente para hornear ligeramente engrasada.
+5. Calienta el aceite en una sartén grande a fuego medio y agrega las cebollas, las tapas de pimiento picadas y el jalapeño (si lo usas). Cocina durante 5 minutos para que se ablanden.
+6. Agrega el ajo y cocina 1 minuto, o hasta que el ajo libere su aroma.
+7. Agrega la carne molida y cocina 5-6 minutos, rompiéndola mientras la cocinas, hasta que esté bien cocida.
+8. Agrega los tomates asados al fuego, las especias y el arroz cocido. Remueve bien y retira del fuego.
+9. Incorpora la mitad del queso rallado y mezcla.
+10. Rellena cada pimiento con la mezcla de carne, y cubre cada uno con el resto del queso rallado.
+11. Hornea los pimientos rellenos durante 15-20 minutos, o hasta que los pimientos estén tiernos a tu gusto y el queso esté burbujeante y dorado.
+12. Deja enfriar un poco, adorna y sirve.
 
 ---
 
-_Adaptation from [Chili Pepper Madness](https://www.chilipeppermadness.com/recipes/stuffed-peppers/)._
+_Adaptación de [Chili Pepper Madness](https://www.chilipeppermadness.com/recipes/stuffed-peppers/)._
 
 <img src="images/stuffed_peppers.jpg" style="width:250px; float:right;"/>

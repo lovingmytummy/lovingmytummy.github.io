@@ -1,5 +1,5 @@
 ---
-title: Lemon butter sardines
+title: Sardinas con mantequilla y limón
 ref: lemon-butter-sardines
 image: true
 time: 10
@@ -14,36 +14,36 @@ tags:
   - fish
   - mediterranean
 ingredients:
-  - name: fresh sardines (or canned)
+  - name: sardinas frescas (o enlatadas)
     amount: 4
     unit: null
-  - name: butter
+  - name: mantequilla
     amount: 2
-    unit: tbsp
-  - name: lemon
+    unit: cucharadas
+  - name: limón
     amount: 1
     unit: null
-  - name: fresh chives
+  - name: cebollino fresco
     amount: null
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: slices of toasted bread
+  - name: rebanadas de pan tostado
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. **Prepare the sardines:** Clean and fillet the sardines, removing the bones and skin, similar to how anchovies are prepared. Chill them in the refrigerator.
-2. **Make the lemon butter:** In a small bowl, combine the softened butter with lemon juice and zest. Stir until smooth.
-3. **Toast the bread:** Toast the bread slice until golden and crispy.
-4. **Spread the butter:** Spread the lemon butter evenly over the toasted bread.
-5. **Add the sardines:** Place the filleted sardines on top of the buttered toast.
-6. **Garnish:** Sprinkle freshly chopped chives on top and season with salt to taste.
-7. **Serve:** Serve immediately as a delicious appetizer or snack.
+1. **Preparar las sardinas:** Limpia y filetea las sardinas, retirando las espinas y la piel, de manera similar a como se preparan las anchoas. Enfríalas en el refrigerador.
+2. **Hacer la mantequilla de limón:** En un bol pequeño, mezcla la mantequilla blanda con el jugo y la ralladura de limón. Remueve hasta que quede suave.
+3. **Tostar el pan:** Tuesta la rebanada de pan hasta que esté dorada y crujiente.
+4. **Untar la mantequilla:** Unta la mantequilla de limón de manera uniforme sobre el pan tostado.
+5. **Agregar las sardinas:** Coloca las sardinas fileteadas sobre el pan con mantequilla.
+6. **Decorar:** Espolvorea cebollino fresco picado por encima y sazona con sal al gusto.
+7. **Servir:** Sirve inmediatamente como aperitivo o merienda deliciosa.
 ---
 
-_From [En k' lola](https://maps.app.goo.gl/cjGVcjpy3enL2CSr9)._
+_De [En k' lola](https://maps.app.goo.gl/cjGVcjpy3enL2CSr9)._
 
 <img src="images/lemon_butter_sardines.png" style="width:250px; float:right;"/>

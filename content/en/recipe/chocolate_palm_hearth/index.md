@@ -9,7 +9,6 @@ origin: french
 flag: 🇫🇷
 tags:
   - palmier
-  - cockles
   - chocolate
   - vegetarian
 ingredients:

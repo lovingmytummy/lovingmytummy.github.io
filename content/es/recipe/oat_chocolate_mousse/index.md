@@ -1,5 +1,5 @@
 ---
-title: Oat and Chocolate mousse
+title: Mousse de avena y chocolate
 ref: oat-and-chocolate-mousse
 image: true
 time: 15
@@ -11,38 +11,38 @@ tags:
   - chocolate
   - vegetarian
 ingredients:
-  - name: oat flakes
+  - name: copos de avena
     amount: 1/2
-    unit: cup
-  - name: milk
+    unit: taza
+  - name: leche
     amount: 1/2
-    unit: cup
-  - name: chia seeds
+    unit: taza
+  - name: semillas de chía
     amount: 1
-    unit: tablespoon
-  - name: cocoa powder
+    unit: cucharada
+  - name: cacao en polvo
     amount: 1
-    unit: tablespoon
-  - name: cream cheese
+    unit: cucharada
+  - name: queso crema
     amount: 2
-    unit: tablespoons
-  - name: peanut butter
+    unit: cucharadas
+  - name: mantequilla de maní
     amount: 1
-    unit: tablespoon
-  - name: vanilla extract
+    unit: cucharada
+  - name: extracto de vainilla
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Prepare the base:** In a bowl, mix the oats, cocoa powder, chia seeds, and milk.
-2. **Prepare the mousse:** In a separate bowl, blend the cream cheese with the peanut butter and vanilla extract until smooth.
-3. **Assemble:** Spread the mousse mixture over the oat base in the bowl.
-4. **Add the topping:** Drizzle a layer of melted 85% dark chocolate on top.
-5. **Chill:** Place in the freezer for 5 minutes, or refrigerate overnight for best results.
+1. **Preparar la base:** En un bol, mezcla los copos de avena, el cacao en polvo, las semillas de chía y la leche.
+2. **Preparar el mousse:** En un bol aparte, mezcla el queso crema con la mantequilla de maní y el extracto de vainilla hasta que quede suave.
+3. **Montar:** Extiende la mezcla del mousse sobre la base de avena en el bol.
+4. **Añadir la cobertura:** Vierte una capa de chocolate oscuro derretido al 85% sobre el mousse.
+5. **Enfriar:** Colócalo en el congelador durante 5 minutos, o refrigéralo durante la noche para obtener mejores resultados.
 
 ---
 
-_From [Instagram @rochiiip_](https://www.instagram.com/reel/C7UniZrOgIp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Adaptado de [Instagram @rochiiip_](https://www.instagram.com/reel/C7UniZrOgIp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/oat_chocolate_chilled_mousse.png" style="width:250px; float:right;"/>

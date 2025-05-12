@@ -1,5 +1,5 @@
 ---
-title: Zah Zah shake
+title: Batido Zah Zah
 ref: zahzah-shake
 image: true
 time: 10
@@ -14,50 +14,50 @@ tags:
   - vegetarian
   - Ceuta
 ingredients:
-  - name: banana
+  - name: plátano
     amount: 1
     unit: null
-  - name: avocado
+  - name: aguacate
     amount: 1/2
     unit: null
-  - name: milk
+  - name: leche
     amount: 250
     unit: ml
-  - name: apple
+  - name: manzana
     amount: 1/2
     unit: null
-  - name: peach
+  - name: durazno
     amount: 1/2
     unit: null
-  - name: strawberries
+  - name: fresas
     amount: 2
     unit: null
-  - name: flan (custard)
+  - name: flan (natilla)
     amount: 1
     unit: null
-  - name: ground almonds
+  - name: almendras molidas
     amount: 1
-    unit: tbsp
-  - name: walnuts
+    unit: cucharada
+  - name: nueces
     amount: 2
     unit: null
-  - name: caramel or strawberry syrup (optional)
+  - name: jarabe de caramelo o fresa (opcional)
     amount: null
     unit: null
-  - name: sugar (optional)
+  - name: azúcar (opcional)
     amount: 1/2
-    unit: tbsp
+    unit: cucharada
 side_image: ./images/aigen.jpg
 ---
 
-1 serving.
+1 porción.
 
-1. Prepare a shake with the milk, sugar (optional), avocado, and banana. 
-2. Once blended, pour it into a 1/2-liter jug. 
-3. Add a flan and decorate with diced peach, banana slices, quartered strawberries, ground almonds, walnuts, and the syrups (optional).
+1. Prepara un batido con la leche, azúcar (opcional), aguacate y plátano. 
+2. Una vez licuado, viértelo en una jarra de 1/2 litro. 
+3. Añade un flan y decora con durazno en cubos, rodajas de plátano, fresas partidas en cuartos, almendras molidas, nueces y los jarabes (opcional).
 
 ---
 
-_Adaptation from [Cocina de Ceuta](https://cocinadeceuta.blogspot.com/2011/10/zah-zah.html)._
+_Adaptación de [Cocina de Ceuta](https://cocinadeceuta.blogspot.com/2011/10/zah-zah.html)._
 
 <img src="images/zahzah.jpg" style="width:250px; float:right;"/>

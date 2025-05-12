@@ -12,27 +12,27 @@ tags:
   - fish
   - spicy
 ingredients:
-  - name: sliced bread
+  - name: pan en rebanadas
     amount: null
     unit: null
-  - name: tomato sauce
+  - name: salsa de tomate
     amount: null
     unit: null
-  - name: anchovies
+  - name: anchoas
     amount: null
     unit: null
-  - name: spicy olive oil
+  - name: aceite de oliva picante
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. Spread the tomato over the slices of bread.
-2. Add the spicy oil.
-3. Place one or two anchovies per slice of bread.
-4. Put them in the oven at 180°C (350°F) for 5 minutes (or until the bread is slightly toasted).
+1. Unta el tomate sobre las rebanadas de pan.
+2. Añade el aceite picante.
+3. Coloca una o dos anchoas por rebanada de pan.
+4. Colócalos en el horno a 180°C (350°F) durante 5 minutos (o hasta que el pan esté ligeramente tostado).
 ---
 
-_From [Pizzeria Papa Luigi](https://maps.app.goo.gl/wTpAwbJGC6yX76Vn9)._
+_From [Pizzería Papa Luigi](https://maps.app.goo.gl/wTpAwbJGC6yX76Vn9)._
 
 <img src="images/bruschetta.png" style="width:250px; float:right;"/>

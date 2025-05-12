@@ -1,5 +1,5 @@
 ---
-title: Egg in the basket
+title: Huevo en la canasta
 ref: egg-in-the-basket
 image: true
 time: 5
@@ -11,33 +11,33 @@ tags:
   - eggs
   - vegetarian
 ingredients:
-  - name: slice of bread
+  - name: rebanada de pan
     amount: 1
     unit: null
-  - name: egg
+  - name: huevo
     amount: 1
     unit: null
-  - name: butter or olive oil
+  - name: mantequilla o aceite de oliva
     amount: 1
-    unit: tbsp
-  - name: salt
+    unit: cucharada
+  - name: sal
     amount: null
     unit: null
-  - name: pepper
+  - name: pimienta
     amount: null
     unit: null
-  - name: herbs, cheese, or hot sauce (optional)
+  - name: hierbas, queso o salsa picante (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Cut a hole in the bread:** Use a round cookie cutter or the rim of a glass to cut a hole in the center of the bread slice (about 5-7 cm in diameter). Keep the hole for later use if you want to toast it separately.
-2. **Heat a skillet** over medium heat and add the butter or oil, allowing it to melt and coat the pan.
-3. **Place the bread slice** in the pan, then crack the egg into the hole in the center of the bread.
-4. **Cook the egg:** Let the egg cook until the white is set and the yolk is still runny, about 2-3 minutes. If you prefer a fully cooked yolk, cover the pan with a lid for a minute to help it cook through.
-5. **Season:** Sprinkle with salt and pepper to taste.
-6. **Optional:** Toast the piece of bread you removed earlier in the pan or use it for dipping!
+1. **Haz un agujero en el pan:** Usa un cortador de galletas redondo o el borde de un vaso para cortar un agujero en el centro de la rebanada de pan (alrededor de 5-7 cm de diámetro). Guarda el trozo de pan recortado para usarlo más tarde si deseas tostarlo por separado.
+2. **Calienta una sartén** a fuego medio y agrega la mantequilla o el aceite, permitiendo que se derrita y cubra la sartén.
+3. **Coloca la rebanada de pan** en la sartén, luego rompe el huevo y colócalo en el agujero del pan.
+4. **Cocina el huevo:** Deja que el huevo se cocine hasta que la clara esté firme y la yema aún esté líquida, aproximadamente 2-3 minutos. Si prefieres la yema completamente cocida, cubre la sartén con una tapa por un minuto para ayudar a que se cocine bien.
+5. **Sazona:** Espolvorea con sal y pimienta al gusto.
+6. **Opcional:** Tuesta el trozo de pan que retiraste antes en la sartén o úsalo para mojar.
 
 ---
 

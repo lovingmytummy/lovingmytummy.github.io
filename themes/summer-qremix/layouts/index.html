@@ -215,7 +215,7 @@
 
       <li class="list-recipe">
         <article>
-          <a href="{{ .Permalink}}" title="{{ .Params.title }}">
+          <a href="{{ .Permalink}}" title="{{ i18n .Params.title }}">
             <div class="list-image" style="background-image: url('{{ .Permalink }}{{ .Params.side_image }}'); "></div>
             <div class="list-body">
               <span class="list-category category">{{ i18n .Params.category }}</span>

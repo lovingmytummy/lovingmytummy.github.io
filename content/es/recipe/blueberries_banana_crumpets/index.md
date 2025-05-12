@@ -1,6 +1,6 @@
 ---
-title: Blueberries & banana crumpets 
-ref: bueberries-banana-crumpets 
+title: Crumpets de arándanos y plátano
+ref: blueberries-banana-crumpets 
 image: true
 time: 15
 category: breakfast
@@ -12,27 +12,25 @@ tags:
   - banana
   - vegan
 ingredients:
-  - name: bananas
+  - name: plátanos
     amount: 2
     unit: null
-  - name: flour (all-purpose)
+  - name: harina (de todo uso)
     amount: 250
     unit: g
-  - name: blueberries (to taste)
+  - name: arándanos (al gusto)
     amount: null
     unit: null
-  - name: baking powder
+  - name: polvo de hornear
     amount: 1
-    unit: teaspoon
+    unit: cucharadita
 side_image: ./images/aigen.jpeg
 ---
 
-1. Mash the bananas, add the flour and baking powder, and knead well. 
-2. Add the blueberries and continue kneading until you get a moldable dough.
-3. Divide the dough into 4 equal pieces, flatten the balls, and cook them in a covered pan over medium-low heat for 4 minutes on each side.
+1. Tritura los plátanos, agrega la harina y el polvo de hornear, y amasa bien.
+2. Añade los arándanos y continúa amasando hasta obtener una masa moldeable.
+3. Divide la masa en 4 partes iguales, aplana las bolas y cocínelas en una sartén cubierta a fuego medio-bajo durante 4 minutos por cada lado.
 
 ---
 
-_From [Instagram @recetassaludables_faciles](https://www.instagram.com/p/C7aMwlQulgb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
-
-<img src="images/blueberries_banana_crumpets.png" style="width:250px; float:right;"/>
+_De [Instagram @recetassaludables_faciles](https://www.instagram.com/p/C7aMwlQulgb/?utm)_]()_

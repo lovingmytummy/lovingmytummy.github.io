@@ -1,5 +1,5 @@
 ---
-title: Spanish omelette
+title: Tortilla española
 ref: spanish-omelette
 image: true
 time: 40
@@ -12,34 +12,34 @@ tags:
   - eggs
   - vegetarian
 ingredients:
-  - name: potatoes (4 medium potatoes)
+  - name: patatas (4 patatas medianas)
     amount: 500-600
     unit: g
-  - name: eggs
+  - name: huevos
     amount: 4-6
     unit: null
-  - name: small onion (optional)
+  - name: cebolla pequeña (opcional)
     amount: 1
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: olive oil
+  - name: aceite de oliva
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-For 4 servings.
+Para 4 porciones.
 
-1. **Peel and slice the potatoes** into thin, even slices. If using onion, peel and finely chop it.
-2. **Heat olive oil** in a frying pan over medium heat. Add the potatoes (and onion, if using) and cook gently. Stir occasionally until the potatoes are soft but not crispy (15-20 minutes).
-3. Remove the potatoes (and onion) with a slotted spoon and drain excess oil.
-4. **Beat the eggs** in a large bowl and season with salt. Mix in the cooked potatoes (and onion), ensuring everything is well-coated.
-5. Heat a small amount of olive oil in a frying pan. **Pour the mixture** into the pan and cook over medium-low heat.
-6. When the bottom is set but the top is still slightly runny, carefully flip the tortilla using a plate. Slide it back into the pan and cook until fully set (about 3-5 minutes per side).
+1. **Pelar y cortar las patatas** en rodajas finas y uniformes. Si se usa cebolla, pelarla y picarla finamente.
+2. **Calentar el aceite de oliva** en una sartén a fuego medio. Agregar las patatas (y la cebolla, si se usa) y cocinar a fuego lento. Remover ocasionalmente hasta que las patatas estén tiernas, pero no crujientes (15-20 minutos).
+3. Retirar las patatas (y la cebolla) con una espumadera y escurrir el exceso de aceite.
+4. **Batir los huevos** en un bol grande y sazonar con sal. Mezclar las patatas (y la cebolla) cocinadas, asegurándose de que todo esté bien cubierto.
+5. Calentar una pequeña cantidad de aceite de oliva en una sartén. **Verter la mezcla** en la sartén y cocinar a fuego medio-bajo.
+6. Cuando la parte inferior esté cuajada pero la parte superior aún esté ligeramente líquida, voltear cuidadosamente la tortilla con la ayuda de un plato. Volver a colocarla en la sartén y cocinar hasta que esté completamente cuajada (aproximadamente 3-5 minutos por cada lado).
 
-Let the tortilla cool slightly before slicing. Serve warm or at room temperature.
+Deja que la tortilla se enfríe un poco antes de cortarla. Servir caliente o a temperatura ambiente.
 
 ---
 

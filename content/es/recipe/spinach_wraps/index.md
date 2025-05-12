@@ -1,5 +1,5 @@
 ---
-title: Spinach Wraps
+title: Rollitos de espinaca
 ref: spinach-wraps
 time: 15
 category: dinner
@@ -10,31 +10,31 @@ tags:
   - spinach
   - vegetarian
 ingredients:
-  - name: fresh spinach
+  - name: espinaca fresca
     amount: 100
     unit: g
-  - name: ground almond
+  - name: almendra molida
     amount: 2
-    unit: tablespoon
-  - name: egg
+    unit: cucharada
+  - name: huevo
     amount: 1
     unit: null
-  - name: salt (optional)
+  - name: sal (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. Chop the spinach into very small pieces.
-2. Mix the spinach with the rest of the ingredients.
-3. Heat a pan with a few drops of olive oil.
-4. Spoon a bit of the mixture onto the pan and shape it into a round form with the back of a spoon.
-5. Cook on both sides until golden brown.
+1. Picar la espinaca en trozos muy pequeños.
+2. Mezclar la espinaca con el resto de los ingredientes.
+3. Calentar una sartén con unas gotas de aceite de oliva.
+4. Colocar una cucharada de la mezcla en la sartén y darle forma redonda con el reverso de la cuchara.
+5. Cocinar por ambos lados hasta que estén doradas.
 
-You can fill them with your favourite toppings (e.g., cucumber, arugula, smoked salmon, and light mayonnaise).
+Puedes rellenarlas con tus ingredientes favoritos (por ejemplo, pepino, rúcula, salmón ahumado y mayonesa ligera).
 
 ---
 
-_From [Instagram @recetas_saludablesfit](https://www.instagram.com/p/Cin0TaWPHXE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Adaptado de [Instagram @recetas_saludablesfit](https://www.instagram.com/p/Cin0TaWPHXE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/spinach_wraps.png" style="width:250px; float:right;"/>

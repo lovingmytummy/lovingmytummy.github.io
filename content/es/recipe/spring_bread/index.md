@@ -1,5 +1,5 @@
 ---
-title: Spring bread
+title: Pan primavera
 ref: spring-bread
 image: true
 time: 7
@@ -11,38 +11,37 @@ tags:
   - spicy
   - vegetarian
 ingredients:
-  - name: sliced bread
+  - name: pan en rebanadas
     amount: 2
     unit: null
-  - name: diced  tomato
+  - name: tomate picado
     amount: null
     unit: null
-  - name: mozzarella cubes
+  - name: cubos de mozzarella
     amount: null
     unit: null
-  - name: spicy olive oil
+  - name: aceite de oliva picante
     amount: null
     unit: null
-  - name: basil
+  - name: albahaca
     amount: null
     unit: null
-  - name: oregano (optional)
+  - name: orégano (opcional)
     amount: null
     unit: null
-  - name: candied garlic (optional)
+  - name: ajo confitado (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. Toast the bread with the olive oil. 
-2. Put the ingredients on top.
+1. Tuesta el pan con el aceite de oliva.
+2. Coloca los ingredientes encima.
 
-To improve the receipt, you can use bread from pizza dough. 
-You can also replace the tomato with cherry tomatoes.
+Para mejorar la receta, puedes usar pan de masa de pizza. También puedes sustituir el tomate por tomates cherry.
 
 ---
 
-_From [Pizzeria Primavera](https://pizzeriaprimavera.es/)._
+_Adaptado de [Pizzeria Primavera](https://pizzeriaprimavera.es/)._
 
 <img src="images/spring_bread.png" style="width:250px; float:right;"/>

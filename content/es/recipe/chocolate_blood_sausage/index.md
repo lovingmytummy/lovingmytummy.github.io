@@ -1,5 +1,5 @@
 ---
-title: Chocolate blood sausage
+title: Morcilla de chocolate
 ref: chocolate-blood-sausage
 image: true
 time: 20
@@ -11,32 +11,32 @@ tags:
   - chocolate
   - vegetarian
 ingredients:
-  - name: dark chocolate
+  - name: chocolate negro
     amount: 200
     unit: g
-  - name: butter
+  - name: mantequilla
     amount: 2
-    unit: tablespoons
-  - name: crushed cookies
+    unit: cucharadas
+  - name: galletas trituradas
     amount: 150
     unit: g
-  - name: chopped nuts (walnuts, almonds, or hazelnuts)
+  - name: frutos secos picados (nueces, almendras o avellanas)
     amount: 50
     unit: g
 side_image: ./images/aigen.jpg
 ---
 
-1. **Melt the chocolate**: In a double boiler or microwave, melt the dark chocolate with the butter, stirring occasionally until smooth. Let it cool slightly.
-2. **Add the dry ingredients**: Stir in the crushed cookies and chopped nuts until everything is well combined.
-3. **Shape the "morcilla"**: Place the mixture on a piece of plastic wrap or parchment paper. Shape it into a log (like a morcilla), wrapping it tightly.
-4. **Chill:** Place the log in the refrigerator for at least 2 hours, or until it becomes firm.
-5. **Serve:** Once chilled and firm, remove the plastic wrap, and if desired, dust with powdered sugar to mimic the appearance of a real morcilla. Slice and serve!
+1. **Derretir el chocolate**: En un baño maría o microondas, derrite el chocolate negro con la mantequilla, removiendo de vez en cuando hasta que esté suave. Deja enfriar ligeramente.
+2. **Añadir los ingredientes secos**: Incorpora las galletas trituradas y los frutos secos picados, mezclando bien hasta que todo esté bien combinado.
+3. **Dar forma a la "morcilla"**: Coloca la mezcla sobre un trozo de film plástico o papel de hornear. Dale forma de tronco (como una morcilla), envolviéndola bien.
+4. **Enfriar:** Coloca el tronco en el refrigerador durante al menos 2 horas, o hasta que se endurezca.
+5. **Servir:** Una vez enfriado y firme, quita el film plástico y, si lo deseas, espolvorea con azúcar glas para imitar la apariencia de una morcilla real. Corta en rodajas y sirve.
 
 ---
 
-_Adaptation from [Eva Arguiñano](https://www.hogarmania.com/cocina/recetas/postres/morcilla-dulce-40095.html)._
+_Adaptación de [Eva Arguiñano](https://www.hogarmania.com/cocina/recetas/postres/morcilla-dulce-40095.html)._
 
-_Similar recipes:_
+_Recetas similares:_
 
 - _[Instagram @ugar90](https://www.instagram.com/reel/C0q84blrvYL/?utm_source=ig_web_copy_link)_
 

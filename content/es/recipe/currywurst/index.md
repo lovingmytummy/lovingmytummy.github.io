@@ -1,64 +1,52 @@
----
-title: Currywurst
-ref: currywurst
-image: true
-time: 30
-category: brunch
-rank: A
-origin: german
-flag: 🇩🇪
-tags:
-  - meat
-  - spicy
 ingredients:
-  - name: German sausages (Brühwurst or Bratwurst)
+  - name: salchichas alemanas (Brühwurst o Bratwurst)
     amount: 2
     unit: null
-  - name: onion
+  - name: cebolla
     amount: 1
     unit: null
-  - name: green chili pepper (piparra)
+  - name: chile verde (piparra)
     amount: 2
     unit: null
-  - name: tomato paste
+  - name: pasta de tomate
     amount: 1
-    unit: can
-  - name: salt
+    unit: lata
+  - name: sal
     amount: null
     unit: null
-  - name: black pepper
+  - name: pimienta negra
     amount: 1
-    unit: teaspoon
-  - name: curry powder
+    unit: cucharadita
+  - name: polvo de curry
     amount: 4
-    unit: tablespoons
-  - name: spicy paprika
+    unit: cucharadas
+  - name: pimentón picante
     amount: 1
-    unit: teaspoon
-  - name: chopped garlic (or garlic powder)
+    unit: cucharadita
+  - name: ajo picado (o ajo en polvo)
     amount: 2
-    unit: cloves
-  - name: cilantro (coriander)
+    unit: dientes
+  - name: cilantro (cilantro fresco)
     amount: 1
-    unit: teaspoon
-  - name: ginger
+    unit: cucharadita
+  - name: jengibre
     amount: 1
-    unit: teaspoon
-  - name: mustard
+    unit: cucharadita
+  - name: mostaza
     amount: 3
-    unit: teaspoons
+    unit: cucharaditas
 side_image: ./images/aigen.jpeg
 ---
 
-1. Cut the onion into thick julienne slices.
-2. Sauté the onions in a pan until they are golden and soft.
-3. Cook the sausages in a pan, on the grill, or in the oven until they are fully cooked.
-4. For the sauce, combine all the ingredients in a pan and simmer until well-blended.
-5. Slice the sausages into bite-sized pieces.
-6. Assemble everything together, sprinkle curry powder over the sauce, and garnish with green chili peppers.
+1. Corta la cebolla en rodajas gruesas tipo juliana.
+2. Sofríe las cebollas en una sartén hasta que estén doradas y tiernas.
+3. Cocina las salchichas en una sartén, a la parrilla o en el horno hasta que estén completamente cocidas.
+4. Para la salsa, combina todos los ingredientes en una sartén y deja que hierva a fuego lento hasta que se mezclen bien.
+5. Corta las salchichas en trozos de bocado.
+6. Monta todo, espolvorea el curry en polvo sobre la salsa y decora con los chiles verdes.
 
 ---
 
-_Roughly similar to [Pretzel & Me](https://pretzelandme.blog/2022/04/19/original-german-currywurst/)._
+_Adaptado de [Pretzel & Me](https://pretzelandme.blog/2022/04/19/original-german-currywurst/)._
 
 <img src="images/currywurst.png" style="width:250px; float:right;"/>

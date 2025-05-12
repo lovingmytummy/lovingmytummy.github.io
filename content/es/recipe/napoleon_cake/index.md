@@ -1,5 +1,5 @@
 ---
-title: Napoleon cake
+title: Tarta Napoleón
 ref: napoleon-cake
 image: true
 time: 150
@@ -11,80 +11,80 @@ tags:
   - cake
   - vegetarian
 ingredients:
-  - name: flour (+ 3 tablespoons)
+  - name: harina (+ 3 cucharadas)
     amount: 450
     unit: g
-  - name: sugar
+  - name: azúcar
     amount: 200
     unit: g
-  - name: butter
+  - name: mantequilla
     amount: 125
     unit: g
-  - name: eggs
+  - name: huevos
     amount: 5
     unit: null
-  - name: baking powder
+  - name: polvo de hornear
     amount: 1
-    unit: teaspoon
-  - name: salt
+    unit: cucharadita
+  - name: sal
     amount: 1
-    unit: pinch
-  - name: milk
+    unit: pizca
+  - name: leche
     amount: 700
     unit: ml
-  - name: vanilla sugar
+  - name: azúcar vainillado
     amount: 1
-    unit: teaspoon
+    unit: cucharadita
 side_image: ./images/aigen.jpg
 ---
 
-## For the cake layers
-- 450 grams of flour
-- 100 grams of sugar
-- 25 grams of butter
-- 3 eggs
-- 1 teaspoon of baking powder
-- A pinch of salt
+## Para las capas del pastel
+- 450 gramos de harina
+- 100 gramos de azúcar
+- 25 gramos de mantequilla
+- 3 huevos
+- 1 cucharadita de polvo de hornear
+- Una pizca de sal
 
-## For the custard
-- 700 ml of milk
-- 2 eggs
-- 100 grams of sugar
-- 1 teaspoon of vanilla sugar
-- 3 tablespoons of flour
-- 100 grams of butter
+## Para la crema pastelera
+- 700 ml de leche
+- 2 huevos
+- 100 gramos de azúcar
+- 1 cucharadita de azúcar vainillado
+- 3 cucharadas de harina
+- 100 gramos de mantequilla
 
-## Preparation
+## Preparación
 
-### Prepare the cake dough
-1. Beat the eggs with the sugar and a pinch of salt in a large bowl using a whisk. It's best to use an electric mixer, as you'll need to beat the eggs for 3 minutes until they double in volume. 
-2. Add the butter and beat until fully incorporated. 
-3. Add the baking powder and stir before adding the flour. 
-4. Knead the mixture until you obtain a smooth dough.
-5. Form the dough into a ball, wrap it in plastic wrap, and let it rest for 20 minutes in the bowl.
+### Preparar la masa para el pastel
+1. Batir los huevos con el azúcar y una pizca de sal en un bol grande utilizando un batidor. Lo ideal es usar una batidora eléctrica, ya que necesitarás batir los huevos durante 3 minutos hasta que doblen su volumen.
+2. Añadir la mantequilla y batir hasta que se incorpore completamente.
+3. Agregar el polvo de hornear y mezclar antes de añadir la harina.
+4. Amasar la mezcla hasta obtener una masa suave.
+5. Formar una bola con la masa, envolverla en film transparente y dejarla reposar durante 20 minutos en el bol.
 
-### Cook the custard
-1. Mix the eggs in a saucepan with the sugar and flour. 
-2. Stir until you get a creamy consistency. 
-3. Add the milk and whisk until you get a light cream. 
-4. Place the saucepan on low heat and stir with the whisk until the custard thickens. 
-5. Cover it with plastic wrap and let it cool to room temperature. 
-6. Beat 100 grams of butter for a couple of minutes, add 2 tablespoons of custard, stir, and then add the rest of the custard.
+### Preparar la crema pastelera
+1. Mezclar los huevos en una cacerola con el azúcar y la harina.
+2. Remover hasta obtener una consistencia cremosa.
+3. Añadir la leche y batir hasta obtener una crema ligera.
+4. Colocar la cacerola a fuego lento y revolver con el batidor hasta que la crema espese.
+5. Cubrir con film transparente y dejar enfriar a temperatura ambiente.
+6. Batir los 100 gramos de mantequilla durante un par de minutos, añadir 2 cucharadas de crema pastelera, mezclar y luego añadir el resto de la crema pastelera.
 
-### Prepare the cake layers
-1. Divide the dough into 9 parts and roll each one out into a disc shape. The cakes should be thin to ensure even cooking.
-2. Cook the cake discs in a non-stick pan for 2 minutes on each side until golden brown. 
-3. Once the discs are cooked, trim the edges using an upside-down bowl as a guide, so all the layers are the same size.
-4. Use a food processor to crush all the cake trimmings into a fine crumb that will be used as the cake topping.
+### Preparar las capas del pastel
+1. Dividir la masa en 9 partes y estirar cada una en forma de disco. Las capas deben ser finas para asegurar una cocción uniforme.
+2. Cocinar los discos de masa en una sartén antiadherente durante 2 minutos por cada lado hasta que estén dorados.
+3. Una vez cocidos los discos, recortar los bordes usando un bol al revés como guía, para que todas las capas sean del mismo tamaño.
+4. Utilizar un procesador de alimentos para triturar todos los recortes de masa en migas finas que se usarán para la decoración del pastel.
 
-### Assemble the cake
-1. Place one layer of cake on a large plate, and cover it with a couple of tablespoons of custard, spreading it over the entire surface. 
-2. Repeat the process until the cake is assembled. 
-3. Cover the entire cake with custard, spreading it over the surface and sides, and sprinkle the cake with the cake crumbs. 
-4. Let it rest in the refrigerator for at least 6 hours, and it's ready to serve.
+### Montar la tarta
+1. Colocar una capa de pastel en un plato grande y cubrirla con un par de cucharadas de crema pastelera, extendiéndola sobre toda la superficie.
+2. Repetir el proceso hasta montar la tarta.
+3. Cubrir toda la tarta con crema pastelera, extendiéndola por la superficie y los laterales, y espolvorear con las migas de pastel.
+4. Dejar reposar en la nevera durante al menos 6 horas, y estará lista para servir.
 
 ---
 
-_From [CocinaFácil](https://www.lecturas.com/recetas/actualidad/tarta-napoleon-irresistible-receta-rusa-milhojas-bizcocho-sin-horno_11736)._
+_De [CocinaFácil](https://www.lecturas.com/recetas/actualidad/tarta-napoleon-irresistible-receta-rusa-milhojas-bizcocho-sin-horno_11736)._
 
 <img src="images/napoleon_cake.jpg" style="width:250px; float:right;"/>

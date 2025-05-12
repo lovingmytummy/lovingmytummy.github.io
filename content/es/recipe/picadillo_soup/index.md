@@ -1,5 +1,5 @@
 ---
-title: Picadillo soup
+title: Sopa de picadillo
 ref: picadillo-soup
 image: true
 time: 15
@@ -11,34 +11,34 @@ tags:
   - soup
   - Andalusian
 ingredients:
-  - name: chicken broth (4 cups)
+  - name: caldo de pollo (4 tazas)
     amount: 1
     unit: l
-  - name: small pasta noodles (angel hair, thin vermicelli)
+  - name: fideos pequeños (cabellín, fideos finos)
     amount: 50
     unit: g
-  - name: serrano ham
+  - name: jamón serrano
     amount: 50
     unit: g
-  - name: hard-boiled eggs
+  - name: huevos duros
     amount: 2
     unit: null
-  - name: fresh peppermint leaves
+  - name: hojas de menta fresca
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. **Heat the broth:** In a medium pot, bring the chicken broth to a gentle boil over medium heat.
-2. **Cook the noodles:** Add the small pasta noodles to the boiling broth. Stir occasionally and cook for 3-5 minutes, or until tender (refer to the pasta package instructions for exact timing).
-3. **Add the ham and egg:** Stir in the finely chopped serrano ham and diced hard-boiled eggs. Allow them to warm through for 1-2 minutes.
-4. **Add the peppermint:** Add the fresh peppermint leaves to the soup just before serving to infuse it with their aroma and flavor.
-5. **Serve:** Ladle the soup into bowls and serve hot, with crusty bread if desired.
+1. **Calienta el caldo:** En una cacerola mediana, lleva el caldo de pollo a hervir suavemente a fuego medio.
+2. **Cocina los fideos:** Agrega los fideos pequeños al caldo hirviendo. Remueve de vez en cuando y cocina durante 3-5 minutos o hasta que estén tiernos (consulta las instrucciones del paquete de fideos para el tiempo exacto).
+3. **Añade el jamón y el huevo:** Incorpora el jamón serrano finamente picado y los huevos duros en cubos. Deja calentar todo durante 1-2 minutos.
+4. **Añade la menta:** Justo antes de servir, agrega las hojas de menta fresca a la sopa para infusionarla con su aroma y sabor.
+5. **Sirve:** Sirve la sopa en tazones y acompáñala con pan crujiente, si lo deseas.
 
-## Tips
-- You can use store-bought or homemade chicken broth for the base.
-- Adjust the amount of noodles, ham, and egg according to your preference.
-- For extra flavor, you can sauté the ham lightly before adding it to the soup.
+## Consejos
+- Puedes usar caldo de pollo casero o comprado.
+- Ajusta la cantidad de fideos, jamón y huevo según tus preferencias.
+- Para darle más sabor, puedes saltear ligeramente el jamón antes de añadirlo a la sopa.
   
 ---
 

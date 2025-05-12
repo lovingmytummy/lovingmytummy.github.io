@@ -1,5 +1,5 @@
 ---
-title: Quail with majao
+title: Codorniz con majao
 ref: quail-with-majao
 image: true
 time: 30
@@ -12,42 +12,42 @@ tags:
   - garlic
   - Andalusian
 ingredients:
-  - name: quail
+  - name: codorniz
     amount: 1
     unit: null
-  - name: garlic
+  - name: ajo
     amount: 1
-    unit: clove
-  - name: olive oil
+    unit: diente
+  - name: aceite de oliva
     amount: null
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: pepper
+  - name: pimienta
     amount: null
     unit: null
-  - name: paprika (optional)
+  - name: pimentón (opcional)
     amount: 1/2
-    unit: tbsp
-  - name: fresh parsley (optional)
+    unit: cucharada
+  - name: perejil fresco (opcional)
     amount: null
     unit: null
-  - name: white wine or broth (optional)
+  - name: vino blanco o caldo (opcional)
     amount: 1/4
-    unit: cup
+    unit: taza
 side_image: ./images/aigen.jpg
 ---
 
-1. **Make the majao (garlic paste):** In a mortar, crush the garlic with a pinch of salt until you form a smooth paste. Optionally add the paprika and mix well.
-2. **Prepare the quails:** Clean the quails and season them with salt and pepper. If you prefer, you can marinate them with the majao for an hour or two to enhance the flavor.
-3. **Cook the quails:** Heat a good amount of olive oil in a large frying pan over medium heat. Once hot, brown the quails on all sides.
-4. **Add the majao:** (if not marinated) Once the quails are browned, add the majao (garlic paste) to the pan, mixing it well with the quails. Let it cook for a few minutes until the flavors meld together.
-5. **Deglaze the pan:** Add a splash of white wine or broth to the pan to deglaze, scraping up any bits stuck to the bottom of the pan. Let it simmer for about 10-15 minutes until the quails are cooked through and tender.
-6. **Garnish and serve:** Sprinkle chopped fresh parsley on top for garnish. Serve with a side of rice, potatoes, or vegetables.
+1. **Hacer el majao (pasta de ajo):** En un mortero, machaca el ajo con una pizca de sal hasta formar una pasta suave. Opcionalmente, agrega el pimentón y mezcla bien.
+2. **Preparar las codornices:** Limpia las codornices y sazónalas con sal y pimienta. Si prefieres, puedes marinarlas con el majao durante una o dos horas para potenciar el sabor.
+3. **Cocinar las codornices:** Calienta una buena cantidad de aceite de oliva en una sartén grande a fuego medio. Una vez caliente, dora las codornices por todos los lados.
+4. **Añadir el majao:** (si no se ha marinado) Una vez que las codornices estén doradas, agrega el majao (pasta de ajo) a la sartén, mezclándolo bien con las codornices. Deja cocinar unos minutos hasta que los sabores se mezclen bien.
+5. **Desglasar la sartén:** Agrega un chorrito de vino blanco o caldo a la sartén para desglasar, raspando los restos pegados al fondo. Deja que se cocine durante unos 10-15 minutos hasta que las codornices estén bien cocidas y tiernas.
+6. **Adornar y servir:** Espolvorea perejil fresco picado por encima para adornar. Sirve con un acompañamiento de arroz, papas o verduras.
 
 ---
 
-_Adaptation from [Cookpad](https://cookpad.com/es/recetas/16774991-codorniz-a-la-plancha-con-su-majado)_
+_Adaptación de [Cookpad](https://cookpad.com/es/recetas/16774991-codorniz-a-la-plancha-con-su-majado)_
 
 <img src="images/quail_with_majao.png" style="width:250px; float:right;"/>

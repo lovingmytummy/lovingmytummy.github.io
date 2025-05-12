@@ -1,5 +1,5 @@
 ---
-title: Yukihira style shalyapin steak don
+title: Filete con arroz al estilo Yukihira
 ref: yukihira-style-shalyapin-steak-don
 image: true
 time: 60
@@ -12,77 +12,77 @@ tags:
   - gluten-free
   - asian
 ingredients:
-  - name: beef sirloin
+  - name: filete de res (lomo)
     amount: 1
     unit: null
-  - name: onion
+  - name: cebolla
     amount: 1
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: pepper
+  - name: pimienta
     amount: null
     unit: null
-  - name: chopped spring onion
+  - name: cebollín picado
     amount: null
     unit: null
-  - name: red wine
+  - name: vino tinto
     amount: 4
-    unit: tablespoons
-  - name: soy sauce
+    unit: cucharadas
+  - name: salsa de soja
     amount: 1
-    unit: tablespoon
-  - name: butter
+    unit: cucharada
+  - name: mantequilla
     amount: 2
-    unit: tablespoons
-  - name: rice
+    unit: cucharadas
+  - name: arroz
     amount: 1
-    unit: bowl
-  - name: umeboshi paste (pickled plum) (optional)
+    unit: bol
+  - name: pasta de umeboshi (ciruela encurtida) (opcional)
     amount: null
     unit: null
-  - name: garlic (optional)
+  - name: ajo (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-To prepare the rice bowl, follow the [Gohan receipt](recipe/gohan-rice/).
+Para preparar el bol de arroz, sigue la receta de [Gohan](recipe/gohan-rice/).
 
-## How to cook
-1. Chop the onions finely.
-<img src="images/manga_recipe.png" title="Original Yukihira style shalyapin steak don receipt" alt="Original Yukihira style shalyapin steak don receipt" style="width:350px; float:right;"/>
-2. (Optional) Chop the garlic and mix with the onion.
-3. Remove the tendons from the beef and beat it with a meat tenderizer until as flat as possible.
-4. Cover meat on both sides with the chopped onion and leave for 30 minutes or more. 
-5. Remove the onion and add salt and pepper to the steak.
-6. Melt 1 tablespoon of butter in a frying pan, and fry the onion until it changes color.
-7. Adjust the flavor with salt and pepper and move the onion to a dish.
-8. Cook the steak to your preference (most would prefer medium-rare): Melt the ramining butter in the frying pan and fry both sides of the meat before taking it out.
+## Cómo cocinar
+1. Pica finamente las cebollas.
+<img src="images/manga_recipe.png" title="Receta original de Shalyapin Steak Don estilo Yukihira" alt="Receta original de Shalyapin Steak Don estilo Yukihira" style="width:350px; float:right;"/>
+2. (Opcional) Pica el ajo y mézclalo con la cebolla.
+3. Retira los tendones de la carne y golpéala con un ablandador de carne hasta que quede lo más plana posible.
+4. Cubre la carne con las cebollas picadas por ambos lados y deja reposar durante 30 minutos o más.
+5. Retira la cebolla y sazona el filete con sal y pimienta.
+6. Derrite 1 cucharada de mantequilla en una sartén y fríe la cebolla hasta que cambie de color.
+7. Ajusta el sabor con sal y pimienta, luego mueve la cebolla a un plato.
+8. Cocina el filete a tu gusto (la mayoría prefieren término medio): Derrite la mantequilla restante en la sartén y fríe ambos lados de la carne antes de retirarla.
 
-## Making the sauce
+## Preparando la salsa
 
-1. Add red wine to the frying pan used for the beef to deglaze it. 
-2. Boil down the wine while scraping off the meat juice with a wooden spatula.
-3. Put the onion back in and fry it.
-4. Add soy sauce from the pan's border and mix it with everything while adding it to season.
-5. (Optional) Thicken it with the dissolved potato starch.
+1. Agrega el vino tinto a la sartén usada para la carne para desglasarla.
+2. Hierve el vino mientras raspas los jugos de la carne con una espátula de madera.
+3. Vuelve a poner la cebolla en la sartén y fríela.
+4. Añade la salsa de soja por el borde de la sartén y mezcla todo mientras lo agregas para sazonar.
+5. (Opcional) Espesa la salsa con almidón de patata disuelto.
 
-## Putting all together
-1. Put rice in the donbury bowl.
-2. (Optional) Mixe the rice with Umeboshi paste (pickled plum) in the donburi bowl. 
-3. Place the beef on top and add plenty of sauce. 
-4. Top with the finely chopped spring onion (chives).
+## Montando el plato
+1. Coloca el arroz en un bol para donburi.
+2. (Opcional) Mezcla el arroz con la pasta de umeboshi (ciruela encurtida) en el bol.
+3. Coloca el filete encima y agrega mucha salsa.
+4. Decora con cebollín finamente picado (cebollitas).
 
 <div class="gallery gallery-3">
-{{< figure class="gallery-item" src="./images/chaliapin_steak_don_manga.png" caption="Chaliapin Steak Don as depicted in the manga" >}}
-{{< figure class="gallery-item" src="./images/chaliapin_steak_don_close_up.png" caption="Chaliapin Steak Don C close-up" >}}
-{{< figure class="gallery-item" src="./images/pickled_plum_rice.png" caption="Umeboshi Plum Rice" >}}
+{{< figure class="gallery-item" src="./images/chaliapin_steak_don_manga.png" caption="Chaliapin Steak Don como se muestra en el manga" >}}
+{{< figure class="gallery-item" src="./images/chaliapin_steak_don_close_up.png" caption="Primer plano de Chaliapin Steak Don" >}}
+{{< figure class="gallery-item" src="./images/pickled_plum_rice.png" caption="Arroz con Umeboshi" >}}
 </div>
 
 ---
 
-_From [Shokugeki no Soma](https://shokugekinosoma.fandom.com/wiki/Chaliapin_Steak_Don)._
+_De [Shokugeki no Soma](https://shokugekinosoma.fandom.com/wiki/Chaliapin_Steak_Don)._
 
 <img src="images/chaliapin_steak_don.png" style="width:250px; float:right;"/>

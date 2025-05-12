@@ -11,57 +11,55 @@ tags:
   - coffee
   - vegetarian
 ingredients:
-  - name: egg
+  - name: huevo
     amount: 1
     unit: null
-  - name: yogurt
+  - name: yogur
     amount: 1
-    unit: tbsp
-  - name: oat flour
+    unit: cucharada
+  - name: harina de avena
     amount: 30
     unit: g
-  - name: baking powder
+  - name: levadura en polvo
     amount: 1
-    unit: tsp
-  - name: vanilla extract
+    unit: cucharadita
+  - name: extracto de vainilla
     amount: null
     unit: null
-  - name: cream cheese (Mascarpone, or yogurt)
+  - name: queso crema (Mascarpone, o yogur)
     amount: 250
     unit: g
-  - name: sweetener (optional)
+  - name: edulcorante (opcional)
     amount: null
     unit: null
-  - name: cocoa powder
+  - name: cacao en polvo
     amount: 1
-    unit: tsp
-  - name: freshly brewed coffee (cooled)
+    unit: cucharadita
+  - name: café recién hecho (enfriado)
     amount: null
     unit: null
-  - name: liquor, brandy or cognac (optional)
+  - name: licor, brandy o coñac (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
+1. **Preparar el bizcocho:** En un bol, mezcla el huevo, el yogur, la harina de avena, la levadura en polvo y el edulcorante hasta que quede suave.
+Engrasa ligeramente un pequeño recipiente apto para microondas o una taza y vierte la masa.
+Microondas a máxima potencia durante 3 minutos, revisando a los 2 minutos y agregando intervalos de 15 segundos si es necesario hasta que se cocine.
+Deja enfriar el bizcocho durante unos minutos y luego córtalo en capas finas.
 
+2. **Empapar las capas:** Sumerge cada capa de bizcocho en café enfriado (y licor opcional como brandy o coñac), dejando que se empape ligeramente sin quedar demasiado mojado.
 
-1. **Prepare the Sponge Cake:** In a bowl, mix the egg, yogurt, oat flour, baking powder, and sweetener until smooth.
-Lightly grease a small microwave-safe dish or mug and pour in the batter.
-Microwave on high for 3 minutes, checking after 2 minutes and adding 15-second intervals if needed until cooked.
-Let the sponge cake cool for a few minutes, then slice it into thin layers.
+3. **Montar el tiramisú:** En un recipiente grande o en copas individuales, coloca las capas de bizcocho empapado en café y la crema de queso/yogur alternándolas.
+Continúa montando hasta que se acaben los ingredientes, terminando con una capa de crema en la parte superior.
 
-2. **Soak the Layers:** Dip each sponge layer in cooled coffee (and optional liquor such as brandy or cognac), letting it absorb slightly without getting too soggy.
+4. **Decorar:** Espolvorea cacao en polvo sobre la capa superior para un acabado clásico de tiramisú.
 
-3. **Assemble the Tiramisu:** In a serving dish or individual cups, layer the coffee-soaked sponge cake and the cheese/yogurt cream alternately.
-Continue layering until you run out of ingredients, finishing with a layer of cream on top.
-
-4. **Decorate:** Dust cocoa powder over the top layer for a classic tiramisu finish.
-
-5. **Chill:** Refrigerate for at least 1 hour before serving to allow the flavors to meld.
+5. **Enfriar:** Refrigera durante al menos 1 hora antes de servir para que los sabores se fusionen.
 
 ---
 
-_Adaptation from [Instagram @annappleaday_](https://www.instagram.com/reel/CompRAejeHl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)_.
+_Adaptación de [Instagram @annappleaday_](https://www.instagram.com/reel/CompRAejeHl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/tiramisu.png" style="width:250px; float:right;"/>

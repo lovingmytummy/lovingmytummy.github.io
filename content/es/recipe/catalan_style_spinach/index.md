@@ -1,5 +1,5 @@
 ---
-title: Catalan-style spinach
+title: Espinacas a la catalana
 ref: catalan-style-spinach
 image: true
 time: 20
@@ -14,54 +14,51 @@ tags:
   - vegan
   - Catalonia
 ingredients:
-  - name: fresh or frozen spinach
+  - name: espinacas frescas o congeladas
     amount: 500
     unit: g
-  - name: raisins
+  - name: pasas
     amount: 50
     unit: g
-  - name: pine nuts
+  - name: piñones
     amount: 30
     unit: g
-  - name: garlic
+  - name: ajo
     amount: 2
-    unit: cloves
-  - name: olive oil
+    unit: dientes
+  - name: aceite de oliva
     amount: 3
-    unit: tbsp
-  - name: salt
+    unit: cucharadas
+  - name: sal
     amount: null
     unit: null
-  - name: black pepper
+  - name: pimienta negra
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Hydrate the raisins:**
-Place the raisins in a bowl with warm water and let them soak for 10-15 minutes. Drain and set aside.
+1. **Hidrata las pasas:**  
+Coloca las pasas en un cuenco con agua tibia y déjalas en remojo durante 10-15 minutos. Escúrrelas y resérvalas.
 
-2. **Cook the spinach:**
-If using fresh spinach, wash it thoroughly and drain. Bring a large pot of salted water to a boil, add the spinach, and blanch for 1-2 minutes. Drain and cool quickly under cold water.
-If using frozen spinach, cook according to the package instructions and drain well.
-Toast the pine nuts:
-In a dry skillet, toast the pine nuts over medium heat until golden brown. Remove and set aside.
+2. **Cuece las espinacas:**  
+Si usas espinacas frescas, lávalas bien y escúrrelas. Lleva a ebullición una olla grande con agua con sal, añade las espinacas y escáldalas durante 1-2 minutos. Escúrrelas y enfríalas rápidamente con agua fría.  
+Si usas espinacas congeladas, cocínalas siguiendo las instrucciones del paquete y escúrrelas bien.
 
-3. **Sauté the garlic:**
-In the same skillet, heat the olive oil and lightly sauté the garlic, thinly sliced, until fragrant.
+3. **Tuesta los piñones:**  
+En una sartén sin aceite, tuesta los piñones a fuego medio hasta que estén dorados. Retira y reserva.
 
-4. **Combine ingredients:**
-Add the hydrated raisins and toasted pine nuts to the skillet with the garlic. Stir for 1 minute to combine the flavors.
-Add the drained spinach, mix well, and cook for 2-3 minutes over medium heat.
+4. **Saltea el ajo:**  
+En la misma sartén, calienta el aceite de oliva y saltea ligeramente el ajo laminado hasta que desprenda aroma.
 
-5. **Season to taste:**
-Adjust the seasoning with salt and, if desired, a pinch of black pepper.
+5. **Mezcla los ingredientes:**  
+Añade las pasas hidratadas y los piñones tostados a la sartén con el ajo. Remueve durante 1 minuto para mezclar sabores.  
+Agrega las espinacas escurridas, mezcla bien y cocina durante 2-3 minutos a fuego medio.
 
-Serve warm as a side dish for meats, fish, or enjoy it as a main dish with some crusty bread.
+6. **Ajusta de sal:**  
+Rectifica de sal y, si lo deseas, añade una pizca de pimienta negra.
 
-## Tips
-- For an extra touch, add a splash of sherry vinegar or sprinkle with chopped serrano ham for added flavor.
-  
----
+Sirve caliente como guarnición de carnes o pescados, o como plato principal acompañado de pan crujiente.
 
-<img src="images/catalan_style_spinach.jpg" style="width:250px; float:right;"/>
+## Consejos
+- Para darle un toque extra, añade un chorrito de vinagre de Jerez o espolvorea con jamón serrano picado.

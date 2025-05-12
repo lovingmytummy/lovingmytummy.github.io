@@ -1,5 +1,5 @@
 ---
-title: Outback Blooming Onion
+title: Cebolla en flor
 ref: outback-blooming-onion
 image: true
 time: 5
@@ -13,63 +13,63 @@ tags:
   - air-fryer
   - american
 ingredients:
-  - name: medium onions (or 1 large onion)
+  - name: cebollas medianas (o 1 cebolla grande)
     amount: 2
     unit: null
-  - name: flour
+  - name: harina
     amount: 1
-    unit: cup
-  - name: garlic powder
+    unit: taza
+  - name: ajo en polvo
     amount: 2
-    unit: teaspoons
-  - name: onion powder
+    unit: cucharaditas
+  - name: cebolla en polvo
     amount: 2
-    unit: teaspoons
-  - name: paprika
+    unit: cucharaditas
+  - name: pimentón
     amount: 2
-    unit: teaspoons
-  - name: oregano
+    unit: cucharaditas
+  - name: orégano
     amount: 1
-    unit: teaspoon
-  - name: salt
+    unit: cucharadita
+  - name: sal
     amount: 1
-    unit: teaspoon
-  - name: pepper
+    unit: cucharadita
+  - name: pimienta
     amount: 1/2
-    unit: teaspoon
-  - name: water
+    unit: cucharadita
+  - name: agua
     amount: 1
-    unit: cup
-  - name: breadcrumbs or panko
+    unit: taza
+  - name: pan rallado o panko
     amount: 3/4
-    unit: cup
-  - name: olive oil
+    unit: taza
+  - name: aceite de oliva
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Prepare the Onion:** Keep the root of the onion intact to hold it together. Slice off the top and peel the outer layer. Place the onion face down and cut it into quarters, then quarter it again once or twice more, depending on the size of the onion.
-2. **Soak in ice water:** Let the cut onion sit in ice water for a few minutes. This helps the layers separate and gives the onion a crisp texture.
-3. **Make the batter:** In a bowl, mix the flour, garlic powder, onion powder, paprika, oregano, salt, pepper, and water until a thick batter forms.
-4. **Dry and dip the onion:** Remove the onion from the ice water and dry it thoroughly with a paper towel. Dip the onion into the batter, ensuring to coat every crevice carefully. Let any excess batter drip off.
-5. **Coat with breadcrumbs:** Sprinkle breadcrumbs or panko over the onion until it’s fully coated.
-6. **Air fry**: Place the coated onion in an air fryer, give it a light spray of olive oil, and cook at 180ºC (350°F) for 15 minutes, or until golden and crispy.
+1. **Preparar la cebolla:** Mantén la raíz de la cebolla intacta para que se mantenga unida. Corta la parte superior y pela la capa exterior. Coloca la cebolla con la cara hacia abajo y córtala en cuartos, luego vuelve a cortarla en cuartos una o dos veces más, dependiendo del tamaño de la cebolla.
+2. **Remojar en agua con hielo:** Deja la cebolla cortada en agua con hielo durante unos minutos. Esto ayuda a separar las capas y le da una textura crujiente a la cebolla.
+3. **Preparar la masa:** En un tazón, mezcla la harina, ajo en polvo, cebolla en polvo, pimentón, orégano, sal, pimienta y agua hasta que se forme una masa espesa.
+4. **Secar y sumergir la cebolla:** Saca la cebolla del agua con hielo y sécala completamente con una toalla de papel. Sumerge la cebolla en la masa, asegurándote de cubrir cada ranura cuidadosamente. Deja que el exceso de masa se escurra.
+5. **Cubrir con pan rallado:** Espolvorea pan rallado o panko sobre la cebolla hasta que esté completamente cubierta.
+6. **Freír en aire:** Coloca la cebolla cubierta en la freidora de aire, rocía ligeramente con aceite de oliva y cocina a 180ºC (350°F) durante 15 minutos, o hasta que esté dorada y crujiente.
 
-Serve with your favorite dipping sauce!
+¡Sírvela con tu salsa para mojar favorita!
 
-## Suggested dipping sauce
-- 1/4 cup mayo
-- 1/4 cup sour cream
-- 2 tbsp ketchup
-- 1 tbsp prepared horseradish
-- 1 tsp worstchestire sauce
-- 1 tsp garlic powder
-- 1 tsp onion powder
-- 1 tsp paprika
+## Salsa sugerida para mojar
+- 1/4 taza de mayonesa
+- 1/4 taza de crema agria
+- 2 cucharadas de kétchup
+- 1 cucharada de rábano picante preparado
+- 1 cucharadita de salsa Worcestershire
+- 1 cucharadita de ajo en polvo
+- 1 cucharadita de cebolla en polvo
+- 1 cucharadita de pimentón
 
 ---
 
-_From [Instagram @alexrioscooks](https://www.instagram.com/reel/C6_9GM2v_U7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Adaptado de [Instagram @alexrioscooks](https://www.instagram.com/reel/C6_9GM2v_U7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/outback_blooming_onion.png" style="width:250px; float:right;"/>

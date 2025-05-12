@@ -1,5 +1,5 @@
 ---
-title: Chocolate palm heart
+title: Corazón de palma de chocolate
 ref: chocolate-palm-heart
 image: true
 time: 24
@@ -9,30 +9,29 @@ origin: french
 flag: 🇫🇷
 tags:
   - palmier
-  - cockles
   - chocolate
   - vegetarian
 ingredients:
-  - name: ground oats
+  - name: avena molida
     amount: 110
     unit: g
-  - name: Greek yogurt
+  - name: yogur griego
     amount: 2
-    unit: tablespoons
-  - name: 85% dark chocolate (or cocoa powder)
+    unit: cucharadas
+  - name: chocolate negro 85% (o cacao en polvo)
     amount: 35
     unit: g
 side_image: ./images/aigen.jpg
 ---
 
-1. Mix the ground oats with the yogurt using a whisk or blender.
-2. Spread the mixture on parchment paper, shaping it into a hearth.
-3. Bake for 12 minutes at 180°C (356°F), flipping once halfway through.
-4. Melt the chocolate or cocoa powder and cover the pastry.
-5. Let it cool and then refrigerate in the fridge.
+1. Mezcla la avena molida con el yogur usando un batidor o licuadora.
+2. Extiende la mezcla sobre papel de hornear, dándole forma de corazón.
+3. Hornea durante 12 minutos a 180°C (356°F), dándole la vuelta a la mitad del tiempo.
+4. Derrite el chocolate o el cacao en polvo y cubre el hojaldre.
+5. Deja enfriar y luego refrigera en la nevera.
 
 ---
 
-_From [Instagram @fitfoodmania](https://www.instagram.com/reel/Crq7IehIx_h/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_De [Instagram @fitfoodmania](https://www.instagram.com/reel/Crq7IehIx_h/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/palmera.png" style="width:250px; float:right;"/>

@@ -1,5 +1,5 @@
 ---
-title: Oat and Chocolate cookies
+title: Galletas de avena y chocolate
 ref: oat-and-chocolate-cookies
 image: true
 time: 20
@@ -13,50 +13,51 @@ tags:
   - vegetarian
   - asian
 ingredients:
-  - name: oat flakes
+  - name: copos de avena
     amount: 200
     unit: g
-  - name: butter
+  - name: mantequilla
     amount: 125
     unit: g
-  - name: sugar (or pitted dates)
+  - name: azúcar (o dátiles sin hueso)
     amount: 125
     unit: g
-  - name: milk
+  - name: leche
     amount: 5
-    unit: tablespoons
-  - name: egg
+    unit: cucharadas
+  - name: huevo
     amount: 1
     unit: null
-  - name: vanilla sugar (or extract)
+  - name: azúcar vainillado (o extracto de vainilla)
     amount: 1
-    unit: tablespoon
-  - name: flour
+    unit: cucharada
+  - name: harina
     amount: 125
     unit: g
-  - name: cocoa powder
+  - name: cacao en polvo
     amount: 1
-    unit: tablespoon
-  - name: baking powder
+    unit: cucharada
+  - name: polvo de hornear
     amount: 1
-    unit: teaspoon
-  - name: coarsely chopped dark chocolate
+    unit: cucharadita
+  - name: chocolate negro grueso picado
     amount: 150
     unit: g
 side_image: ./images/aigen.jpeg
 ---
 
-You can use wheat flour or any other kind of flour. I even recommend using ground oats as flour, in addition to the oat flakes.
+Puedes usar harina de trigo o cualquier otro tipo de harina. Incluso te recomiendo usar avena molida como harina, además de los copos de avena.
 
-1. Preheat the oven with two baking trays lined with parchment paper.
-2. Mix the butter, sugar, and egg in a bowl.
-3. Add the remaining ingredients to the mixture except for the chocolate, and mix with a dough utensil until fully combined.
-4. Add the chopped chocolate and incorporate it evenly into the dough.
-5. Then, use a coffee spoon to form small round portions and place them on the parchment paper. 
-6. Bake for about 12-14 minutes at 180°C (356°F) (fan oven) or 190°C (374°F) (top and bottom heat).
-7. After baking, let the cookies cool on the baking trays.
+1. Precalienta el horno con dos bandejas de hornear cubiertas con papel pergamino.
+2. Mezcla la mantequilla, el azúcar y el huevo en un bol.
+3. Agrega los ingredientes restantes a la mezcla, excepto el chocolate, y mezcla con una herramienta para amasar hasta que estén completamente combinados.
+4. Añade el chocolate picado e incorpóralo uniformemente en la masa.
+5. Luego, usa una cuchara de café para formar pequeñas porciones redondas y colócalas en el papel pergamino.
+6. Hornea durante unos 12-14 minutos a 180°C (356°F) (horno con ventilador) o 190°C (374°F) (calor arriba y abajo).
+7. Después de hornear, deja que las galletas se enfríen en las bandejas de hornear.
+
 ---
 
-_From [Crownfield @Lidl](https://www.lidl.com/)._
+_Adaptado de [Crownfield @Lidl](https://www.lidl.com/)._
 
 <img src="images/cookies.png" style="width:250px; float:right;"/>

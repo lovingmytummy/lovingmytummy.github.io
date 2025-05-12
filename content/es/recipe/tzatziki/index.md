@@ -11,46 +11,46 @@ tags:
   - cucumber
   - vegetarian
 ingredients:
-  - name: Greek yogurt
+  - name: yogur griego
     amount: 1
-    unit: cup
-  - name: small cucumber (grated)
+    unit: taza
+  - name: pepino pequeño (rallado)
     amount: 1
     unit: null
-  - name: garlic powder
+  - name: ajo en polvo
     amount: 1
-    unit: tbsp
-  - name: onion powder
+    unit: cucharada
+  - name: cebolla en polvo
     amount: 1
-    unit: tbsp
-  - name: dill
+    unit: cucharada
+  - name: eneldo
     amount: 1
-    unit: tbsp
-  - name: parsley
+    unit: cucharada
+  - name: perejil
     amount: 1
-    unit: tbsp
-  - name: salt
+    unit: cucharada
+  - name: sal
     amount: null
     unit: null
-  - name: ground white pepper
+  - name: pimienta blanca molida
     amount: null
     unit: null
-  - name: olive oil
+  - name: aceite de oliva
     amount: 1
-    unit: tbsp
-  - name: lemon juice
+    unit: cucharada
+  - name: jugo de limón
     amount: 1
-    unit: tsp
+    unit: cucharadita
 side_image: ./images/aigen.jpg
 ---
 
-1. **Prepare the cucumber:** Grate the cucumber and place it in a cheesecloth or a clean kitchen towel. Squeeze out as much liquid as possible to prevent the sauce from becoming watery.
-2. **Mix the ingredients:** In a medium bowl, combine the yogurt, grated cucumber, garlic powder, onion powder, dill, parsley, olive oil, and lemon juice. Stir well until all ingredients are fully blended.
-3. **Season and chill:** Add salt to taste, along with pepper if desired. Cover the bowl and refrigerate for at least 1 hour to allow flavors to meld.
-4. **Serve:** Enjoy as a dip with pita bread, as a sauce for gyros or grilled meats, or as a refreshing spread.
-   
+1. **Preparar el pepino:** Ralla el pepino y colócalo en una gasa o en un paño de cocina limpio. Exprime todo el líquido posible para evitar que la salsa quede aguada.
+2. **Mezclar los ingredientes:** En un bol mediano, combina el yogur, el pepino rallado, el ajo en polvo, la cebolla en polvo, el eneldo, el perejil, el aceite de oliva y el jugo de limón. Revuelve bien hasta que todos los ingredientes estén completamente mezclados.
+3. **Sazonar y enfriar:** Añade sal al gusto y pimienta si lo deseas. Cubre el bol y refrigera durante al menos 1 hora para que los sabores se integren.
+4. **Servir:** Disfruta como dip con pan de pita, como salsa para gyros o carnes a la parrilla, o como un untable refrescante.
+
 ---
 
-_Adaptation from [Eridanous @Lidl](https://www.lidl.com/products/20550097)._
+_Adaptación de [Eridanous @Lidl](https://www.lidl.com/products/20550097)._
 
 <img src="images/tzatziki.jpg" style="width:250px; float:right;"/>

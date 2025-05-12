@@ -1,5 +1,5 @@
 ---
-title: Chocolate & Banana bar
+title: Barrita de Chocolate y Plátano
 ref: chocolate-banana-bar
 image: true
 time: 70
@@ -13,32 +13,32 @@ tags:
   - vegan
   - american
 ingredients:
-  - name: sciled bananas
+  - name: plátanos en rodajas
     amount: 2
     unit: null
-  - name: peanut butter
+  - name: mantequilla de cacahuete
     amount: 4
-    unit: tablespoons
-  - name: 85% dark chocolate
+    unit: cucharadas
+  - name: chocolate negro 85%
     amount: 80
     unit: g
-  - name: nuts (optional)
+  - name: frutos secos (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. Place the banana slices on a board or tray lined with parchment or baking paper.
-2. Add the peanut butter, then the nuts (e.g., peanuts, almonds, pistachios,...) on top, and finally the melted chocolate.
-3. You can sprinkle some salt or more nuts on top as decoration.
-4. Freeze for at least 1 hour.
-5. Cut it in pieces.
+1. Coloca las rodajas de plátano sobre una tabla o bandeja forrada con papel de horno o papel encerado.
+2. Añade la mantequilla de cacahuete, luego los frutos secos (por ejemplo, cacahuetes, almendras, pistachos,...) por encima, y finalmente el chocolate derretido.
+3. Puedes espolvorear algo de sal o más frutos secos por encima como decoración.
+4. Congela durante al menos 1 hora.
+5. Corta en trozos.
 
-## Storage
-Store in the freezer in an airtight container or plastic bag. It lasts 3 to 4 months!
+## Conservación
+Guarda en el congelador en un recipiente hermético o en una bolsa de plástico. ¡Dura de 3 a 4 meses!
 
 ---
 
-_Adaptation from [Instagram @laverdudegabi](https://www.instagram.com/reel/C4T71UHL9nk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
+_Adaptación de [Instagram @laverdudegabi](https://www.instagram.com/reel/C4T71UHL9nk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)._
 
 <img src="images/chocolate_banana_bar.png" style="width:250px; float:right;"/>

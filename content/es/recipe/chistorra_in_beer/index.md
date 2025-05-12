@@ -1,5 +1,5 @@
 ---
-title: Chistorra in beer
+title: Chistorra a la cerveza
 ref: chistorra-in-beer
 image: true
 time: 30
@@ -11,27 +11,27 @@ tags:
   - beer
   - Navarra
 ingredients:
-  - name: chistorra (a type of Spanish sausage)
+  - name: chistorra (un tipo de embutido español)
     amount: 300
     unit: g
-  - name: medium onion
+  - name: cebolla mediana
     amount: 1
     unit: null
-  - name: beer
+  - name: cerveza
     amount: 200
     unit: ml
-  - name: fresh parsley (optional)
+  - name: perejil fresco (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Cook the chistorra:** Heat a large frying pan over medium heat (no oil needed if the chistorra is fatty). Add the chistorra, sliced into smaller pieces (about 5-7 cm long), and cook until browned on all sides. Remove the chistorra from the pan and set it aside. Leave the rendered fat in the pan.
-2. **Clean the pan:** Remove any burnt bits (grass) from the pan, leaving behind the flavorful fat. If needed, add a drizzle of olive oil.
-3. **Cook the onion:** Add the sliced onion to the pan and sauté over medium heat. Stir frequently until the onion becomes soft and golden, about 8-10 minutes.
-4. **Combine and cook:** Return the cooked chistorra to the pan with the onions. Pour the beer into the pan and bring it to a gentle simmer.
-5. **Reduce the beer:** Cook everything together until most of the beer has evaporated, leaving a thick, flavorful sauce that coats the chistorra and onions, about 10-15 minutes.
-6. **Serve:** Serve the chistorra hot, garnished with fresh parsley if desired. Pair it with crusty bread for dipping.
+1. **Cocinar la chistorra:** Calienta una sartén grande a fuego medio (no hace falta aceite si la chistorra tiene suficiente grasa). Añade la chistorra cortada en trozos de unos 5-7 cm y cocínala hasta que esté dorada por todos lados. Retira la chistorra de la sartén y resérvala. Deja la grasa fundida en la sartén.
+2. **Limpiar la sartén:** Retira cualquier resto quemado de la sartén, dejando la grasa con sabor. Si es necesario, añade un chorrito de aceite de oliva.
+3. **Cocinar la cebolla:** Añade la cebolla cortada en tiras a la sartén y sofríe a fuego medio. Remueve con frecuencia hasta que esté blanda y dorada, unos 8-10 minutos.
+4. **Combinar y cocinar:** Vuelve a incorporar la chistorra a la sartén junto con la cebolla. Vierte la cerveza y lleva a ebullición suave.
+5. **Reducir la cerveza:** Cocina todo junto hasta que la mayor parte de la cerveza se evapore, quedando una salsa espesa y sabrosa que recubra la chistorra y la cebolla, unos 10-15 minutos.
+6. **Servir:** Sirve la chistorra caliente, adornada con perejil fresco si se desea. Acompaña con pan crujiente para mojar en la salsa.
 
 ---
 

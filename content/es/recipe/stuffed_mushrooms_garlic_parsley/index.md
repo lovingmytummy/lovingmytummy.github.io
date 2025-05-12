@@ -1,5 +1,5 @@
 ---
-title: Stuffed mushrooms with garlic and parsley
+title: Champiñones rellenos al ajillo y perejil
 ref: stuffed-mushrooms-garlic-parsley
 image: true
 time: 20
@@ -13,34 +13,34 @@ tags:
   - vegan
   - gluten-free
 ingredients:
-  - name: mushrooms
+  - name: champiñones
     amount: null
     unit: null
-  - name: garlic
+  - name: ajo
     amount: 4
-    unit: cloves
-  - name: olive oil
+    unit: dientes
+  - name: aceite de oliva
     amount: null
     unit: null
-  - name: fresh parsley (a handful)
+  - name: perejil fresco (un puñado)
     amount: null
     unit: null
-  - name: salt (a pinch)
+  - name: sal (una pizca)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. Remove the stems and thoroughly wash the mushrooms to eliminate any dirt or sand. It's important not to remove the skin in this case, as they could burn (especially if cooked in a pan).
-2. Take a handful of parsley and as many garlic cloves as you think necessary, depending on how many mushrooms you want to prepare.
-3. Finely chop the garlic and parsley, and let them marinate with a good drizzle of olive oil. The garlic and parsley should be well coated in oil, but not soaked. They should have a soft appearance.
-4. In a pan, heat it with a small amount of oil and, without filling the mushrooms yet, quickly sear them to brown them. Remove them from the pan, fill them, and you can return them to the pan for a few more minutes, being careful not to burn the bottoms.
-5. Plate them up, and they're ready to serve!
+1. Retira los tallos y lava bien los champiñones para eliminar cualquier suciedad o arena. Es importante no quitar la piel en este caso, ya que podrían quemarse (especialmente si se cocinan en sartén).
+2. Toma un puñado de perejil y tantos dientes de ajo como creas necesario, dependiendo de cuántos champiñones quieras preparar.
+3. Pica finamente el ajo y el perejil, y déjalos marinar con un buen chorro de aceite de oliva. El ajo y el perejil deben quedar bien cubiertos de aceite, pero no empapados. Deben tener un aspecto suave.
+4. En una sartén, caliéntala con una pequeña cantidad de aceite y, sin rellenar aún los champiñones, séllalos rápidamente para dorarlos. Retíralos de la sartén, rellénalos y puedes devolverlos a la sartén unos minutos más, con cuidado de no quemar la base.
+5. Sirve en un plato y ¡listo para disfrutar!
 
-If you prefer to bake them, preheat the oven or air-fryer to 200°C (390°F) and bake them for about 15 minutes.
+Si prefieres hornearlos, precalienta el horno o la freidora de aire a 200°C (390°F) y hornéalos durante unos 15 minutos.
 
 ---
 
-_From [Mis recetas veganas](https://recetasveganas.net/recipes/champinones-rellenos-de-ajo-y-perejil)._
+_Adaptación de [Mis recetas veganas](https://recetasveganas.net/recipes/champinones-rellenos-de-ajo-y-perejil)._
 
 <img src="images/stuffed_mushrooms_garlic_parsley.jpg" style="width:250px; float:right;"/>

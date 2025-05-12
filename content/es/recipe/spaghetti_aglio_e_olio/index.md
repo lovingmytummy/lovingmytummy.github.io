@@ -1,5 +1,5 @@
 ---
-title: Spaghetti Aglio e Olio
+title: Espaguetis aglio e olio
 ref: spaghetti-aglio-e-olio
 image: true
 time: 20
@@ -13,36 +13,36 @@ tags:
   - garlic
   - vegan
 ingredients:
-  - name: dried spaguetti
+  - name: espaguetis secos
     amount: 1
-    unit: pound
-  - name: olive oil
+    unit: libra
+  - name: aceite de oliva
     amount: 1/2
-    unit: cup
-  - name: cloves garlic
+    unit: taza
+  - name: dientes de ajo
     amount: 6-8
     unit: null
-  - name: crushed red pepper flakes
+  - name: hojuelas de pimiento rojo triturado
     amount: 1/2
-    unit: teaspoon
-  - name: chopped fresh parsley (optional)
+    unit: cucharadita
+  - name: perejil fresco picado (opcional)
     amount: null
     unit: null
-  - name: freshly-grated Parmesan cheese (optional)
+  - name: queso parmesano rallado fresco (opcional)
     amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. **Cook the spaghetti:** Bring a large stockpot of generously-salted water to a boil.  Add spaghetti and cook until nearly al dente (like, just one minute shy of being done).
-2. **Sauté the garlic:**  Meanwhile, about 3 minutes after you add the pasta to the boiling water, heat the olive oil in a large sauté pan over medium heat.  Add the sliced garlic and crushed red pepper flakes and sauté for 3 to 5 minutes, or until it is lightly golden.  (It's very important that the garlic not burn.  So if the pasta is not ready to go by the time the garlic is lightly golden, remove the sauté pan from the heat until the pasta is ready.)
-3. **Toss the pasta in the sauce:**  As soon as the pasta is ready to go, use tongs to transfer the pasta to the sauté pan, along with 1/2 cup of the hot starchy pasta water. Toss the pasta continuously until it is evenly coated in the garlic sauce. If the sauce looks a bit too dry, add in another 1/4 cup of the starchy pasta water. Taste and season. Give the pasta a quick taste add an extra pinch of salt and/or crushed red pepper flakes if needed.
-4. **Serve:** Serve immediately while it's nice and hot, garnished with any toppings that sound good.
+1. **Cocina los espaguetis:** Lleva a ebullición una gran olla con agua salada generosamente. Agrega los espaguetis y cocina hasta que estén casi al dente (justo un minuto antes de que estén completamente cocidos).
+2. **Sofríe el ajo:** Mientras tanto, aproximadamente 3 minutos después de agregar la pasta al agua hirviendo, calienta el aceite de oliva en una sartén grande a fuego medio. Agrega el ajo en rodajas y las hojuelas de pimiento rojo triturado y sofríe durante 3 a 5 minutos, o hasta que estén ligeramente dorados. (Es muy importante que el ajo no se queme. Si la pasta no está lista cuando el ajo esté ligeramente dorado, retira la sartén del fuego hasta que la pasta esté lista).
+3. **Mezcla la pasta con la salsa:** Tan pronto como la pasta esté lista, usa pinzas para transferirla a la sartén, junto con 1/2 taza del agua de pasta caliente y con almidón. Mezcla continuamente hasta que la pasta esté bien cubierta con la salsa de ajo. Si la salsa parece un poco seca, agrega otra 1/4 taza del agua de pasta con almidón. Prueba y sazona. Haz una prueba rápida a la pasta y agrega un poco más de sal y/o hojuelas de pimiento rojo triturado si es necesario.
+4. **Servir:** Sirve inmediatamente mientras está bien caliente, adornado con los toppings que más te gusten.
 
-Optionally (in step 2), you can add anchovies, tuna, shrimps, dried tomatoes, etc.
+Opcionalmente (en el paso 2), puedes añadir anchoas, atún, camarones, tomates secos, etc.
 
 ---
 
-_From [Gimme Some Oven](https://www.gimmesomeoven.com/spaghetti-aglio-e-olio/)._
+_Adaptación de [Gimme Some Oven](https://www.gimmesomeoven.com/spaghetti-aglio-e-olio/)._
 
 <img src="images/spaghetti_aglio_e_olio.png" style="width:250px; float:right;"/>

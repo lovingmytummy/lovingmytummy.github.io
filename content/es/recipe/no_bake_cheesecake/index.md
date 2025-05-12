@@ -1,5 +1,5 @@
 ---
-title: No-Bake Cheesecake
+title: Tarta de queso sin horno
 ref: no-bake-cheesecake
 image: true
 time: 30
@@ -12,59 +12,59 @@ tags:
   - cheese
   - vegetarian
 ingredients:
-  - name: cookies
+  - name: galletas
     amount: 100
     unit: g
-  - name: butter
+  - name: mantequilla
     amount: 75
     unit: g
-  - name: cream cheese
+  - name: queso crema
     amount: 250
     unit: g
-  - name: Mascarpone cheese
+  - name: queso Mascarpone
     amount: 250
     unit: g
-  - name: heavy cream
+  - name: nata líquida
     amount: 500
     unit: g
-  - name: sugar
+  - name: azúcar
     amount: 100
     unit: g
-  - name: unflavored gelatin
+  - name: gelatina sin sabor
     amount: 8
-    unit: sheets
-  - name: strawberry jam (optional)
+    unit: hojas
+  - name: mermelada de fresa (opcional)
     amount: 250
     unit: g
 side_image: ./images/aigen.jpg
 ---
 
-## Prepare the Base
+## Preparar la base
 
-1. In a blender or food processor, break the cookies into small pieces and blend until finely crushed.
-2. Melt the butter and mix it with the crushed cookies. Stir until the mixture resembles wet sand.
-3. Line the base of a 20 cm (8-inch) springform pan with parchment paper to prevent sticking. Press the cookie and butter mixture firmly into the bottom of the pan using the back of a spoon to create a compact and even base. Refrigerate the pan while you prepare the filling.
+1. En una batidora o procesador de alimentos, romper las galletas en trozos pequeños y triturarlas hasta que queden finamente molidas.
+2. Derretir la mantequilla y mezclarla con las galletas trituradas. Revolver hasta que la mezcla tenga una textura similar a la arena mojada.
+3. Forrar la base de un molde desmoldable de 20 cm (8 pulgadas) con papel de hornear para evitar que se pegue. Presionar la mezcla de galletas y mantequilla firmemente en el fondo del molde con la parte posterior de una cuchara para crear una base compacta y uniforme. Refrigerar el molde mientras se prepara el relleno.
 
+## Preparar el relleno
 
-## Prepare the Filling
-1. In a saucepan, combine the cream cheese, heavy cream, and sugar. Heat gently over low heat, stirring continuously until the mixture is smooth and fully combined. Do not let it boil.
-2. Add the dessert gelatine according to the manufacturer’s instructions, and stir briefly to ensure it is well incorporated with the rest of the ingredients.
+1. En una cacerola, combinar el queso crema, la nata líquida y el azúcar. Calentar suavemente a fuego bajo, revolviendo continuamente hasta que la mezcla esté suave y completamente integrada. No debe hervir.
+2. Agregar la gelatina para postres según las instrucciones del fabricante y revolver brevemente para asegurarse de que se haya incorporado bien con el resto de los ingredientes.
 
-## Assemble the Cheesecake
+## Montar la tarta
 
-1. Remove the pan from the refrigerator and carefully pour the cream cheese mixture over the chilled cookie base. Smooth the surface with a spatula to ensure it is even.
-2. Cover the cheesecake with plastic wrap and refrigerate for at least 4 hours, or preferably overnight, to set and achieve the desired consistency.
+1. Sacar el molde de la nevera y verter cuidadosamente la mezcla de queso sobre la base de galletas enfriada. Alisar la superficie con una espátula para que quede uniforme.
+2. Cubrir la tarta con film transparente y refrigerar durante al menos 4 horas o, preferiblemente, durante toda la noche para que se cuaje y adquiera la consistencia deseada.
 
-## Add the Topping (optional)
+## Agregar la cobertura (opcional)
 
-1. Once the cheesecake has set, carefully remove it from the springform pan.
-2. Generously spread 250g of strawberry jam over the surface of the cheesecake to add color and a delicious fruity flavor.
+1. Una vez que la tarta se haya cuajado, retirarla con cuidado del molde desmoldable.
+2. Extender generosamente 250 g de mermelada de fresa sobre la superficie de la tarta para agregar color y un delicioso sabor afrutado.
 
-*Notes:* 
-- If you're using powdered gelatin instead of sheets, you'll need to convert the amount accordingly. Typically, one sheet of gelatin is equivalent to about 1 teaspoon of powdered gelatin.
+*Notas:* 
+- Si usas gelatina en polvo en lugar de hojas, necesitarás convertir la cantidad de acuerdo con las instrucciones. Generalmente, una hoja de gelatina equivale a aproximadamente 1 cucharadita de gelatina en polvo.
 
 ---
 
-_Adaptation from [Gorka Barredo](https://www.cocinacaserayfacil.net/tarta-queso-sin-horno/)._
+_Adaptación de [Gorka Barredo](https://www.cocinacaserayfacil.net/tarta-queso-sin-horno/)._
 
 <img src="images/no_bake_cheesecake.jpg" style="width:250px; float:right;"/>

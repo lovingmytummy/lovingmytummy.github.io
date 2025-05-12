@@ -13,46 +13,46 @@ tags:
   - microwave
   - american
 ingredients:
-  - name: flour (wheat, ground oats,...)
+  - name: harina (de trigo, avena molida,...)
     amount: 3
-    unit: tablespoons
-  - name: salted butter (melted)
+    unit: cucharadas
+  - name: mantequilla salada (derretida)
     amount: 1
-    unit: tablespoon
-  - name: baking powder
+    unit: cucharada
+  - name: polvo de hornear
     amount: 1/4
-    unit: teaspoon
-  - name: milk
+    unit: cucharadita
+  - name: leche
     amount: 3
-    unit: tablespoons
-  - name: vanilla extract
+    unit: cucharadas
+  - name: extracto de vainilla
     amount: 1/2
-    unit: teaspoon
-  - name: cocoa powder (optional)
+    unit: cucharadita
+  - name: cacao en polvo (opcional)
     amount: 1
-    unit: teaspoon
-  - name: sweetener of choice (optional)
+    unit: cucharadita
+  - name: edulcorante al gusto (opcional)
     amount: 2
-    unit: tablespoons
+    unit: cucharadas
 side_image: ./images/aigen.jpeg
 ---
 
-For 1 serving. 
+Para 1 porción.
 
-## Tips
-- If you use unsalted butter, add 1/8 teaspoon of salt.
-- You can substitute the butter by oil (2-3 teaspoons) or mashed banana.
-- If you want a larger portion, simply double the recipe and cook it in a medium-sized microwave-safe bowl, transforming this receipt in a **bowl cake**.
+## Consejos
+- Si usas mantequilla sin sal, añade 1/8 cucharadita de sal.
+- Puedes sustituir la mantequilla por aceite (2-3 cucharaditas) o plátano triturado.
+- Si deseas una porción más grande, simplemente duplica la receta y cocínala en un recipiente apto para microondas de tamaño mediano, convirtiendo esta receta en un **pastel en bol**.
 
-## Preparation
-1.  In a microwave-safe mug, melt the butter in the microwave for about 20-30 seconds. 
-2. Mix all the dry ingredients thoroughly until well combined.
-3. Stir in the wet ingredients, ensuring the batter is smooth and lump-free.
-4. Microwave the mixture on high for 60-90 seconds, depending on your microwave's wattage.
-5. (Optional) Top with your favorite frosting or toppings as desired. 
+## Preparación
+1. En una taza apta para microondas, derrite la mantequilla en el microondas durante unos 20-30 segundos.
+2. Mezcla bien todos los ingredientes secos hasta que estén bien combinados.
+3. Añade los ingredientes líquidos, asegurándote de que la masa quede suave y sin grumos.
+4. Cocina la mezcla en el microondas a máxima potencia durante 60-90 segundos, dependiendo de la potencia de tu microondas.
+5. (Opcional) Añade tu glaseado o cobertura favorita si lo deseas.
 
 ---
 
-_Adaptation from [Chocolate Covered Katie](https://chocolatecoveredkatie.com/chocolate-mug-cake-recipe/)._
+_Adaptación de [Chocolate Covered Katie](https://chocolatecoveredkatie.com/chocolate-mug-cake-recipe/)._
 
 <img src="images/mugcake.jpg" style="width:250px; float:right;"/>

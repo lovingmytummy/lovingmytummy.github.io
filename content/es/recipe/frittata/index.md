@@ -1,5 +1,5 @@
 ---
-title: Frittata (onion omelette)
+title: Frittata (Tortilla de cebolla)
 ref: frittata
 image: true
 time: 20
@@ -11,42 +11,42 @@ tags:
   - gluten-free
   - vegetarian
 ingredients:
-  - name: white onions
+  - name: cebollas blancas
     amount: 1 1/2
     unit: null
-  - name: eggs
+  - name: huevos
     amount: 4
     unit: null
-  - name: grated Parmessan cheese
+  - name: queso Parmesano rallado
     amount: 50
     unit: g
-  - name: olive oil
+  - name: aceite de oliva
     amount: null
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: pepper
+  - name: pimienta
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-Ingredients for 2 servings.
+Ingredientes para 2 porciones.
 
-1. Peel the onions and slice them thinly.
-2. In a large pan, add a drizzle of oil, then the onions, cook them for about 10 minutes over medium heat, stirring occasionally until they soften (the onions should be translucent).
-3. Beat the eggs in a bowl. Add the grated Parmesan, a pinch of salt, and a pinch of pepper, and mix well.
-4. When the onions are completely softened, spread them evenly across the bottom of the pan. Then, add the beaten egg mixture, making sure it is distributed evenly. 
-5. Cook the frittata for about 5-7 minutes over medium-low heat with the lid on.
-6.  Flip the omelet and cook it on the other side for 4-5 minutes uncovered.
+1. Pela las cebollas y córtalas en rodajas finas.
+2. En una sartén grande, añade un chorrito de aceite, luego las cebollas, cocínelas durante unos 10 minutos a fuego medio, revolviendo ocasionalmente hasta que se ablanden (las cebollas deben quedar translúcidas).
+3. Bate los huevos en un bol. Añade el queso parmesano rallado, una pizca de sal y una pizca de pimienta, y mezcla bien.
+4. Cuando las cebollas estén completamente blandas, extiéndelas uniformemente por el fondo de la sartén. Luego, añade la mezcla de huevos batidos, asegurándote de que se distribuya de manera uniforme.
+5. Cocina la frittata durante unos 5-7 minutos a fuego medio-bajo con la tapa puesta.
+6. Da la vuelta a la tortilla y cocínala por el otro lado durante 4-5 minutos sin tapar.
 
-You can substitute Parmesan cheese with Grana Padano or Pecorino.
+Puedes sustituir el queso Parmesano por Grana Padano o Pecorino.
 
-It can also be baked in the oven at 200°C (392°F) for about 20/25 minutes.
+También se puede hornear en el horno a 200°C (392°F) durante unos 20/25 minutos.
 
 ---
 
-_From [SanPellegrino](https://www.sanpellegrino.com/sparkling-drinks/zesty-food/onion-frittata)._
+_De [SanPellegrino](https://www.sanpellegrino.com/sparkling-drinks/zesty-food/onion-frittata)._
 
 <img src="images/frittata.jpg" style="width:250px; float:right;"/>

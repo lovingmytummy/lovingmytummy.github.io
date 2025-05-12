@@ -1,5 +1,5 @@
 ---
-title: Broccoli curry
+title: Curry de brócoli
 ref: broccoli-curry
 image: true
 time: 25
@@ -13,54 +13,53 @@ tags:
   - vegetarian
   - asian
 ingredients:
-  - name: broccoli head
+  - name: cabeza de brócoli
     amount: 1
     unit: null
-  - name: onion
+  - name: cebolla
     amount: 1
     unit: null
-  - name: garlic cloves
+  - name: dientes de ajo
     amount: 2
     unit: null
-  - name: Greek yogurt
+  - name: yogur griego
     amount: 4
-    unit: tablespoon
-  - name: double-concentrated tomato paste
+    unit: cucharada
+  - name: pasta de tomate doblemente concentrada
     amount: 1
-    unit: small can
-  - name: garlic powder
+    unit: lata pequeña
+  - name: ajo en polvo
     amount: null
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: ground black pepper
+  - name: pimienta negra molida
     amount: null
     unit: null
-  - name: curry powder
+  - name: curry en polvo
     amount: null
     unit: null
-  - name: pinch of cumin 
+  - name: pizca de comino
     amount: null
     unit: null
-  - name: walnuts
+  - name: nueces
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. **Prepare the broccoli:** Cut the broccoli into small florets. Steam or boil the broccoli florets for 3-5 minutes, until tender but still firm (1 minutes for crispy). Set aside.
-2. **Sauté the aromatics:** Heat a bit of oil in a large skillet or pan over medium heat. Add the chopped onion and sauté for 3-4 minutes, until softened. Add the minced garlic and ground cumin, and cook for another minute, stirring constantly.
-3. **Make the curry base:** Stir in the tomato paste and curry powder, cooking for 2 minutes to develop the flavors. Gradually add a bit of water (about 1/2 cup) to create a smooth, saucy consistency.
-Add yogurt: Lower the heat and stir in the Greek yogurt, mixing well to avoid curdling. Season with salt and black pepper to taste.
-1. **Combine with broccoli:** Add the steamed broccoli florets to the sauce, stirring gently to coat them evenly. Cook for 2-3 minutes to warm everything through.
-2. **Add the walnuts:** Sprinkle the chopped walnuts over the curry and stir lightly to incorporate.
-3. **Serve:** Serve hot with steamed rice, naan bread, or as a standalone dish.
+1. **Preparar el brócoli:** Corta el brócoli en pequeños ramilletes. Cocina al vapor o hierve los ramilletes de brócoli durante 3-5 minutos, hasta que estén tiernos pero aún firmes (1 minuto para que queden crujientes). Reserva.
+2. **Sofreír los aromáticos:** Calienta un poco de aceite en una sartén grande a fuego medio. Agrega la cebolla picada y sofríe durante 3-4 minutos, hasta que se ablande. Añade el ajo picado y el comino molido, y cocina durante un minuto más, revolviendo constantemente.
+3. **Preparar la base del curry:** Agrega la pasta de tomate y el curry en polvo, cocinando durante 2 minutos para desarrollar los sabores. Agrega gradualmente un poco de agua (aproximadamente 1/2 taza) para crear una consistencia suave y salsosa.
+   Agregar el yogur: Baja el fuego y añade el yogur griego, mezclando bien para evitar que se corte. Sazona con sal y pimienta negra al gusto.
+4. **Combinar con el brócoli:** Añade los ramilletes de brócoli al curry, revolviendo suavemente para que se impregnen bien con la salsa. Cocina durante 2-3 minutos para calentar todo.
+5. **Añadir las nueces:** Espolvorea las nueces picadas sobre el curry y revuelve ligeramente para incorporarlas.
+6. **Servir:** Sirve caliente con arroz al vapor, pan naan, o como plato independiente.
 
-
-## Tips
-- For extra flavor, toast the walnuts lightly before adding them to the curry.
-- You can add a splash of coconut milk or cream for a richer sauce.
-- Garnish with fresh cilantro or a squeeze of lemon juice for added freshness.
+## Consejos
+- Para un sabor extra, tuesta ligeramente las nueces antes de añadirlas al curry.
+- Puedes añadir un toque de leche de coco o crema para obtener una salsa más rica.
+- Decora con cilantro fresco o un chorrito de jugo de limón para darle frescura adicional.
 
 ---

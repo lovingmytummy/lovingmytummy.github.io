@@ -10,35 +10,34 @@ flag: 🇬🇧
 tags:
   - vegetarian
 ingredients:
-  - name: rolled oats (200 g)
+  - name: avena (200 g)
     amount: 2
-    unit: cups
-  - name: water (360 ml)
+    unit: tazas
+  - name: agua (360 ml)
     amount: 1 1/2
-    unit: cups
-  - name: semi skimmed milk (360 ml)
+    unit: tazas
+  - name: leche semi descremada (360 ml)
     amount: 1 1/2
-    unit: cups
-  - name: salt (optional)
+    unit: tazas
+  - name: sal (opcional)
     amount: 1
-    unit: pinch
+    unit: pizca
 side_image: ./images/aigen.jpg
 ---
 
-## To make on the hob
-1. Add all ingredients to a large saucepan and stir together.
-2. Bring to a simmer over a low-medium heat. 
-3. Continue to simmer, stirring frequently, for another 5-7 minutes until the oats have softened and the porridge is creamy.
+## Para hacer en la estufa
+1. Agrega todos los ingredientes a una cacerola grande y revuelve juntos.
+2. Lleva a ebullición a fuego medio-bajo.
+3. Continúa cocinando a fuego lento, revolviendo con frecuencia, durante 5-7 minutos más, hasta que la avena esté suave y el porridge tenga una textura cremosa.
 
-## To make in the microwave:
-1. Add all ingredients to a microwave safe bowl and stir.
-2. Microwave for 2 minutes, stir, then microwave for another 1 minute and 30 seconds.
+## Para hacer en el microondas:
+1. Agrega todos los ingredientes a un tazón apto para microondas y revuelve.
+2. Cocina en el microondas durante 2 minutos, revuelve, luego cocina por 1 minuto y 30 segundos adicionales.
 
-Serve with your favourite toppings.
+Sirve con tus toppings favoritos.
 
 ---
 
-
-_From [Scottish Scran](https://scottishscran.com/how-to-make-porridge/)._
+_De [Scottish Scran](https://scottishscran.com/how-to-make-porridge/)._
 
 <img src="images/porridge.png" style="width:250px; float:right;"/>

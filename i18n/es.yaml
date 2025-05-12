@@ -2,6 +2,12 @@
   translation: Loving my tummy
 - id: tagline
   translation: Cocina como un ingeniero, come como una IA saludable
+- id: English
+  translation: 🇺🇸
+- id: Spanish
+  translation: 🇪🇸
+- id: Español
+  translation: 🇪🇸
 - id: breakfast
   translation: Desayuno
 - id: brunch

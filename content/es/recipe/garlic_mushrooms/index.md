@@ -1,5 +1,5 @@
 ---
-title: Garlic mushrooms
+title: Champiñones al ajillo
 ref: garlic-mushrooms
 image: true
 time: 15
@@ -12,38 +12,38 @@ tags:
   - vegan
   - air-fryer
 ingredients:
-  - name: mushrooms
+  - name: champiñones
     amount: null
     unit: null
-  - name: garlic
+  - name: ajo
     amount: 4
-    unit: cloves
-  - name: olive oil
+    unit: dientes
+  - name: aceite de oliva
     amount: null
     unit: null
-  - name: white wine
+  - name: vino blanco
     amount: null
     unit: null
-  - name: salt
+  - name: sal
     amount: null
     unit: null
-  - name: cayenne pepper (or chili pepper)
+  - name: pimienta de cayena (o guindilla)
     amount: null
     unit: null
-  - name: parsley
+  - name: perejil
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. Wash and slice the mushrooms into thick slices.
-2. Mix them with garlic, parsley, chili pepper, oil, and salt.
-3. Preheat your air fryer.
-4. Cook them at 190°C (375°F) for 10 minutes (halfway through cooking, open the air fryer and stir them).
+1. Lava y corta los champiñones en rodajas gruesas.
+2. Mézclalos con el ajo, perejil, guindilla, aceite y sal.
+3. Precalienta la freidora de aire.
+4. Cocínalos a 190°C (375°F) durante 10 minutos (a mitad de cocción, abre la freidora y revuélvelos).
 
 ---
 
-_Similar recipes:_
+_Recetas similares:_
 
 - _[Instagram @misrecetasairfryercosori](https://www.instagram.com/p/C1mSz6otO8m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)_
 - _[Instagram @pilpileando_con_guille](https://www.instagram.com/reel/CrJn-fkPWip/?utm_source=ig_web_copy_link)_

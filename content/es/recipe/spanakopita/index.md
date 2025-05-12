@@ -1,5 +1,5 @@
 ---
-title: Spanakopita (Spinach and feta pie)
+title: Spanakopita (Pastel de espinacas y feta)
 ref: spanakopita
 image: true
 time: 90
@@ -12,65 +12,65 @@ tags:
   - vegetarian
   - mediterranean
 ingredients:
-  - name: fresh spinach, washed and chopped (or 300 g frozen spinach, thawed and drained)
+  - name: espinacas frescas, lavadas y picadas (o 300 g de espinacas congeladas, descongeladas y escurridas)
     amount: 500
     unit: g
-  - name: feta cheese, crumbled
+  - name: queso feta, desmenuzado
     amount: 200
     unit: g
-  - name: spring onions, finely chopped
+  - name: cebollas de primavera, finamente picadas
     amount: 2
     unit: null
-  - name: eggs, lightly beaten
+  - name: huevos, ligeramente batidos
     amount: 2
     unit: null
-  - name: fresh dill, chopped (or 1 tbsp dried dill)
+  - name: eneldo fresco, picado (o 1 cucharada de eneldo seco)
     amount: 2
-    unit: tbsp
-  - name: fresh parsley
+    unit: cucharada
+  - name: perejil fresco
     amount: 3
-    unit: tbsp
-  - name: ground nutmeg
+    unit: cucharada
+  - name: nuez moscada molida
     amount: 1/2
-    unit: tsp
-  - name: fresh mint (or 2 tbsp dry)
+    unit: cucharadita
+  - name: menta fresca (o 2 cucharadas de menta seca)
     amount: 1/4
-    unit: cup
-  - name: salt
+    unit: taza
+  - name: sal
     amount: null
     unit: null
-  - name: pepper
+  - name: pimienta
     amount: null
     unit: null
-  - name: phyllo pastry sheets (10 sheets)
+  - name: hojas de masa filo (10 hojas)
     amount: 250
     unit: g
-  - name: unsalted butter, melted (or 2 tbsp olive oil)
+  - name: mantequilla sin sal, derretida (o 2 cucharadas de aceite de oliva)
     amount: 100
     unit: g
 side_image: ./images/aigen.jpeg
 ---
 
-1. **Prepare the filling:**
-In a large pan, sauté the spinach over medium heat until wilted (skip this step if using thawed frozen spinach). Allow it to cool slightly, then squeeze out excess liquid. In a mixing bowl, combine the spinach, feta cheese, spring onions, eggs, dill, parsley, mint nutmeg, salt, and pepper. Mix well until evenly combined.
+1. **Preparar el relleno:**
+En una sartén grande, saltea las espinacas a fuego medio hasta que se marchiten (omite este paso si usas espinacas congeladas descongeladas). Deja que se enfríen un poco y luego exprime el exceso de líquido. En un tazón grande, mezcla las espinacas, el queso feta, las cebollas de primavera, los huevos, el eneldo, el perejil, la menta, la nuez moscada, la sal y la pimienta. Mezcla bien hasta que todo esté bien combinado.
 
-2. **Layer the phyllo pastry:**
-Preheat the oven to 180°C. Lightly grease a rectangular baking dish (approximately 23x33 cm). Lay one sheet of phyllo pastry on the base of the dish, allowing the edges to hang over. Brush with melted butter. Repeat with 4-5 more sheets, brushing each with butter, layering them evenly.
+2. **Capa la masa filo:**
+Precalienta el horno a 180°C. Engrasa ligeramente una bandeja rectangular para hornear (aproximadamente 23x33 cm). Coloca una hoja de masa filo en la base de la bandeja, dejando que los bordes cuelguen por fuera. Pincela con mantequilla derretida. Repite con 4-5 hojas más, pincelando cada una con mantequilla y colocándolas de manera uniforme.
 
-3. **Add the filling:**
-Spread the spinach and feta mixture evenly over the phyllo base.
+3. **Añadir el relleno:**
+Extiende la mezcla de espinacas y feta de manera uniforme sobre la base de filo.
 
-4. **Top with phyllo pastry:**
-Layer the remaining phyllo sheets on top, brushing each with butter. Tuck in the overhanging edges neatly. Brush the top layer generously with butter and score the top with a sharp knife to create squares or diamond shapes (this makes it easier to cut after baking).
+4. **Cubrir con masa filo:**
+Coloca las hojas de masa filo restantes sobre el relleno, pincelando cada una con mantequilla. Mete cuidadosamente los bordes que sobresalen. Pincela generosamente la capa superior con mantequilla y haz cortes en la parte superior con un cuchillo afilado para crear cuadrados o formas de rombo (esto facilitará el corte después de hornear).
 
-5. **Bake:**
-Bake in the preheated oven for 45-50 minutes or until the top is golden and crispy.
+5. **Hornear:**
+Hornea en el horno precalentado durante 45-50 minutos o hasta que la parte superior esté dorada y crujiente.
 
-6. **Serve:**
-Allow the spanakopita to cool slightly before cutting into pieces. Serve warm or at room temperature.
+6. **Servir:**
+Deja que la spanakopita se enfríe ligeramente antes de cortarla en porciones. Sirve caliente o a temperatura ambiente.
    
 ---
 
-_Adaptation from [OliveTomato](https://www.olivetomato.com/greek-spinach-and-feta-pie-spanakopita/)._
+_Adaptación de [OliveTomato](https://www.olivetomato.com/greek-spinach-and-feta-pie-spanakopita/)._
 
 <img src="images/spanakopita.jpeg" style="width:250px; float:right;"/>

@@ -1,5 +1,5 @@
 ---
-title: Piquillo peppers
+title: Pimientos del piquillo
 ref: piquillo-peppers
 image: true
 time: 10
@@ -13,33 +13,33 @@ tags:
   - vegan
   - Navarra
 ingredients:
-  - name: piquillo peppers (drained)
+  - name: pimientos del piquillo (escurridos)
     amount: 12-15
     unit: null
-  - name: garlic
+  - name: ajo
     amount: 2-3
-    unit: cloves
-  - name: fresh parsley
+    unit: dientes
+  - name: perejil fresco
     amount: 2
-    unit: tbsp
-  - name: olive oil
+    unit: cucharadas
+  - name: aceite de oliva
     amount: 3-4
-    unit: tbsp
-  - name: salt
+    unit: cucharadas
+  - name: sal
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
 
-1. **Prepare the Garlic and Parsley:** Finely mince the garlic and chop the parsley.
+1. **Preparar el ajo y el perejil:** Pica finamente el ajo y corta el perejil en trozos pequeños.
 
-2. **Assemble the Peppers:** Place the drained piquillo peppers on a serving plate.
+2. **Colocar los pimientos:** Coloca los pimientos del piquillo escurridos en un plato de servir.
 
-3. **Season:** Sprinkle the minced garlic and chopped parsley evenly over the peppers.
+3. **Sazonar:** Espolvorea el ajo picado y el perejil sobre los pimientos de manera uniforme.
 
-4. **Dress with Olive Oil:** Drizzle the olive oil generously over the peppers, making sure each pepper is coated. Add salt to taste.
+4. **Aliñar con aceite de oliva:** Rocía generosamente el aceite de oliva sobre los pimientos, asegurándote de que cada pimiento quede bien cubierto. Agrega sal al gusto.
 
-5. **Marinate and Serve:** Let the peppers sit for about 10-15 minutes to allow the flavors to blend. Serve at room temperature as a tapa or side dish.
+5. **Marinar y servir:** Deja reposar los pimientos durante unos 10-15 minutos para que los sabores se mezclen. Sirve a temperatura ambiente como tapa o acompañante.
 
 ---
 

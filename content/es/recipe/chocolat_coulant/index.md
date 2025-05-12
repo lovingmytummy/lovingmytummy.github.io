@@ -1,5 +1,5 @@
 ---
-title: Chocolat coulant (Molten chocolate cake)
+title: Coulant de chocolate (Volcán de chocolate)
 ref: chocolat-coulant
 image: true
 time: 25
@@ -11,48 +11,47 @@ tags:
   - chocolate
   - vegetarian
 ingredients:
-  - name: dark chocolate
+  - name: chocolate negro
     amount: 200
     unit: g
-  - name: butter
+  - name: mantequilla
     amount: 100
     unit: g
-  - name: large eggs
+  - name: huevos grandes
     amount: 2
     unit: null
-  - name: granulated sugar
+  - name: azúcar
     amount: 50
     unit: g
-  - name: all-purpose flour (sifted)
+  - name: harina de trigo (tamizada)
     amount: 40
     unit: g
-  - name: salt
+  - name: sal
     amount: 1
-    unit: pinch
+    unit: pizca
 side_image: ./images/aigen.jpeg
 ---
 
-## Alternative names
-- Runny core cake
+## Nombres alternativos
+- Pastel con centro líquido
 - Mi-cuit au chocolat
-- Chocolate lava cake
-- Volcano cake
+- Pastel de lava de chocolate
+- Pastel volcán
 
+## Preparación
 
-## Preparation
+1. **Precalentar el horno:** Precalienta a 200 °C. Unta con mantequilla cuatro moldes individuales (ramequines) y espolvorea con cacao o harina. Reserva.
+2. **Derretir el chocolate y la mantequilla:** En un bol resistente al calor, combina el chocolate y la mantequilla. Fúndelos al baño maría o en el microondas en intervalos cortos, removiendo con frecuencia hasta que la mezcla esté suave. Deja enfriar un poco.
+3. **Preparar la mezcla de huevos:** En otro bol, bate los huevos con el azúcar hasta que la mezcla se aclare y tenga una textura ligeramente espumosa.
+4. **Combinar con el chocolate:** Incorpora poco a poco la mezcla de chocolate y mantequilla a los huevos batidos, mezclando con movimientos envolventes hasta integrar completamente.
+5. **Añadir la harina:** Tamiza la harina y la sal sobre la mezcla y remueve suavemente hasta obtener una masa homogénea.
+6. **Rellenar los moldes:** Reparte la masa entre los moldes preparados, llenando cada uno aproximadamente 3/4 de su capacidad.  
+**Hornear:** Coloca los ramequines sobre una bandeja y hornea de 8 a 10 minutos. Los bordes deben estar cuajados, pero el centro debe seguir blando. Ajusta el tiempo según tu horno, ya que si se hornea en exceso se perderá el centro fundido.
+7. **Servir:** Deja reposar los pasteles 1-2 minutos antes de desmoldar cuidadosamente sobre los platos. Sirve de inmediato con azúcar glas, frutos rojos o una bola de helado de vainilla.
 
-1. **Preheat the oven:** Preheat to 200°C (390°F). Grease four ramekins with butter and dust them with cocoa powder or flour. Set aside.
-2. **Melt chocolate and butter:** In a heatproof bowl, combine the chocolate and butter. Melt them over a bain-marie (double boiler) or in short intervals in the microwave, stirring frequently until smooth. Let it cool slightly.
-3. **Prepare the egg mixture:** In a separate bowl, whisk the eggs and sugar until the mixture becomes pale and slightly fluffy.
-4. **Combine with the chocolate:** Gradually fold the melted chocolate and butter mixture into the egg mixture until fully combined.
-5. **Add the flour:** Sift the flour and salt into the mixture and gently fold it in until you have a smooth batter.
-6. **Fill the ramekins:** Divide the batter evenly among the prepared ramekins, filling each about 3/4 full.
-Bake: Place the ramekins on a baking tray and bake for 8-10 minutes. The edges should be set, but the center should remain soft. Adjust the time based on your oven, as overbaking will lose the molten center.
-7. **Serve:** Let the cakes cool for 1-2 minutes before gently inverting them onto plates. Serve immediately with a dusting of powdered sugar, fresh berries, or a scoop of vanilla ice cream.
-
-## Tips
-- Adding a chocolate square in the center ensures an extra molten core.
-- To ensure the molten center, you can refrigerate the batter for an hour before baking.
-- Test one cake first to get the perfect baking time for your oven.
+## Consejos
+- Añadir un cuadrado de chocolate en el centro garantiza un núcleo aún más fundente.
+- Para asegurar el centro líquido, puedes refrigerar la masa durante una hora antes de hornear.
+- Hornea uno de prueba para encontrar el tiempo ideal en tu horno.
 
 ---

@@ -1,5 +1,11 @@
 <ul class="nav">
 
+  {{ range .AllTranslations }}
+    {{ if ne .Lang $.Site.Language.Lang }}
+      <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">{{ i18n .Language.LanguageName }}</a>
+    {{ end }}
+  {{ end }}
+
   {{ range where .Site.Pages "Section" "page" }}
 
     {{ if .Params.title }}

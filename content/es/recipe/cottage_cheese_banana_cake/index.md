@@ -1,9 +1,9 @@
 ---
-title: Cottage cheese & banana cake
+title: Pastel de queso cottage y plátano
 ref: cottage_cheese_banana_cake
 image: true
 time: 30
-category: dessert
+category: postre
 rank: A
 origin: USA
 flag: 🇺🇸
@@ -14,32 +14,32 @@ tags:
   - vegetarian
   - american
 ingredients:
-  - name: cottage cheese
+  - name: queso cottage
     amount: 200
     unit: g
-  - name: bananas
+  - name: plátanos
     amount: 2
     unit: null
-  - name: eggs
+  - name: huevos
     amount: 2
     unit: null
-  - name: vanilla extract
+  - name: extracto de vainilla
     amount: 1
-    unit: teaspoon
-  - name: Greek yogurt
+    unit: cucharadita
+  - name: yogur griego
     amount: 1
     unit: null
 side_image: ./images/aigen.jpg
 ---
 
-1. Add all of your ingredients for the Cheesecake into a food processor or blender.
-2. Process or blend everything together until smooth.
-3. Pour your mix into your Cheesecake dish or pan.
-4. Bake on 160°C (325°F) for around 20-25 minutes.
-5. Let it cool, wrap it up, and put it into the fridge for a few hours.
+1. Agrega todos los ingredientes para el pastel de queso en un procesador de alimentos o licuadora.
+2. Procesa o licúa todo hasta obtener una mezcla suave.
+3. Vierte la mezcla en el molde para el pastel de queso.
+4. Hornea a 160°C (325°F) durante unos 20-25 minutos.
+5. Deja enfriar, envuélvelo y ponlo en el refrigerador durante unas horas.
 
 ---
 
-_Adaptation from [The Protein Chef](https://theproteinchef.co/easy-cottage-cheese-cheesecake-recipe/)._
+_Adaptación de [The Protein Chef](https://theproteinchef.co/easy-cottage-cheese-cheesecake-recipe/)._
 
 <img src="images/cottage_cheese_banana_cake.png" style="width:250px; float:right;"/>
