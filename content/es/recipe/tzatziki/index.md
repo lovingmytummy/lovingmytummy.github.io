@@ -8,7 +8,7 @@ rank: A
 origin: greek
 flag: 🇬🇷
 tags:
-  - cucumber🥒
+  - cucumber
   - vegetarian
 ingredients:
   - name: Greek yogurt

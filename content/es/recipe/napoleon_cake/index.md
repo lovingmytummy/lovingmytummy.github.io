@@ -8,7 +8,7 @@ rank: C
 origin: russian
 flag: 🇷🇺
 tags:
-  - cake🍰
+  - cake
   - vegetarian
 ingredients:
   - name: flour (+ 3 tablespoons)

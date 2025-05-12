@@ -8,10 +8,10 @@ rank: B
 origin: persian
 flag: 🇮🇷
 tags:
-  - icecream🍦
-  - banana🍌
+  - icecream
+  - banana
   - vegetarian
-  - asian🌏
+  - asian
 ingredients:
   - name: frozen bananas
     amount: 2

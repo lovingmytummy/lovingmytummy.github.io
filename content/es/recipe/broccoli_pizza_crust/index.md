@@ -8,8 +8,8 @@ rank: B
 origin: italian
 flag: 🇮🇹
 tags:
-  - broccoli🥦
-  - pizza🍕
+  - broccoli
+  - pizza
   - gluten-free
   - vegetarian
 ingredients:

@@ -8,7 +8,7 @@ rank: B
 origin: french
 flag: 🇫🇷
 tags:
-  - fish🦈
+  - fish
   - spread
 ingredients:
   - name: tuna

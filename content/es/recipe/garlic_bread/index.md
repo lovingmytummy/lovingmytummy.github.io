@@ -8,11 +8,11 @@ rank: B
 origin: italian
 flag: 🇮🇹
 tags:
-  - bread🥖
-  - garlic🧄
-  - butter🧈
+  - bread
+  - garlic
+  - butter
   - vegetarian
-  - Italian-American🌎
+  - Italian-American
 ingredients:
   - name: baguette (or loaf of bread)
     amount: 1

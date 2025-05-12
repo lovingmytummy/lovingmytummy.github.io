@@ -8,10 +8,10 @@ rank: A
 origin: USA
 flag: 🇺🇸
 tags:
-  - banana🍌
-  - cookies🍪
+  - banana
+  - cookies
   - vegetarian
-  - american🌎
+  - american
 ingredients:
   - name: ripe banana, mashed
     amount: 1

@@ -8,8 +8,8 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - potatoes🥔
-  - eggs🥚
+  - potatoes
+  - eggs
   - vegetarian
 ingredients:
   - name: potatoes (4 medium potatoes)

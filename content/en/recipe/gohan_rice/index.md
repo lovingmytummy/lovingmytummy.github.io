@@ -8,10 +8,10 @@ rank: B
 origin: japanese
 flag: 🇯🇵
 tags:
-  - rice🍚
+  - rice
   - vegan
   - gluten-free
-  - asian🌏
+  - asian
 ingredients:
   - name: round rice
     amount: 2

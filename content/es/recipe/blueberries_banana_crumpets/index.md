@@ -8,8 +8,8 @@ rank: F
 origin: UK
 flag: 🇬🇧
 tags:
-  - blueberries🫐
-  - banana🍌
+  - blueberries
+  - banana
   - vegan
 ingredients:
   - name: bananas

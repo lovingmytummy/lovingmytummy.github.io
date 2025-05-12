@@ -8,11 +8,11 @@ rank: A
 origin: indian
 flag: 🇮🇳
 tags:
-  - broccoli🥦
+  - broccoli
   - gluten-free
   - vegetarian
   - air-fryer
-  - asian🌏
+  - asian
 ingredients:
   - name: broccoli florets
     amount: 300

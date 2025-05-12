@@ -8,8 +8,8 @@ rank: D
 origin: spanish
 flag: 🇪🇸
 tags:
-  - mushrooms🍄
-  - garlic🧄
+  - mushrooms
+  - garlic
   - vegan
   - gluten-free
 ingredients:

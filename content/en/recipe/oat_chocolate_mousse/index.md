@@ -8,7 +8,7 @@ rank: C
 origin: french
 flag: 🇫🇷
 tags:
-  - chocolate🍫
+  - chocolate
   - vegetarian
 ingredients:
   - name: oat flakes

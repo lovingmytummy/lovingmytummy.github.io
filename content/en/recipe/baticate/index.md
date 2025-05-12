@@ -8,7 +8,7 @@ rank: SSS
 origin: spanish
 flag: 🇪🇸
 tags:
-  - avocado🥑
+  - avocado
   - vegan
   - gluten-free
   - Málaga

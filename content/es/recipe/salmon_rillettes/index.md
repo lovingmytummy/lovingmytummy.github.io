@@ -8,8 +8,8 @@ rank: SS
 origin: french
 flag: 🇫🇷
 tags:
-  - butter🧈
-  - fish🦈
+  - butter
+  - fish
   - spread
 ingredients:
   - name: salmon fillet, preferible wild, bones removed

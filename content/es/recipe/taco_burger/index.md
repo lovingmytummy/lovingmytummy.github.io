@@ -8,8 +8,9 @@ rank: B
 origin: USA
 flag: 🇺🇸
 tags:
-  - meat🥩
-  - american🌎
+  - taco
+  - meat
+  - american
 ingredients:
   - name: wheat tortilla
     amount: 1

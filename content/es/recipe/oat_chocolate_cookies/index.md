@@ -8,10 +8,10 @@ rank: S
 origin: persian
 flag: 🇮🇷
 tags:
-  - cookies🍪
-  - chocolate🍫
+  - cookies
+  - chocolate
   - vegetarian
-  - asian🌏
+  - asian
 ingredients:
   - name: oat flakes
     amount: 200

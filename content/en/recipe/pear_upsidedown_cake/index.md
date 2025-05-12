@@ -8,10 +8,10 @@ rank: A
 origin: USA
 flag: 🇺🇸
 tags:
-  - cake🍰
-  - pear🍐
+  - cake
+  - pear
   - vegetarian
-  - american🌎
+  - american
 ingredients:
   - name: pears
     amount: 3-4

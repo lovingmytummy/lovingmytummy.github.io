@@ -8,7 +8,7 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - mushrooms🍄
+  - mushrooms
   - vegan
   - air-fryer
 ingredients:

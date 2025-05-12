@@ -8,10 +8,10 @@ rank: D
 origin: USA
 flag: 🇺🇸
 tags:
-  - chocolate🍫
+  - chocolate
   - vegan
   - gluten-free
-  - american🌎
+  - american
 ingredients:
   - name: cornflakes
     amount: 1

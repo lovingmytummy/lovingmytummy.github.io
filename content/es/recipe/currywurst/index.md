@@ -8,8 +8,8 @@ rank: A
 origin: german
 flag: 🇩🇪
 tags:
-  - meat🥩
-  - spicy🌶️
+  - meat
+  - spicy
 ingredients:
   - name: German sausages (Brühwurst or Bratwurst)
     amount: 2

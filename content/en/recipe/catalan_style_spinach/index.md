@@ -8,8 +8,8 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - spinach🥬
-  - raisins🍇
+  - spinach
+  - raisins
   - pine nuts
   - vegan
   - Catalonia

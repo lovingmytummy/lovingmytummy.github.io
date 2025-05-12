@@ -8,7 +8,7 @@ rank: B
 origin: spanish
 flag: 🇪🇸
 tags:
-  - beer🍺
+  - beer
   - Navarra
 ingredients:
   - name: chistorra (a type of Spanish sausage)

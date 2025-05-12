@@ -8,10 +8,10 @@ rank: B
 origin: USA
 flag: 🇺🇸
 tags:
-  - cake🍰
+  - cake
   - vegetarian
   - microwave
-  - american🌎
+  - american
 ingredients:
   - name: flour (wheat, ground oats,...)
     amount: 3

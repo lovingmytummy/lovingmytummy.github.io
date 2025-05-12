@@ -8,11 +8,11 @@ rank: A
 origin: USA
 flag: 🇺🇸
 tags:
-  - banana🍌
+  - banana
   - vegetarian
   - gluten-free
   - air-fryer
-  - american🌎
+  - american
 ingredients:
   - name: bananas
     amount: 2

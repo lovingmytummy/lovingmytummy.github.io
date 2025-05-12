@@ -8,8 +8,8 @@ rank: B
 origin: spanish
 flag: 🇪🇸
 tags:
-  - quail🐦
-  - garlic🧄
+  - quail
+  - garlic
   - Andalusian
 ingredients:
   - name: quail

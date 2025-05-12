@@ -8,8 +8,8 @@ rank: B
 origin: german
 flag: 🇩🇪
 tags:
-  - cake🍰
-  - apple🍏
+  - cake
+  - apple
   - vegetarian
 ingredients:
   - name: apples

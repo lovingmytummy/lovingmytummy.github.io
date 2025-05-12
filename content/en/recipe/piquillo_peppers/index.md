@@ -8,7 +8,7 @@ rank: B
 origin: spanish
 flag: 🇪🇸
 tags:
-  - garlic🧄
+  - garlic
   - gluten-free
   - vegan
   - Navarra

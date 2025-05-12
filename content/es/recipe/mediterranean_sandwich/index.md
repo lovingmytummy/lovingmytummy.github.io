@@ -8,10 +8,10 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - sandwich🥪
-  - baguette🥖
-  - fish🦈
-  - mediterranean🌍
+  - sandwich
+  - baguette
+  - fish
+  - mediterranean
 ingredients:
   - name: baguette
     amount: 1

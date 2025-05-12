@@ -8,8 +8,8 @@ rank: A
 origin: greek
 flag: 🇬🇷
 tags:
-  - cake🍰
-  - cheese🧀
+  - cake
+  - cheese
   - vegetarian
 ingredients:
   - name: cookies

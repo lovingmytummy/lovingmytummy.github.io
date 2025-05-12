@@ -8,7 +8,7 @@ rank: B
 origin: USA
 flag: 🇺🇸
 tags:
-  - eggs🥚
+  - eggs
   - vegetarian
 ingredients:
   - name: slice of bread

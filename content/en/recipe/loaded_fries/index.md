@@ -8,9 +8,9 @@ rank: B
 origin: USA
 flag: 🇺🇸
 tags:
-  - fries🍟
-  - meat🥩
-  - american🌎
+  - fries
+  - meat
+  - american
 ingredients:
   - name: large potato (or frozen fries)
     amount: 1

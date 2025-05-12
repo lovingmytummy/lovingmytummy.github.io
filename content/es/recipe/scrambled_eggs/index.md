@@ -8,7 +8,7 @@ rank: A
 origin: french
 flag: 🇫🇷
 tags:
-  - eggs🥚
+  - eggs
   - vegetarian
 ingredients:
   - name: large eggs

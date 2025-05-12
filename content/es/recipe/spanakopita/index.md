@@ -8,9 +8,9 @@ rank: A
 origin: greek
 flag: 🇬🇷
 tags:
-  - spinach🥬
+  - spinach
   - vegetarian
-  - mediterranean🌍
+  - mediterranean
 ingredients:
   - name: fresh spinach, washed and chopped (or 300 g frozen spinach, thawed and drained)
     amount: 500

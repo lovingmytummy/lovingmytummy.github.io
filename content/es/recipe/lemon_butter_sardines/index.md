@@ -8,11 +8,11 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - bread🥖
-  - butter🧈
-  - lemon🍋
-  - fish🦈
-  - mediterranean🌍
+  - bread
+  - butter
+  - lemon
+  - fish
+  - mediterranean
 ingredients:
   - name: fresh sardines (or canned)
     amount: 4

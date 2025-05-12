@@ -8,7 +8,7 @@ rank: D
 origin: italian
 flag: 🇮🇹
 tags:
-  - sandwich🥪
+  - sandwich
 ingredients:
   - name: focaccia
     amount: 1

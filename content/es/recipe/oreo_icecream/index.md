@@ -8,10 +8,10 @@ rank: F
 origin: USA
 flag: 🇺🇸
 tags:
-  - icecream🍦
-  - cookies🍪
+  - icecream
+  - cookies
   - vegetarian
-  - american🌎
+  - american
 ingredients:
   - name: Oreo cookies (individual serving size, about 6 cookies)
     amount: 1

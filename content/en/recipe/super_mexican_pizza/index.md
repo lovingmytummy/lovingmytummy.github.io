@@ -8,8 +8,8 @@ rank: A
 origin: mexican
 flag: 🇲🇽
 tags:
-  - pizza🍕
-  - latin-american🌎
+  - pizza
+  - latin-american
 ingredients:
   - name: pre-made pizza dough (or homemade dough)
     amount: 1

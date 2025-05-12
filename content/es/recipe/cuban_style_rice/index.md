@@ -8,9 +8,9 @@ rank: B
 origin: spanish
 flag: 🇪🇸
 tags:
-  - rice🍚
-  - banana🍌
-  - tomato🍅
+  - rice
+  - banana
+  - tomato
   - vegetarian
   - gluten-free
   - canarian

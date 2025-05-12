@@ -8,8 +8,8 @@ rank: D
 origin: spanish
 flag: 🇪🇸
 tags:
-  - olives🫒
-  - bread🥖
+  - olives
+  - bread
   - Andalusian
 ingredients:
   - name: bread (rustic or country-style)

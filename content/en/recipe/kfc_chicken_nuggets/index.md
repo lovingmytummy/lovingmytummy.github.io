@@ -8,9 +8,9 @@ rank: S
 origin: USA
 flag: 🇺🇸
 tags:
-  - meat🥩
-  - chicken🍗
-  - american🌎
+  - meat
+  - chicken
+  - american
 ingredients:
   - name: chicken breast
     amount: 300

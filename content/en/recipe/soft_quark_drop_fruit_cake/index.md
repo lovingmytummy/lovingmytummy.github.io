@@ -8,7 +8,7 @@ rank: F
 origin: austrian
 flag: 🇦🇹
 tags:
-  - fruit🍒🫐
+  - fruits🍒🫐
   - vegetarian
 ingredients:
   - name: eggs

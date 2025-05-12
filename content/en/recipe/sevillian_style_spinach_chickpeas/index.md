@@ -8,9 +8,9 @@ rank: B
 origin: spanish
 flag: 🇪🇸
 tags:
-  - spinach🥬
+  - spinach
   - vegan
-  - Sevilla
+  - Seville
   - Andalusian
 ingredients:
   - name: fresh spinach (or 300 g if using frozen)

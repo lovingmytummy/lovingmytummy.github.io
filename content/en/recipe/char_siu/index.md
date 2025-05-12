@@ -7,11 +7,11 @@ rank: B
 origin: chinese
 flag: 🇨🇳
 tags:
-  - meat🥩
-  - pork🥓
+  - meat
+  - pork
   - BBQ
-  - cantonese 🇨🇳
-  - asian🌏
+  - cantonese
+  - asian
 ingredients:
   - name: boneless pork shoulder/pork butt
     amount: 1

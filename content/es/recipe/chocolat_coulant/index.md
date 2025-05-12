@@ -8,7 +8,7 @@ rank: A
 origin: french
 flag: 🇫🇷
 tags:
-  - chocolate🍫
+  - chocolate
   - vegetarian
 ingredients:
   - name: dark chocolate

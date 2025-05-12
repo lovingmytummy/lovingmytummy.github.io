@@ -8,9 +8,9 @@ rank: C
 origin: spanish
 flag: 🇪🇸
 tags:
-  - bell peppers🫑
+  - bell pepper
   - gluten-free
-  - mediterranean🌍
+  - mediterranean
 ingredients:
   - name: bell peppers (any color - green, yellow, red, orange)
     amount: 3

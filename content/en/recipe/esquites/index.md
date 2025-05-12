@@ -8,11 +8,11 @@ rank: S
 origin: mexican
 flag: 🇲🇽
 tags:
-  - corn🌽
-  - spicy🌶️
+  - corn
+  - spicy
   - vegetarian
   - gluten-free
-  - latin-american🌎
+  - latin-american
 ingredients:
   - name: sweet corn
     amount: 1

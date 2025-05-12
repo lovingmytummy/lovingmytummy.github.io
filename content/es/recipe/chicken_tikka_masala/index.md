@@ -8,10 +8,10 @@ rank: SS
 origin: indian
 flag: 🇮🇳
 tags:
-  - meat🥩
-  - chicken🍗
+  - meat
+  - chicken
   - gluten-free
-  - asian🌏
+  - asian
 ingredients:
   - name: basmati rice
     amount: null

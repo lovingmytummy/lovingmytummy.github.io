@@ -8,10 +8,10 @@ rank: S
 origin: USA
 flag: 🇺🇸
 tags:
-  - eggs🥚
-  - chocolate🍫
+  - eggs
+  - chocolate
   - vegetarian
-  - american🌎
+  - american
 ingredients:
   - name: egg white powder
     amount: 1

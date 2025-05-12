@@ -8,9 +8,9 @@ rank: A
 origin: UK
 flag: 🇬🇧
 tags:
-  - cake🍰
-  - carrot🥕
-  - coconut🥥
+  - cake
+  - carrot
+  - coconut
   - vegetarian
 ingredients:
   - name: carrots

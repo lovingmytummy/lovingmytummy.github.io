@@ -8,10 +8,10 @@ rank: C
 origin: USA
 flag: 🇺🇸
 tags:
-  - apple🍏
-  - cookies🍪
+  - apple
+  - cookies
   - vegetarian
-  - american🌎
+  - american
 ingredients:
   - name: Granny Smith apple
     amount: 120

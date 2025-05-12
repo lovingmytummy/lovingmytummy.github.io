@@ -8,9 +8,9 @@ rank: SSS
 origin: japanese
 flag: 🇯🇵
 tags:
+  - meat
   - gluten-free
-  - meat🥩
-  - asian🌏
+  - asian
 ingredients:
   - name: beef sirloin
     amount: 1

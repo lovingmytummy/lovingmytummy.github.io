@@ -8,9 +8,9 @@ rank: A
 origin: peruan
 flag: 🇵🇪
 tags:
-  - seafood🦪
+  - seafood
   - gluten-free
-  - latin-american🌎
+  - latin-american
 ingredients:
   - name: cockles
     amount: 1

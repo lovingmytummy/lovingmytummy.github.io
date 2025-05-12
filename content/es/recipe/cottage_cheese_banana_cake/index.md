@@ -8,11 +8,11 @@ rank: A
 origin: USA
 flag: 🇺🇸
 tags:
-  - cake🍰
-  - cheese🧀
-  - banana🍌
+  - cake
+  - cheese
+  - banana
   - vegetarian
-  - american🌎
+  - american
 ingredients:
   - name: cottage cheese
     amount: 200

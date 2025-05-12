@@ -7,7 +7,7 @@ rank: D
 origin: spanish
 flag: 🇪🇸
 tags:
-  - spinach🥬
+  - spinach
   - vegetarian
 ingredients:
   - name: fresh spinach

@@ -8,9 +8,9 @@ rank: C
 origin: USA
 flag: 🇺🇸
 tags:
-  - hot dog🌭
-  - meat🥩
-  - american🌎
+  - hot dog
+  - meat
+  - american
 ingredients:
   - name: all-beef hot dog
     amount: 1

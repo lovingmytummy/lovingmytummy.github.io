@@ -8,8 +8,8 @@ rank: B
 origin: spanish
 flag: 🇪🇸
 tags:
-  - fish🦈
-  - squid🦑
+  - fish
+  - squid
   - air-fryer
 ingredients:
   - name: cleaned and chopped squids

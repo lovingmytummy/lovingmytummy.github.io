@@ -8,7 +8,7 @@ rank: B
 origin: italian
 flag: 🇮🇹
 tags:
-  - coffee☕
+  - coffee
   - vegetarian
 ingredients:
   - name: egg

@@ -8,9 +8,9 @@ rank: B
 origin: mexican
 flag: 🇲🇽
 tags:
-  - cheese🧀
+  - cheese
   - air-fryer
-  - latin-american🌎
+  - latin-american
 ingredients:
   - name: large wheat tortilla
     amount: 2

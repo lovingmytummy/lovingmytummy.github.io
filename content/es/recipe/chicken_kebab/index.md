@@ -8,10 +8,10 @@ rank: SS
 origin: turkish
 flag: 🇹🇷
 tags:
-  - meat🥩
-  - chicken🍗
+  - meat
+  - chicken
   - gluten-free
-  - asian🌏
+  - asian
 ingredients:
   - name: boneless chicken thighs with skin
     amount: 1

@@ -8,8 +8,8 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - carrot🥕
-  - coconut🥥
+  - carrot
+  - coconut
   - vegan
 ingredients:
   - name: carrots

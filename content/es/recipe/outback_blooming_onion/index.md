@@ -8,10 +8,10 @@ rank: D
 origin: USA
 flag: 🇺🇸
 tags:
-  - onion🧅
+  - onion
   - vegan
   - air-fryer
-  - american🌎
+  - american
 ingredients:
   - name: medium onions (or 1 large onion)
     amount: 2

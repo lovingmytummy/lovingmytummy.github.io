@@ -8,10 +8,10 @@ rank: B
 origin: USA
 flag: 🇺🇸
 tags:
-  - burger🍔
-  - bacon🥓
-  - meat🥩
-  - american🌎
+  - burger
+  - bacon
+  - meat
+  - american
 ingredients:
   - name: ground beef (1 patty)
     amount: 200

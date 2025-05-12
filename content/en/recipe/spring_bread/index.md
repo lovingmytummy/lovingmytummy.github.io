@@ -8,8 +8,8 @@ rank: S
 origin: italian
 flag: 🇮🇹
 tags:
+  - spicy
   - vegetarian
-  - spicy🌶️
 ingredients:
   - name: sliced bread
     amount: 2

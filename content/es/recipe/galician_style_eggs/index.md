@@ -8,7 +8,7 @@ rank: B
 origin: spanish
 flag: 🇪🇸
 tags:
-  - eggs🥚
+  - eggs
   - vegetarian
   - gluten-free
   - galician

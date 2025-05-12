@@ -8,8 +8,8 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - fish🐟
-  - garlic🧄
+  - fish
+  - garlic
   - Basque Country
 ingredients:
   - name: sea bream, cleaned and butterflied

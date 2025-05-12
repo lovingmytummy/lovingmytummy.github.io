@@ -8,8 +8,8 @@ rank: C
 origin: spanish
 flag: 🇪🇸
 tags:
-  - mushrooms🍄
-  - eggs🥚
+  - mushrooms
+  - eggs
   - vegetarian
 ingredients:
   - name: mushrooms

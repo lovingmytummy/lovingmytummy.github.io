@@ -8,8 +8,9 @@ rank: C
 origin: french
 flag: 🇫🇷
 tags:
-  - palmier🌴
-  - chocolate🍫
+  - palmier
+  - cockles
+  - chocolate
   - vegetarian
 ingredients:
   - name: ground oats

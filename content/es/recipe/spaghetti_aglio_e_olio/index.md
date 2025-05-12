@@ -8,9 +8,9 @@ rank: S
 origin: italian
 flag: 🇮🇹
 tags:
-  - pasta🍝
+  - pasta
   - oil
-  - garlic🧄
+  - garlic
   - vegan
 ingredients:
   - name: dried spaguetti

@@ -8,9 +8,10 @@ rank: S
 origin: spanish
 flag: 🇪🇸
 tags:
-  - seafood🦪
-  - prawns🦐
-  - garlic🧄
+  - seafood
+  - shrimps
+  - prawns
+  - garlic
 ingredients:
   - name: large prawns or shrimp
     amount: 250

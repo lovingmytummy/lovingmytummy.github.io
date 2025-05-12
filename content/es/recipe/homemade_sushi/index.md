@@ -8,9 +8,9 @@ rank: D
 origin: japanese
 flag: 🇯🇵
 tags:
-  - sushi🍣
+  - sushi
   - gluten-free
-  - asian🌏
+  - asian
 ingredients:
   - name: salmon
     amount: null

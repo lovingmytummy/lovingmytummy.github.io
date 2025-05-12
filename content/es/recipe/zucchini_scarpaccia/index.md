@@ -8,6 +8,7 @@ rank: C
 origin: italian
 flag: 🇮🇹
 tags:
+  - zucchini
   - vegan
 ingredients:
   - name: fresh zucchinis (~3 medium)

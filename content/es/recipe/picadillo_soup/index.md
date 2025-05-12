@@ -8,7 +8,7 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - soup🍲
+  - soup
   - Andalusian
 ingredients:
   - name: chicken broth (4 cups)

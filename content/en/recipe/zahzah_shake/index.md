@@ -9,8 +9,8 @@ origin: spanish
 flag: 🇪🇸
 tags:
   - fruits🥑🍌🍑🍓
-  - custard🍮
-  - milkshake🥤
+  - custard
+  - milkshake
   - vegetarian
   - Ceuta
 ingredients:

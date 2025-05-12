@@ -8,10 +8,10 @@ rank: SS
 origin: indian
 flag: 🇮🇳
 tags:
-  - broccoli🥦
+  - broccoli
   - gluten-free
   - vegetarian
-  - asian🌏
+  - asian
 ingredients:
   - name: broccoli head
     amount: 1

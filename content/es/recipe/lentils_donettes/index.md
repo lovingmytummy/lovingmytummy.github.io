@@ -8,8 +8,8 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - donuts🍩
-  - chocolate🍫
+  - donuts
+  - chocolate
   - vegetarian
   - gluten-free
 ingredients:

@@ -8,10 +8,10 @@ rank: B
 origin: USA
 flag: 🇺🇸
 tags:
-  - banana🍌
-  - chocolate🍫
+  - banana
+  - chocolate
   - vegan
-  - american🌎
+  - american
 ingredients:
   - name: sciled bananas
     amount: 2

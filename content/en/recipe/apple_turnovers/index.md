@@ -8,7 +8,7 @@ rank: A
 origin: spanish
 flag: 🇪🇸
 tags:
-  - apple🍏
+  - apple
   - vegetarian
 ingredients:
   - name: pastry discs (16 discs, 160 g)

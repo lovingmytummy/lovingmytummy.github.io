@@ -8,8 +8,8 @@ rank: D
 origin: russian
 flag: 🇷🇺
 tags:
-  - cake🍰
-  - apple🍏
+  - cake
+  - apple
   - vegetarian
 ingredients:
   - name: large apples

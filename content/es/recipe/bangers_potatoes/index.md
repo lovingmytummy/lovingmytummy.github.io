@@ -8,9 +8,9 @@ rank: B
 origin: UK
 flag: 🇬🇧
 tags:
-  - potatoes🍟
+  - potatoes
   - sausages
-  - meat🥩
+  - meat
   - air-fryer
 ingredients:
   - name: pork sausages (British-style)

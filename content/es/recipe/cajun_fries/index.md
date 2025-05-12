@@ -8,10 +8,10 @@ rank: C
 origin: USA
 flag: 🇺🇸
 tags:
-  - fries🍟
+  - fries
   - vegan
   - air-fryer
-  - american🌎
+  - american
 ingredients:
   - name: large Russet potato
     amount: 1

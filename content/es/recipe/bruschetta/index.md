@@ -8,9 +8,9 @@ rank: A
 origin: italian
 flag: 🇮🇹
 tags:
-  - bread🥖
-  - fish🦈
-  - spicy🌶️
+  - bread
+  - fish
+  - spicy
 ingredients:
   - name: sliced bread
     amount: null
