@@ -1,5 +1,5 @@
 ---
-title: Agujero molinero
+title: Desayuno molinero
 ref: miller-hole
 image: true
 time: 2
