@@ -1,5 +1,5 @@
 ---
-title: Tiramisu
+title: Tiramisú
 ref: tiramisu
 image: true
 time: 15
