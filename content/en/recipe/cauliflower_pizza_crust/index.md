@@ -1,6 +1,6 @@
 ---
-title: Broccoli pizza crust
-ref: broccoli-pizza-crust
+title: Cauliflower pizza crust
+ref: cauliflower-pizza-crust
 image: true
 time: 30
 category: lunch
@@ -8,12 +8,12 @@ rank: B
 origin: italian
 flag: 🇮🇹
 tags:
-  - broccoli
+  - cauliflower 
   - pizza
   - gluten-free
   - vegetarian
 ingredients:
-  - name: chopped broccoli steamed (florets and/or stems)
+  - name: chopped cauliflower (florets and/or stems)
     amount: 1
     unit: cup
   - name: egg
@@ -43,19 +43,19 @@ ingredients:
 side_image: ./images/aigen.jpeg
 ---
 
-This recipe is similar to [**Cauliflower pizza crust**]({{< relref "recipe/cauliflower_pizza_crust" >}}).
+This recipe is similar to [**Broccoli pizza crust**]({{< relref "recipe/broccoli_pizza_crust" >}}).
 
 1. **Preheat the oven:**
 Set the oven to 220°C (425°F). Line a baking sheet with parchment paper or lightly grease it with oil.
 
-1. **Prepare the broccoli:**
-Steam the chopped broccoli (including stems if using) until tender. Pulse it in a food processor until finely grated. Transfer the grated broccoli to a cheesecloth or clean kitchen towel and squeeze out as much water as possible to ensure a dry mixture.
+1. **Prepare the cauliflower:**
+Pulse the cauliflower in a food processor until finely grated. Transfer the grated cauliflower to a cheesecloth or clean kitchen towel and squeeze out as much water as possible to ensure a dry mixture.
 
 1. **Make the dough:**
-In a bowl, mix the grated broccoli, egg, 2 tbsp mozzarella cheese, Parmesan cheese, Italian seasoning, garlic powder, salt, and pepper. Combine thoroughly until a dough-like consistency forms.
+In a bowl, mix the grated cauliflower, egg, 2 tbsp mozzarella cheese, Parmesan cheese, Italian seasoning, garlic powder, salt, and pepper. Combine thoroughly until a dough-like consistency forms.
 
 1. **Shape the crust:**
-Place the broccoli mixture onto the prepared baking sheet. Shape it into a round pizza crust about 1.25 cm thick. 
+Place the cauliflower mixture onto the prepared baking sheet. Shape it into a round pizza crust about 1.25 cm thick. 
 
 1. **Bake the crust:**
 Bake in the preheated oven for 10-12 minutes or until golden brown.
@@ -68,14 +68,14 @@ Remove the crust from the oven and spread the pizza sauce evenly on top. Sprinkl
 Return the pizza to the oven and bake for another 8-10 minutes, or until the cheese is melted and the edges of the crust are crispy.
 
 8. **Serve:**
-Garnish with fresh basil, slice, and enjoy your personal-sized broccoli pizza!
+Garnish with fresh basil, slice, and enjoy your personal-sized cauliflower pizza!
 
 ## Notes:
-- Using the stems of broccoli adds a sustainable twist to this recipe without compromising taste or texture!
+- Using the stems of cauliflower adds a sustainable twist to this recipe without compromising taste or texture!
 
 
 ---
 
-_From [Instagram @everythinghealthyfood](https://www.instagram.com/p/B_kntaohcXy/?utm_source=ig_web_copy_link)._
+_Adapted from [Instagram @everythinghealthyfood](https://www.instagram.com/p/B_kntaohcXy/?utm_source=ig_web_copy_link)._
 
-<img src="images/broccoli_pizza_crust.png" style="width:250px; float:right;"/>
+<img src="images/cauliflower_pizza_crust.jpg" style="width:250px; float:right;"/>
