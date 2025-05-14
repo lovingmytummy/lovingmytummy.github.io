@@ -1,5 +1,5 @@
 ---
-title: Rollitos de espinaca
+title: Wraps de espinacas
 ref: spinach-wraps
 time: 15
 category: dinner

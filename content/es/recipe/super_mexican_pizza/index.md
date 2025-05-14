@@ -1,5 +1,5 @@
 ---
-title: Super pizza mexicana
+title: Pizza super mexicana
 ref: super-mexican-pizza
 image: true
 time: 20

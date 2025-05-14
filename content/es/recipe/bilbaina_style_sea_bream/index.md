@@ -1,5 +1,5 @@
 ---
-title: Bilbaina-style sea bream
+title: Dorada a la bilbaína
 ref: bilbaina-style-sea-bream
 image: true
 time: 25

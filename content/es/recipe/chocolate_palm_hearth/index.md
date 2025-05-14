@@ -1,5 +1,5 @@
 ---
-title: Corazón de palma de chocolate
+title: Palmera de chocolate
 ref: chocolate-palm-heart
 image: true
 time: 24
