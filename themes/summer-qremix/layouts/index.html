@@ -30,31 +30,31 @@
       </fieldset>
       <fieldset class="searchbar-group">
         <label for="breakfast">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="breakfast" value="breakfast">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="breakfast" value='{{ i18n "breakfast" }}'>
           <span class="searchbar-button">{{ i18n "breakfast" }}</span>
         </label>
         <label for="brunch">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="brunch" value="brunch">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="brunch" value='{{ i18n "brunch" }}'>
           <span class="searchbar-button">{{ i18n "brunch" }}</span>
         </label>
         <label for="lunch">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="lunch" value="lunch">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="lunch" value='{{ i18n "lunch" }}'>
           <span class="searchbar-button">{{ i18n "lunch" }}</span>
         </label>
         <label for="dinner">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" value="dinner">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dinner" value='{{ i18n "dinner" }}'>
           <span class="searchbar-button">{{ i18n "dinner" }}</span>
         </label>
         <label for="snacks">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="snacks" value="snacks">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="snacks" value='{{ i18n "snacks" }}'>
           <span class="searchbar-button">{{ i18n "snacks" }}</span>
         </label>
         <label for="dessert">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" value="dessert">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="dessert" value='{{ i18n "dessert" }}'>
           <span class="searchbar-button">{{ i18n "dessert" }}</span>
         </label>
         <label for="sauces">
-          <input class="searchbar-checkbox js-category" type="checkbox" id="sauces" value="sauces">
+          <input class="searchbar-checkbox js-category" type="checkbox" id="sauces" value='{{ i18n "sauces" }}'>
           <span class="searchbar-button">{{ i18n "sauces" }}</span>
         </label>
       </fieldset>
@@ -74,24 +74,24 @@
       </fieldset>
       <fieldset class="searchbar-group">
         <label for="vegetarian">
-          <input class="searchbar-checkbox js-meat" type="checkbox" id="vegetarian" value="vegetarian">
+          <input class="searchbar-checkbox js-meat" type="checkbox" id="vegetarian" value='{{ i18n "vegetarian" }}'>
           <span class="searchbar-button">{{ i18n "vegetarian" }}</span>
         </label>
         <label for="vegan">
-          <input class="searchbar-checkbox js-meat" type="checkbox" id="vegan" value="vegan">
+          <input class="searchbar-checkbox js-meat" type="checkbox" id="vegan" value='{{ i18n "vegan" }}'>
           <span class="searchbar-button">{{ i18n "vegan" }}</span>
         </label>
         <label for="gluten-free">
-          <input class="searchbar-checkbox js-meat" type="checkbox" id="gluten-free" value="gluten-free">
+          <input class="searchbar-checkbox js-meat" type="checkbox" id="gluten-free" value='{{ i18n "gluten-free" }}'>
           <span class="searchbar-button">{{ i18n "gluten-free" }}</span>
         </label>
         <label for="meat">
-          <input class="searchbar-checkbox js-meat" type="checkbox" id="meat" value="meat🥩">
-          <span class="searchbar-button">{{ i18n "meat" }}🥩</span>
+          <input class="searchbar-checkbox js-meat" type="checkbox" id="meat" value='{{ i18n "meat" }}'>
+          <span class="searchbar-button">{{ i18n "meat" }}</span>
         </label>
         <label for="fish">
-          <input class="searchbar-checkbox js-meat" type="checkbox" id="fish" value="fish🦈">
-          <span class="searchbar-button">{{ i18n "fish" }}🦈</span>
+          <input class="searchbar-checkbox js-meat" type="checkbox" id="fish" value='{{ i18n "fish" }}'>
+          <span class="searchbar-button">{{ i18n "fish" }}</span>
         </label>
       </fieldset>
       <fieldset class="searchbar-group">
@@ -130,16 +130,16 @@
       </fieldset>
       <fieldset class="searchbar-group">
         <label for="mediterranean">
-          <input class="searchbar-checkbox js-region" type="checkbox" id="mediterranean" value="mediterranean🌍">
-          <span class="searchbar-button">{{ i18n "Mediterranean" }}🌍</span>
+          <input class="searchbar-checkbox js-region" type="checkbox" id="mediterranean" value='{{ i18n "mediterranean" }}'>
+          <span class="searchbar-button">{{ i18n "mediterranean" }}🌍</span>
         </label>
         <label for="american">
-          <input class="searchbar-checkbox js-region" type="checkbox" id="american" value="latin-american🌎">
-          <span class="searchbar-button">{{ i18n "Latin-American" }}🌎</span>
+          <input class="searchbar-checkbox js-region" type="checkbox" id="american" value='{{ i18n "latin-american" }}'>
+          <span class="searchbar-button">{{ i18n "latin-american" }}🌎</span>
         </label>
         <label for="asian">
-          <input class="searchbar-checkbox js-region" type="checkbox" id="asian" value="asian🌏">
-          <span class="searchbar-button">{{ i18n "Asian" }}🌏</span>
+          <input class="searchbar-checkbox js-region" type="checkbox" id="asian" value='{{ i18n "asian" }}'>
+          <span class="searchbar-button">{{ i18n "asian" }}🌏</span>
         </label>
         <label for="spanish">
           <input class="searchbar-checkbox js-origin" type="checkbox" id="spanish" value="spanish">
@@ -220,7 +220,7 @@
             <div class="list-body">
               <span class="list-category category">{{ i18n .Params.category }}</span>
               {{ range .Params.categories }}{{ i18n . }}{{ end }}
-              <span class="list-origin origin" title="{{ i18n .Params.origin | strings.FirstUpper }}" search="{{ i18n .Params.origin }}">{{ .Params.flag }}</span>
+              <span class="list-origin origin" title="{{ i18n .Params.origin | strings.FirstUpper }}" search="{{ .Params.origin }}">{{ .Params.flag }}</span>
               {{ range .Params.origins }}{{ i18n . }}{{ end }}
               {{ if .Params.rank }}
               <span class="list-rank rank {{ .Params.rank }}" title="{{ .Params.rank }}" search="{{ .Params.rank }}">{{ .Params.rank }}</span>

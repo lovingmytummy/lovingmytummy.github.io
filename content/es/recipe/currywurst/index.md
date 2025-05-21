@@ -1,3 +1,15 @@
+---
+title: Currywurst
+ref: currywurst
+image: true
+time: 30
+category: brunch
+rank: A
+origin: german
+flag: 🇩🇪
+tags:
+  - meat
+  - spicy
 ingredients:
   - name: salchichas alemanas (Brühwurst o Bratwurst)
     amount: 2

@@ -48,11 +48,11 @@
   translation: Aprobada
 - id: Unacceptable, failed
   translation: Suspensa
-- id: Mediterranean
+- id: mediterranean
   translation: Mediterránea
-- id: Latin-American
+- id: latin-american
   translation: Latinoamericana
-- id: Asian
+- id: asian
   translation: Asiática
 - id: spanish
   translation: España
@@ -122,8 +122,6 @@
   translation: helado🍦
 - id: banana
   translation: plátano🍌
-- id: asian
-  translation: asia🌏
 - id: potatoes
   translation: patatas🥔
 - id: sausages
@@ -314,8 +312,6 @@
   translation: Galicia
 - id: italian-American
   translation: Italo-Americano🌎
-- id: mediterranean
-  translation: Mediterranean🌍
 - id: Andalusian
   translation: Andalucía
 - id: seville
