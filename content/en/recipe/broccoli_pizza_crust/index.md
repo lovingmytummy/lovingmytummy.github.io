@@ -48,18 +48,17 @@ This recipe is similar to [**Cauliflower pizza crust**]({{< relref "recipe/cauli
 1. **Preheat the oven:**
 Set the oven to 220°C (425°F). Line a baking sheet with parchment paper or lightly grease it with oil.
 
-1. **Prepare the broccoli:**
+2. **Prepare the broccoli:**
 Steam the chopped broccoli (including stems if using) until tender. Pulse it in a food processor until finely grated. Transfer the grated broccoli to a cheesecloth or clean kitchen towel and squeeze out as much water as possible to ensure a dry mixture.
 
-1. **Make the dough:**
+3. **Make the dough:**
 In a bowl, mix the grated broccoli, egg, 2 tbsp mozzarella cheese, Parmesan cheese, Italian seasoning, garlic powder, salt, and pepper. Combine thoroughly until a dough-like consistency forms.
 
-1. **Shape the crust:**
+4. **Shape the crust:**
 Place the broccoli mixture onto the prepared baking sheet. Shape it into a round pizza crust about 1.25 cm thick. 
 
-1. **Bake the crust:**
+5. **Bake the crust:**
 Bake in the preheated oven for 10-12 minutes or until golden brown.
-
 
 6. **Add toppings:**
 Remove the crust from the oven and spread the pizza sauce evenly on top. Sprinkle with the remaining mozzarella cheese, then add your favorite toppings (sliced cherry tomatoes, mushrooms,...).
