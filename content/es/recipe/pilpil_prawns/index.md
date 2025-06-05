@@ -50,4 +50,6 @@ side_image: ./images/aigen.jpeg
 
 _Adaptación de [Pequerecetas](https://www.pequerecetas.com/receta/gambas-al-pil-pil/)._
 
+_Alternativa: [Instagram @gills_bakesandcakes](https://www.instagram.com/reel/Cg6ripylt5k/?utm_source=ig_web_copy_link&igsh=cjJoZHQ0NzQwemNl)._
+
 <img src="images/pilpil_prawns.jpg" style="width:250px; float:right;"/>
