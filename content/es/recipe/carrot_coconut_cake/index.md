@@ -1,5 +1,5 @@
 ---
-title: Pastel de zanahoria y coco
+title: Tarta de zanahoria y coco
 ref: carrot-coconut-cake
 image: true
 time: 40
@@ -42,7 +42,7 @@ side_image: ./images/aigen.jpg
 3. Pela y ralla las zanahorias, luego agrégalas a la mezcla, removiendo con una cuchara.
 4. Mezcla la harina con la levadura en polvo y, con movimientos suaves y envolventes, incorpóralas a la mezcla.
 5. Vierte la mezcla en el molde preparado y hornea a 180°C (350°F) durante unos 30 minutos, o hasta que un palillo insertado en el centro salga limpio. Retira del horno y deja enfriar.
-6. Una vez enfriado, saca el pastel de zanahoria y coco del molde. Usa el bolígrafo decorador para agregar tus diseños preferidos y adorna con algunas hojas de menta.
+6. Una vez enfriado, saca la tarta de zanahoria y coco del molde. Usa el bolígrafo decorador para agregar tus diseños preferidos y adorna con algunas hojas de menta.
 
 ---
 
