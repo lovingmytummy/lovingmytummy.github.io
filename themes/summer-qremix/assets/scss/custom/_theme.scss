@@ -183,6 +183,16 @@
         content: counter(steps);
         counter-increment: steps;
       }
+
+          // ✅ sublistas dentro de un li de ol
+      ul {
+        list-style: disc;
+        padding-left: 2rem;
+
+        li::before {
+          content: none !important; // <-- elimina el numerador heredado
+        }
+      }
     }
   }
 

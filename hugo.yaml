@@ -23,6 +23,8 @@ params:
   favicon_image: favicon.png
 markup:
   goldmark:
+    parser:
+      autoHeadingID: true
     renderer:
       unsafe: true
 defaultContentLanguage: es
