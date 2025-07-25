@@ -1,6 +1,7 @@
 ---
 title: Stir-fried French beans with dry chili (Gān Biān Dòu Jiǎo)
 ref: stir-fried-french-beans
+image: true
 time: 25
 category: snacks
 rank: A

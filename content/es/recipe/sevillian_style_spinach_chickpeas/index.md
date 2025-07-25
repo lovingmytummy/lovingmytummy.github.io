@@ -10,7 +10,7 @@ flag: 🇪🇸
 tags:
   - spinach
   - vegan
-  - Seville
+  - seville
   - Andalusian
 ingredients:
   - name: espinacas frescas (o 300 g si usas congeladas)

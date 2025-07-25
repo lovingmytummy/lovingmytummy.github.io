@@ -10,7 +10,7 @@ flag: 🇪🇸
 tags:
   - spinach
   - vegan
-  - Seville
+  - seville
   - Andalusian
 ingredients:
   - name: fresh spinach (or 300 g if using frozen)

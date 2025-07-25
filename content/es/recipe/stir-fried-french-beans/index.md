@@ -1,6 +1,7 @@
 ---
 title: Judías verdes salteadas con chile seco (Gān Biān Dòu Jiǎo)
 ref: stir-fried-french-beans
+image: true
 time: 25
 category: snacks
 rank: A

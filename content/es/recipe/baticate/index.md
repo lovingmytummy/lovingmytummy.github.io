@@ -8,9 +8,9 @@ rank: SSS
 origin: spanish
 flag: 🇪🇸
 tags:
-  - aguacate
-  - vegano
-  - sin-gluten
+  - avocado
+  - vegan
+  - gluten-free
   - Málaga
 ingredients:
   - name: aguacate
