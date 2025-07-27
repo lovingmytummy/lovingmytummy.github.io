@@ -275,11 +275,11 @@
 - id: veal  
   translation: veal🐄
 - id: fruit
-  translation: fruta
+  translation: fruit
 - id: fruits🍒🫐
-  translation: frutas🍒🫐
+  translation: fruits🍒🫐
 - id: fruits🥑🍌🍑🍓
-  translation: frutas🥑🍌🍑🍓
+  translation: fruits🥑🍌🍑🍓
 - id: pasta
   translation: pasta🍝
 - id: bell pepper
@@ -322,3 +322,5 @@
   translation: Ceuta
 - id: chia 
   translation: chia🌾
+- id: yogurt
+  translation: yogurt🥛
