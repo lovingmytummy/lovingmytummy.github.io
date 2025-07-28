@@ -15,17 +15,17 @@ tags:
 ingredients:
   - name: tortitas de arroz inflado
     amount: 4-5
-    unit: unidades
+    unit: null
   - name: yogur griego light
     amount: 250
     unit: g
   - name: queso de untar light
     amount: 150
     unit: g
-  - name: proteína en polvo (sabor a elegir, ej. chocolate blanco)
+  - name: proteína en polvo (opcional, sabor a elegir, ej. chocolate blanco)
     amount: 1
-    unit: scoop
-  - name: fruta a elegir (fresas, arándanos, plátano, etc.)
+    unit: cucharada
+  - name: frutas a elegir (fresas, arándanos, plátano, etc.)
     amount: al gusto
     unit: null
   - name: chorrito de leche o bebida vegetal (opcional, para la base)
