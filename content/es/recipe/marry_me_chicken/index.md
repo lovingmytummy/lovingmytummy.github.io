@@ -14,7 +14,7 @@ tags:
 ingredients:
   - name: muslos de pollo sin hueso y sin piel (o pechugas)
     amount: 4
-    unit: unidades
+    unit: null
   - name: aceite de oliva virgen extra
     amount: 1
     unit: cucharada
@@ -26,10 +26,10 @@ ingredients:
     unit: null
   - name: cebolla pequeña picada finamente
     amount: 1
-    unit: unidad
+    unit: null
   - name: dientes de ajo picados
     amount: 2
-    unit: unidades
+    unit: null
   - name: tomates secos en aceite (escurridos y picados)
     amount: 100
     unit: g
