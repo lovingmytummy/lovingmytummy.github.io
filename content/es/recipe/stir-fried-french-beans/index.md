@@ -20,13 +20,13 @@ ingredients:
     unit: cucharadas
   - name: dientes de ajo (picados finamente)
     amount: 4
-    unit:
+    unit: null
   - name: jengibre fresco (picado finamente)
     amount: 2
     unit: cm
   - name: chiles rojos secos enteros
     amount: 10
-    unit:
+    unit: null
   - name: granos de pimienta de Sichuan (opcional)
     amount: 1
     unit: cucharadita
