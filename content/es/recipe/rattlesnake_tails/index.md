@@ -12,15 +12,15 @@ tags:
   - BBQ
   - spicy
 ingredients:
-  - name: perritos calientes (picantes)
+  - name: salchichas (picantes)
     amount: 16
-    unit: unidades
+    unit: null
   - name: mostaza (como aglutinante)
-    amount: null
-    unit: al gusto
+    amount: al gusto
+    unit: null
   - name: salsa barbacoa de azúcar moreno y nogal americano
-    amount: null
-    unit: al gusto
+    amount: al gusto
+    unit: null
   - name: pimentón ahumado
     amount: 1
     unit: cucharada
