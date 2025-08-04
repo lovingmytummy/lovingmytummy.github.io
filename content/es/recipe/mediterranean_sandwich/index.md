@@ -1,5 +1,5 @@
 ---
-title: Sándwich mediterráneo
+title: Bocadillo mediterráneo
 ref: mediterranean-sandwich
 image: true
 time: 2

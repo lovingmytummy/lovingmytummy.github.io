@@ -18,7 +18,7 @@
     {{ if .Params.title }} {{ .Params.title }} · {{ .Site.Title }} {{ else }} {{ .Site.Title }} · {{ i18n "tagline" }} {{ end }}
   </title>
 
-  {{ $style := resources.Get "scss/styles.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+  {{ $style := resources.Get "scss/styles.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
 
 
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
