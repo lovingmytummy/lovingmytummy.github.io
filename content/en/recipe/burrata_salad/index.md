@@ -14,27 +14,27 @@ tags:
 ingredients:
   - name: ripe tomatoes (e.g., vine-ripened or large salad tomatoes)
     amount: 2-3
-    unit: units
+    unit: null
   - name: fresh burrata cheese
     amount: 1
     unit: large ball (approx. 250g)
   - name: anchovy fillets in olive oil (drained)
     amount: 10-12
-    unit: units
+    unit: null
   - name: Extra Virgin Olive Oil (EVOO)
     amount: 3-4
     unit: tbsp
   - name: flaky sea salt or Maldon salt
-    amount: to taste
+    amount: null
     unit: null
   - name: fresh basil leaves
     amount: a handful
     unit: null
   - name: dried oregano (optional)
-    amount: to taste
+    amount: null
     unit: null
   - name: freshly ground black pepper (optional)
-    amount: to taste
+    amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---

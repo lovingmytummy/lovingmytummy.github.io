@@ -15,7 +15,7 @@ tags:
 ingredients:
   - name: puffed rice cakes
     amount: 4-5
-    unit: units
+    unit: null
   - name: light Greek yogurt
     amount: 250
     unit: g
@@ -26,10 +26,10 @@ ingredients:
     amount: 1
     unit: scoop
   - name: fruit of your choice (strawberries, blueberries, banana, etc.)
-    amount: to taste
+    amount: null
     unit: null
   - name: splash of milk or plant-based drink (optional, for the base)
-    amount: to taste
+    amount: null
     unit: null
 side_image: ./images/aigen.jpg  
 ---

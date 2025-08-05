@@ -23,7 +23,7 @@ ingredients:
   - name: garlic cloves (minced)
     amount: 3-4
     unit: null
-  - name: salt (to taste)
+  - name: salt
     amount: null
     unit: null
   - name: fresh parsley chopped (optional)

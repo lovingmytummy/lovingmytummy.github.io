@@ -13,7 +13,7 @@
 
     <header class="content hero">
       <a id="{{ .Params.title | urlize }}"><h1 class="hero-title">{{ i18n "tagline" }}</h1></a>
-      <h2 class="hero-title" style="font-size:1rem;">{{ len (where .Site.RegularPages "Section" "=" "recipe") }} recipes</h2>
+      <h2 class="hero-title" style="font-size:1rem;">{{ len (where .Site.RegularPages "Section" "=" "recipe") }} {{ i18n "recipes" }}</h2>
     </header>
   </div>
 

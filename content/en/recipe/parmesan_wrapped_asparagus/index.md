@@ -31,7 +31,7 @@ ingredients:
     amount: null
     unit: null
   - name: freshly ground black pepper
-    amount: to taste
+    amount: null
     unit: null
 side_image: ./images/aigen.jpg
 ---

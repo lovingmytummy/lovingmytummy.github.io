@@ -33,7 +33,7 @@ ingredients:
   - name: olive oil (for frying)
     amount: null
     unit: null
-  - name: salt (to taste)
+  - name: salt
     amount: null
     unit: null
 side_image: ./images/aigen.jpeg

@@ -31,7 +31,7 @@ ingredients:
     unit: null
   - name: ground cinnamon
     amount: null
-    unit: to taste
+    unit: null
 side_image: ./images/aigen.jpeg
 ---
 

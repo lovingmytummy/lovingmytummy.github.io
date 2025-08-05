@@ -14,13 +14,13 @@ tags:
 ingredients:
   - name: hot dogs (spicy)
     amount: 16
-    unit: units
+    unit: null
   - name: mustard (as binder)
     amount: null
-    unit: to taste
+    unit: null
   - name: Hickory Brown Sugar BBQ Sauce
     amount: null
-    unit: to taste
+    unit: null
   - name: smoked paprika
     amount: 1
     unit: tbsp

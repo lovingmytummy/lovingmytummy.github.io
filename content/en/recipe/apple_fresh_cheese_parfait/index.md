@@ -14,7 +14,7 @@ tags:
 ingredients:
   - name: green apples
     amount: 4
-    unit: units
+    unit: null
   - name: butter
     amount: 15
     unit: g

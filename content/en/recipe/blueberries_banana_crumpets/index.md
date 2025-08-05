@@ -18,7 +18,7 @@ ingredients:
   - name: flour (all-purpose)
     amount: 250
     unit: g
-  - name: blueberries (to taste)
+  - name: blueberries
     amount: null
     unit: null
   - name: baking powder

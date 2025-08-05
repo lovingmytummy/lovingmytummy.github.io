@@ -25,7 +25,7 @@ ingredients:
     amount: 0.5
     unit: l
   - name: sugar
-    amount: to taste
+    amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---

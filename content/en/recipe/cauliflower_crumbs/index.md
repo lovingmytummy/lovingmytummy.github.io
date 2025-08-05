@@ -20,7 +20,7 @@ ingredients:
   - name: egg
     amount: 1
     unit: null
-  - name: salt (to taste)
+  - name: salt
     amount: null
     unit: null  
   - name: garlic clove (optional)

@@ -14,22 +14,22 @@ tags:
 ingredients:
   - name: boneless, skinless chicken thighs (or breasts)
     amount: 4
-    unit: units
+    unit: null
   - name: extra virgin olive oil
     amount: 1
     unit: tbsp
   - name: salt
-    amount: to taste
+    amount: null
     unit: null
   - name: freshly ground black pepper
-    amount: to taste
+    amount: null
     unit: null
   - name: small onion (finely chopped)
     amount: 1
     unit: unit
   - name: garlic cloves (minced)
     amount: 2
-    unit: units
+    unit: null
   - name: sun-dried tomatoes in oil (drained and chopped)
     amount: 100
     unit: g

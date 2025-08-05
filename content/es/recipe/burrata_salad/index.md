@@ -25,16 +25,16 @@ ingredients:
     amount: 3-4
     unit: cucharadas
   - name: sal marina en escamas o sal Maldon
-    amount: to taste
+    amount: null
     unit: null
   - name: hojas de albahaca fresca
     amount: a handful
     unit: null
   - name: orégano seco (opcional)
-    amount: to taste
+    amount: null
     unit: null
   - name: pimienta negra recién molida (opcional)
-    amount: to taste
+    amount: null
     unit: null
 side_image: ./images/aigen.jpeg
 ---
