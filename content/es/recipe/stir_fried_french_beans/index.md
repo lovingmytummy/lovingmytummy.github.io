@@ -81,4 +81,4 @@ side_image: ./images/aigen.png
 
 _Adaptado de [M&L Szechuan Chinese @Dublín, Irlanda](https://mlchineserestaurant.com/)._
 
-<img src="images/stir-fried-french-beans.png" style="width:250px; float:right;"/>
+<img src="images/stir_fried_french_beans.png" style="width:250px; float:right;"/>
