@@ -334,3 +334,7 @@
   translation: recetas
 - id: toast
   translation: tostada🍞
+- id: gnocchi
+  translation: ñoquis🍝
+- id: churros
+  translation: churros🍩
