@@ -4,7 +4,7 @@ ref: carrot-cookie-cake
 image: true  
 time: 35  
 category: snacks  
-rank: A
+rank: SSS
 origin: Spanish  
 flag: 🇪🇸
 tags:
