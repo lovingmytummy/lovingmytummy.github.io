@@ -5,14 +5,14 @@ image: true
 time: 40
 category: main
 rank: C
-origin: germany
+origin: german
 flag: 🇩🇪
 tags:
   - pasta
   - cheese
   - onion
   - egg
-  - spatzle
+  - spätzle
 ingredients:
   - name: harina de trigo
     amount: 125
