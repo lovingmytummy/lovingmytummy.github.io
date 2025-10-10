@@ -4,7 +4,7 @@ ref: apple-cake-compote
 image: true
 time: 20
 category: dessert
-rank: C
+rank: D
 origin: spanish
 flag: 🇪🇸
 tags:
