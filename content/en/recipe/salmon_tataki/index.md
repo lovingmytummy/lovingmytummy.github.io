@@ -49,3 +49,5 @@ For 2 servings.
 6.  **Slice and Serve:** Remove the salmon from the pan and let it rest for a couple of minutes. Using a very sharp knife, slice the loin into pieces about **0.5 to 1 cm** thick. Arrange the slices on a plate and sprinkle with chopped **chives**.
 
 ---
+
+<img src="images/salmon_tataki.png" style="width:250px; float:right;"/>

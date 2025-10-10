@@ -49,3 +49,5 @@ Para 2 raciones.
 6.  **Cortar y Servir:** Retira el salmón de la sartén y déjalo reposar un par de minutos. Con un cuchillo muy afilado, corta el lomo en láminas de **0.5 a 1 cm** de grosor. Coloca las láminas en un plato y espolvorea con **cebollino picado**.
 
 ---
+
+<img src="images/salmon_tataki.png" style="width:250px; float:right;"/>
