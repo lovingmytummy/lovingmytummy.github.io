@@ -48,7 +48,7 @@ ingredients:
 side_image: ./images/aigen.jpeg
 ---
 
-Para preparar el bol de arroz, sigue la receta de [Gohan](recipe/gohan-rice/).
+Para preparar el bol de arroz, sigue la receta de [Gohan](../gohan_rice).
 
 ## Cómo cocinar
 1. Pica finamente las cebollas.
