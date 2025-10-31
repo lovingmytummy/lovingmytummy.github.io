@@ -48,7 +48,7 @@ ingredients:
 side_image: ./images/aigen.jpeg
 ---
 
-To prepare the rice bowl, follow the [Gohan receipt](../gohan_rice).
+To prepare the rice bowl, follow the [Gohan recipe](../gohan_rice).
 
 ## How to cook
 1. Chop the onions finely.
