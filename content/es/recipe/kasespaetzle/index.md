@@ -3,7 +3,7 @@ title: Käsespätzle
 ref: kasespaetzle
 image: true
 time: 40
-category: main
+category: lunch
 rank: C
 origin: german
 flag: 🇩🇪
