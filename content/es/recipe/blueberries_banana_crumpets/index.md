@@ -33,4 +33,4 @@ side_image: ./images/aigen.jpeg
 
 ---
 
-_De [Instagram @recetassaludables_faciles](https://www.instagram.com/p/C7aMwlQulgb/?utm)_]()_
+_De [Instagram @recetassaludables_faciles](https://www.instagram.com/p/C7aMwlQulgb/?utm)._

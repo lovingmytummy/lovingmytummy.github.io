@@ -14,16 +14,16 @@ tags:
 ingredients:
   - name: huevos
     amount: 4
-    unit: unidades
+    unit:
   - name: espinacas frescas
     amount: 100
     unit: g
   - name: cebolla
     amount: 1
-    unit: unidad
+    unit:
   - name: diente de ajo
     amount: 1
-    unit: unidad
+    unit:
   - name: aceite de oliva
     amount: 2
     unit: cucharadas

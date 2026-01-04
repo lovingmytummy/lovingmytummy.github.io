@@ -14,16 +14,16 @@ tags:
 ingredients:
   - name: eggs
     amount: 4
-    unit: units
+    unit:
   - name: fresh spinach
     amount: 100
     unit: g
   - name: onion
     amount: 1
-    unit: unit
+    unit:
   - name: garlic clove
     amount: 1
-    unit: unit
+    unit:
   - name: olive oil
     amount: 2
     unit: tablespoons
